@@ -1561,21 +1561,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8534089,
-                    50.9523582,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Nom du marqueur",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Vente en vrac<br>- Produits zéro déchet<br>- ESS / Filière locale<br>- Éco-entreprise<br>- Location / Partage<br><br>Description :<br><br><br>📍 Adresse<br><br>📞 Numéro<br><br>📧 Mail<br><br>🌐 Site"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     1.8094819,
                     50.8381533,
                     0
