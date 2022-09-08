@@ -2,7 +2,9 @@
   "name": "carte-EC-annuaire",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://SEVADEC/annuaire-economie-circulaire-test.github.io",
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "@react-leaflet/core": "1.1.1",
     "html-react-parser": "^2.0.0",
     "leaflet": "1.7.1",
@@ -20,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
