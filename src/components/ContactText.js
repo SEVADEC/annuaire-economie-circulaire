@@ -5,7 +5,7 @@ const Contact = () => {
     <div className="contact">
       <span className="text">
         <h2>Contact</h2>
-        Si vous souhaitez être recenser dans notre annuaire :
+        Si vous souhaitez être recensé dans notre annuaire :
         <br />
         <br />
         <span>
