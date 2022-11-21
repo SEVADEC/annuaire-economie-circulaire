@@ -17,7 +17,7 @@ const Contact = () => {
             className="document"
             target="_blank"
             rel="noopener noreferrer"
-            href="https://www.sevadec.fr/wp-content/uploads/2022/07/DOC-A-REMPLIR-Inscription-annuaire-EC-SEVADEC.pdf"
+            href="https://www.sevadec.fr/wp-content/uploads/2022/11/Inscription-annuaire-EC-SEVADEC-VF.pdf"
           >
             <img
               className="download"
@@ -29,7 +29,7 @@ const Contact = () => {
         <br />
         <span>
           Si vous souhaitez apporter une modification ou ne plus faire partie de
-          l'annuaire faites le nous savoir par{" "}
+          l'annuaire, faites-le-nous savoir par{" "}
           <a href="mailto:animation.territoire@sevadec.com">mail</a>.
         </span>
       </span>
