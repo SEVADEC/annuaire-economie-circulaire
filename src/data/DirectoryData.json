@@ -1502,6 +1502,104 @@
                 "name": "Espace Couture",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Couturier.<br><br>📍 69 Bd de l'Égalité, 62100 Calais<br><br>📞 06 52 86 22 17<br><br>📧 -<br><br>🌐 -"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Nom du marqueur",
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Vente en vrac<br>- Produits zéro déchet<br>- Économie sociale et Solidaire<br>- Éco-entreprise<br>- Location / Partage<br><br>Description :<br><br><br>📍 Adresse<br><br>📞 Numéro<br><br>📧 Mail<br><br>🌐 Site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8534089,
+                    50.9523582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "La Timbale - Fabrique Coopérative Calaisienne",
+                "description": "Thème :<br>- Économie sociale et Solidaire<br><br>Description :<br>Bar à bières, à concerts, à expos.<br>Lieu de vie, d'échanges, et de rencontres.<br>Projet.<br><br>📍 10 rue Royale, Calais, France<br><br>📞 -<br><br>📧 bonjour@latimbale.org<br><br>🌐 https://www.facebook.com/LaTimbaleCalais"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8500565,
+                    50.9565766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Made In Calais",
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br>- Économie sociale et Solidaire<br><br>Description :<br>Les savoir-faire des membres de Made in Calais sont multiples : textile, vitrail, papier mâché, sérigraphie, modelage, céramique, peinture, illustration, et s’appliquent à de nombreux domaines comme la décoration, la mode, les accessoires, les bijoux, la puériculture…<br><br>📍 8 Rue des Soupirants, 62100 Calais<br><br>📞 -<br><br>📧 contact@madeincalais.fr<br><br>🌐 madeincalais.fr<br>🌐 https://www.facebook.com/madeincalais"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8531024,
+                    50.948822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "La boutique DÉFI",
+                "description": "Thème :<br>- Économie Social et Solidaire<br><br>Description :<br>Une boutique solidaire à destination de ses bénéficiaires à Calais Cœur de Vie. L’objectif est d’avoir les bons vêtements pour passer un entretien mais aussi la tenue réglementaire pour des contrats courts.<br><br>📍 Cœur de Vie, 8 Bd Jacquard,, 62100 Calais<br><br>📞 03 21 34 15 38<br><br>📧 oroussel@lafabriquedefi-calaisis.fr<br><br>🌐 lafabriquedefi-calaisis.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8560001,
+                    50.9484417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "La Fabrique DÉFI / Mission Locale du Calaisis",
+                "description": "Thème :<br>- ESS / Filière locale<br><br>Description :<br>Promouvoir l’accueil, l’orientation et l’information de tous les jeunes âgés de 16 à 25 ans déscolarisés.<br><br><br>📍 21 Rue Mollien, 62100 Calais<br><br>📞 03 21 34 15 38<br><br>📧 oroussel@lafabriquedefi-calaisis.fr<br><br>🌐 lafabriquedefi-calaisis.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8646897,
+                    50.95605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Espace Couture",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Couturier.<br><br>📍 69 Bd de l'Égalité, 62100 Calais<br><br>📞 06 52 86 22 17<br><br>📧 -<br><br>🌐 -"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8698369,
+                    50.9457626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Flobar",
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br>- Éco-entreprise<br><br>Description :<br>Marque de vêtements et accessoires pour enfants et femmes confectionnés à partir de textiles existants (upcycling), fin de stock, ou bio ou labellisé Oeko-Tex. <br>Production en petites quantités sur commande.<br><br>📍 480 Rue du Moulin, 62162 Vieille-Église<br><br>📞 06 98 75 40 14<br><br>📧 crea.flobar@gmail.com<br><br>🌐 https://flobaretcompagnie.fr/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.075956,
+                    50.92698
+                ]
+            }
         }
     ]
 }
