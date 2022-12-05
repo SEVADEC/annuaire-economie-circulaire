@@ -1121,13 +1121,13 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "Name": "Flobar",
-        "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br>- Éco-entreprise<br><br>Description :<br>Marque de vêtements et accessoires pour enfants et femmes confectionnés à partir de textiles existants (upcycling), fin de stock, ou bio ou labellisé Oeko-Tex. <br>Production en petites quantités sur commande.<br><br>📍 480 Rue du Moulin, 62162 Vieille-Église<br><br>📞 06 98 75 40 14<br><br>📧 crea.flobar@gmail.com<br><br>🌐 https://flobaretcompagnie.fr/"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [2.075956, 50.92698]
+      },
+      "properties": {
+        "name": "Flobar",
+        "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br>- Éco-entreprise<br><br>Description :<br>Marque de vêtements et accessoires pour enfants et femmes confectionnés à partir de textiles existants (upcycling), fin de stock, ou bio ou labellisé Oeko-Tex. <br>Production en petites quantités sur commande.<br><br>📍 480 Rue du Moulin, 62162 Vieille-Église<br><br>📞 06 98 75 40 14<br><br>📧 crea.flobar@gmail.com<br><br>🌐 https://flobaretcompagnie.fr/"
       }
     }
   ]
