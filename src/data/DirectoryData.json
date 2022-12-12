@@ -269,22 +269,7 @@
                 "description": "Thème :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br> A.M.V.P.A.C. Association (loi de 1901) de bénévoles attachés à la sauvegarde et à la mise en valeur du patrimoine architectural et est domiciliée au Musée des Beaux-Arts et de la Dentelle de Calais (rue Richelieu 62100 Calais). Elle travaille à identifier les éléments constitutifs de notre patrimoine et encourage la préservation et la restauration des monuments et objets (édifices, ornements, mobilier,…) . <br><br/><br>📍 25 Rue Richelieu, 62100 Calais<br/><br>📞 06 72 10 16 56<br/><br>📧 contact@amvpac.com<br>🌐 https://www.amvpac.com/wp/"
             }
         },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8417648,
-                    50.9634837,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Citoyennes et Citoyens du Calaisis pour le Climat",
-                "logo": "",
-                "description": "Thème :<br>- Économie Sociale et Solidaire<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Action pour la préservation de l'environnement, pour un territoire plus écologique, solidaire et démocratique.<br><br/><br>📍 Rue du Maréchal de Lattre de Tassigny, 62100 Calais<br/><br>📞 06 31 02 89 51<br/><br>📧 association@calaispourleclimat.fr<br>🌐 https://calaispourleclimat.fr/"
-            }
-        },
+        
         {
             "type": "Feature",
             "geometry": {
