@@ -1515,36 +1515,6 @@
                 "name": "Citoyennes et Citoyens du Calaisis pour le Climat",
                 "description": "Thème :<br>- Économie Sociale et Solidaire<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Action pour la préservation de l'environnement, pour un territoire plus écologique, solidaire et démocratique.<br><br><br>📍115 rue Bossuet 62100 CALAIS<br><br><br>📞 06 31 02 89 51<br><br>📧 association@calaispourleclimat.fr<br>🌐 https://calaispourleclimat.fr/"
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.302666,
-                    51.002305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "_umap_options": {
-                    "showLabel": null,
-                    "iconClass": "Drop",
-                    "iconUrl": "/uploads/pictogram/airport-24_1.png"
-                },
-                "name": "Nom",
-                "description": "Description"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.871452,
-                    50.951722
-                ]
-            }
         }
     ]
 }
