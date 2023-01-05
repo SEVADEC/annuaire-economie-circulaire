@@ -30,7 +30,7 @@
             "properties": {
                 "name": "ADLC",
                 "logo": "",
-                "description": "Thèmes : <br>- Économie Sociale et Solidaire<br>- Gaspillage alimentaire<br><br>Description :<br>Cuisine solidaire territoriale. Dans cette cuisine, les produits alimentaires sont issus de dons de plusieurs structures locales afin de fournir des plats sains et équilibrés, gratuitement, auprès d'associations d'aide alimentaire. La cuisine solidaire assure également la valorisation des biodéchets de plusieurs partenaires locaux grâce à un dispositif de lombricompostage.<br><br/><br>📍 8, rue des soupirants. 62100 Calais<br/><br>📞 03 21 82 76 73<br/><br>📧 adlccalais@free.fr<br>🌐 https://adlccalais.com/"
+                "description": "Thèmes : <br>- Économie Sociale et Solidaire<br>- Gaspillage alimentaire<br><br>Description :<br>Cuisine solidaire territoriale. Dans cette cuisine, les produits alimentaires sont issus de dons de plusieurs structures locales afin de fournir des plats sains et équilibrés, gratuitement, auprès d'associations d'aide alimentaire. La cuisine solidaire assure également la valorisation des biodéchets de plusieurs partenaires locaux grâce à un dispositif de lombricompostage.<br><br/><br>📍 8, rue des soupirants 62100 Calais<br/><br>📞 03 21 82 76 73<br/><br>📧 adlccalais@free.fr<br>🌐 https://adlccalais.com/"
             }
         },
         {
@@ -1514,6 +1514,36 @@
             "properties": {
                 "name": "Citoyennes et Citoyens du Calaisis pour le Climat",
                 "description": "Thème :<br>- Économie Sociale et Solidaire<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Action pour la préservation de l'environnement, pour un territoire plus écologique, solidaire et démocratique.<br><br><br>📍115 rue Bossuet 62100 CALAIS<br><br><br>📞 06 31 02 89 51<br><br>📧 association@calaispourleclimat.fr<br>🌐 https://calaispourleclimat.fr/"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.302666,
+                    51.002305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "showLabel": null,
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/airport-24_1.png"
+                },
+                "name": "Nom",
+                "description": "Description"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.871452,
+                    50.951722
+                ]
             }
         }
     ]
