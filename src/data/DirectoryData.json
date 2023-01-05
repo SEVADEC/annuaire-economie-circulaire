@@ -1515,58 +1515,6 @@
                     0
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "description": "Thèmes :\n- \n\nDescription :\n\n\n📍 Adresse\n\n📞 Numéro\n\n📧 sevadec@wanadoo.fr \n\n🌐 https://www.sevadec.fr/\n",
-                "name": "Nom du Marqueur"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.835403,
-                    50.956048
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.638779,
-                    51.047438
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "osm_id": 8721644852,
-                "country": "France",
-                "city": "Calais",
-                "countrycode": "FR",
-                "postcode": "62100",
-                "county": "Pas-de-Calais",
-                "type": "house",
-                "osm_type": "N",
-                "osm_key": "place",
-                "housenumber": "77",
-                "street": "Rue des Soupirants",
-                "osm_value": "house",
-                "state": "Hauts-de-France",
-                "name": "Test",
-                "description": "Test"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.847809,
-                    50.948936
-                ]
-            }
         }
     ]
 }
