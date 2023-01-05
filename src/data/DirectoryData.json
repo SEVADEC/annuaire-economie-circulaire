@@ -36,7 +36,7 @@
             "properties": {
                 "name": "Brokepoque",
                 "logo": "",
-                "description": "Thèmes : <br>- Réemploi / Réparation<br><br>Description :<br>Brocanteur. Vente en ligne d'objets anciens, antiquités, brocante. Envoi réalisé uniquement avec des emballages de récupération.<br><br><br>📍 30 Rue du Capitaine de Frégate Marcel Bourgine, 62100 Calais<br><br>📞 06 65 50 96 69<br><br>📧 brokepoque@gmail.com<br>🌐 https://brokepoque.com"
+                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description :<br>Brocanteur. Vente en ligne d'objets anciens, antiquités, brocante. Envoi réalisé uniquement avec des emballages de récupération.<br><br><br>📍 30 Rue du Capitaine de Frégate Marcel Bourgine, 62100 Calais<br><br>📞 06 65 50 96 69<br><br>📧 brokepoque@gmail.com<br>🌐 https://brokepoque.com"
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +171,7 @@
             "properties": {
                 "name": "Cap Energie",
                 "logo": "",
-                "description": "Thème :<br>- Recyclage<br>- Éco-entreprise<br><br>Description :<br>Conditionnement, prestation de service externalisée, contrôle qualité, recyclage, fabrication de palettes, ménage, plasturgie, entretien des espaces verts.<br><br><br>📍 203 Rue Louis Breguet, 62100 Calais<br><br>📞 03 22 31 58 90<br><br>📧 contact@cap-energie.fr<br>🌐 www.cap-energie.fr"
+                "description": "Thèmes :<br>- Recyclage<br>- Éco-entreprise<br><br>Description :<br>Conditionnement, prestation de service externalisée, contrôle qualité, recyclage, fabrication de palettes, ménage, plasturgie, entretien des espaces verts.<br><br><br>📍 203 Rue Louis Breguet, 62100 Calais<br><br>📞 03 22 31 58 90<br><br>📧 contact@cap-energie.fr<br>🌐 www.cap-energie.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -1461,7 +1461,7 @@
             "properties": {
                 "name": "Citoyennes et Citoyens du Calaisis pour le Climat",
                 "logo": "",
-                "description": "Thème :<br>- Économie Sociale et Solidaire<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Action pour la préservation de l'environnement, pour un territoire plus écologique, solidaire et démocratique.<br><br><br>📍115 rue Bossuet 62100 CALAIS<br><br><br>📞 06 31 02 89 51<br><br>📧 association@calaispourleclimat.fr<br>🌐 https://calaispourleclimat.fr/"
+                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Action pour la préservation de l'environnement, pour un territoire plus écologique, solidaire et démocratique.<br><br><br>📍115 rue Bossuet 62100 CALAIS<br><br><br>📞 06 31 02 89 51<br><br>📧 association@calaispourleclimat.fr<br>🌐 https://calaispourleclimat.fr/"
             },
             "geometry": {
                 "type": "Point",
