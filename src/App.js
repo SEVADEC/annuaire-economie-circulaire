@@ -13,7 +13,7 @@ import AllCategory from "./data/AllCategory.json";
 import Territory from "./data/Territory.json";
 
 const data = Directory.features;
-const update = Directory.update:
+const update = Directory.update;
 const radios = AllCategory.name;
 
 const fillOptions = { fillColor: "blue" };
