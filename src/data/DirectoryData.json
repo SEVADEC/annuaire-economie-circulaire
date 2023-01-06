@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "06/01/2023 14:06:15",
+    "update": "06/01/2023 14:09:14",
     "features": [
         {
             "type": "Feature",
@@ -1492,7 +1492,7 @@
             "properties": {
                 "name": "METRO Calais",
                 "logo": "",
-                "description": "Thème :<br>- Lutte contre le gaspillage alimentaire<br><br>Description :<br>METRO s'engage avec les Restos du Cœur pour lutter contre le gaspillage alimentaire. Dans ce cadre, l'association collecte les denrées alimentaires non-vendues auprès des entrepôts de METRO, qui représentent une source d'approvisionnement importante sur le plan local<br><br>📍 ZAC Marcel-Doret, Rue Louis Breguet, 62100 Calais<br><br>📞 03 825 09 09 09<br><br>📧 service.clients@metro.fr<br>🌐 www.metro.fr"
+                "description": "Thème :<br>- Lutte contre le gaspillage alimentaire<br><br>Description :<br>Grossiste alimentaire et matériel.<br>METRO s'engage avec les Restos du Cœur pour lutter contre le gaspillage alimentaire. Dans ce cadre, l'association collecte les denrées alimentaires non-vendues auprès des entrepôts de METRO, qui représentent une source d'approvisionnement importante sur le plan local<br><br>📍 ZAC Marcel-Doret, Rue Louis Breguet, 62100 Calais<br><br>📞 03 825 09 09 09<br><br>📧 service.clients@metro.fr<br>🌐 www.metro.fr"
             },
             "geometry": {
                 "type": "Point",
