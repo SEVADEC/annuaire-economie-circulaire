@@ -13,6 +13,7 @@ import AllCategory from "./data/AllCategory.json";
 import Territory from "./data/Territory.json";
 
 const data = Directory.features;
+const update = Directory.update:
 const radios = AllCategory.name;
 
 const fillOptions = { fillColor: "blue" };
@@ -116,7 +117,7 @@ function App() {
           scrollWheelZoom={true}
         >
           <TileLayer
-            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://www.sevadec.fr/">SEVADEC</a> {Directory.update}'
+            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://www.sevadec.fr/">SEVADEC</a> {update}'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
           <Polygon pathOptions={fillOptions} positions={territoryPosition} />
