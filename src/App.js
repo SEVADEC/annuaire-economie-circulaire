@@ -117,7 +117,7 @@ function App() {
           scrollWheelZoom={true}
         >
           <TileLayer
-            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://www.sevadec.fr/">SEVADEC</a> ' + update
+            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://www.sevadec.fr/">SEVADEC</a> {() => update}'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
           <Polygon pathOptions={fillOptions} positions={territoryPosition} />
