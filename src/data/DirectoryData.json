@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "06/01/2023 11:19:27",
+    "update": "06/01/2023 14:02:58",
     "features": [
         {
             "type": "Feature",
@@ -1469,6 +1469,81 @@
                 "coordinates": [
                     1.873034,
                     50.95272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIA FOURNITURES INDUSTRIELLES",
+                "logo": "",
+                "description": "Thèmes :<br>- Recyclage<br>- Réemploi / Réparation<br><br>Description :<br>Bia fournitures, une entreprise basée à Calais spécialisé dans la vente d'équipements de protection individuelle, a déposé la marque Takapas qui recycle les chaussures de sécurité usagées toutes marques et tous modèles confondus (coquilles et semelles acier et/ou composite) - non-souillées.<br><br>📍 3 Rue Louis Breguet, ZAC Marcel Doret - BP 55, 62101 Calais<br><br>📞 03 3 21 19 61 00<br><br>📧 info@bia-france.fr<br>🌐 www.bia-france.fr<br>🌐https://www.facebook.com/profile.php?id=100065229561566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9114887,
+                    50.9537353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METRO Calais",
+                "logo": "",
+                "description": "Thèmes :<br>- Lutte contre le gaspillage alimentaire<br>- Réemploi / Réparation<br><br>Description :<br>METRO s'engage avec les Restos du Cœur pour lutter contre le gaspillage alimentaire. Dans ce cadre, l'association collecte les denrées alimentaires non-vendues auprès des entrepôts de METRO, qui représentent une source d'approvisionnement importante sur le plan local<br><br>📍 ZAC Marcel-Doret, Rue Louis Breguet, 62100 Calais<br><br>📞 03 825 09 09 09<br><br>📧 service.clients@metro.fr<br>🌐 www.metro.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9125699,
+                    50.952919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gourmi",
+                "logo": "",
+                "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>Produits locaux et dans une démarche durable, dans toute la mesure du possible.<br><br>📍 26 ter, D940, 62231 Blériot Plage<br><br>📞 03 6 27 09 76 62<br><br>📧 https://www.gourmi.fr/index.php/contact/<br>🌐 gourmi.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8265634,
+                    50.9589351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BradOcaz",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>vide grenier permanant<br><br>📍 54 Quai Gustave Lamarle, 62100 Calais<br><br>📞 03 9 86 07 80 77<br><br>📧 bradocaz@yahoo.com<br>🌐 https://www.facebook.com/BradOcaz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8704653,
+                    50.9364309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Secours Populaire",
+                "logo": "",
+                "description": "Thèmes :<br>- Économie sociale et Solidaire<br>- Réemploi / Réparation<br><br>Description :<br>Le Secours Populaire est une association française à but non lucratif qui vise à lutter contre la pauvreté et l'exclusion en France et à l'étranger. Le Secours Populaire mène des actions dans les domaines de l'aide alimentaire, de l'hébergement et de l'accès au logement, de l'accès aux soins de santé, de la lutte contre l'isolement et l'exclusion sociale, de l'éducation et de la formation, du sport et du loisir, de la solidarité internationale et de l'aide humanitaire d'urgence. L'association s'appuie sur le bénévolat et sur les dons pour mener ses activités et a pour objectif de susciter l'engagement de chacun en faveur de la solidarité et de la citoyenneté.<br><br>📍 269 Rte de Saint-Omer, 62100 Calais<br><br>📞 03 21 96 37 43<br><br>📧 https://www.secourspopulaire.fr/nous-contacter<br>🌐 www.secourspopulaire.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8818008,
+                    50.9384633
                 ]
             }
         }
