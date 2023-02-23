@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "10/02/2023, 11:39:55",
+    "update": "23/02/2023, 16:35:23",
     "features": [
         {
             "type": "Feature",
@@ -147,8 +147,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8534196,
-                    50.9524602
+                    1.8533854,
+                    50.9524222
                 ]
             }
         },
@@ -1132,7 +1132,7 @@
             "properties": {
                 "name": "Vrac'Opale",
                 "logo": "",
-                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Épicerie bio.<br><br>📍 58 Rue Royale, 62100 Calais<br><br>📞 03 21 00 05 42<br><br>📧 vrac.opale@orange.fr<br><br>🌐 www.facebook.com"
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Épicerie bio.<br><br>📍 58 Rue Royale, 62100 Calais<br><br>📞 03 21 00 05 42<br><br>📧 vrac.opale@orange.fr<br><br>🌐 https://www.facebook.com/VracOpale"
             },
             "geometry": {
                 "type": "Point",
@@ -1559,6 +1559,36 @@
                 "coordinates": [
                     1.8608941,
                     50.9284409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOCOLOCO",
+                "logo": "",
+                "description": "Thèmes :<br><br>- Réemploi / Réparation<br>- Vente en vrac<br><br>Description :<br>BOCOLOCO est une start-up \"FoodTech\" qui a lancé son activité en 2019. Elle se spécialise dans le réemploi et la consigne des emballages, en utilisant une technologie unique. La qualité de son travail a été reconnue par de nombreux prix. En tant que partenaire proche de CITEO, un éco-organisme et acteur français de la Responsabilité Elargie des Producteurs, BOCOLOCO est au centre de l'écosystème du réemploi en France. Elle collabore avec des associations, des partenaires logistiques, des acteurs du packaging et des entreprises spécialisées dans le lavage industriel.<br><br>📍 -<br><br>📞 -<br><br>📧 contact@bocoloco.fr<br><br>🌐 https://www.bocoloco.fr/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8533548,
+                    50.9524417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fromagerie Phillipe Battel",
+                "logo": "",
+                "description": "Thème :<br><br>- Vente en vrac<br><br>Description :<br>La fromagerie Battel Philippe propose une sélection de fromages de la région et de la France sur les marchés du Nord Pas de Calais. Philippe Battel compose des plateaux de fromages tels que le brie de Meaux fourré aux noix, le saint-nectaire fermier, le craquant des Moëres, le roquefort et le pavé du Nord. Les clients peuvent également choisir des plateaux de mets plus raffinés, tels que le brie aux truffes, le gouda extra-vieux, le comté trente mois d'affinage, etc.<br><br>📍 en livraison jeudi, vendredi <br>    mercredi sur le marché de Wissant <br>    samedi sur le marché de Dunkerque <br><br>📞 06 19 25 71 52<br><br>🌐 https://m.facebook.com/people/La-fromagerie-Battel-Philippe/100063472543436/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8533247,
+                    50.9524255
                 ]
             }
         }
