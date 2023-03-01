@@ -1,13 +1,13 @@
 {
     "type": "FeatureCollection",
-    "update": "23/02/2023, 16:35:23",
+    "update": "01/03/2023, 09:18:50",
     "features": [
         {
             "type": "Feature",
             "properties": {
                 "name": "SEVADEC",
                 "logo": "",
-                "description": "Thèmes : <br>- Recyclage<br>- Éco-entreprise<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Syndicat d'Élimination et de VAlorisation des DÉchets du Calaisis.<br><br><br>📍 Centre administratif, 583 Rue Jacques Monod, 62100 Calais <br><br>📞 03 21 19 58 30<br><br>📧 sevadec@wanadoo.fr<br>🌐 https://www.sevadec.fr/"
+                "description": "<img src=\"https://doc-0s-28-mymaps.googleusercontent.com/untrusted/hostedimage/9l4ijcmk3ecb6qtn6qj44bt02s/bjsi7nk3c21vo5mnp1l6rtubsg/1677658651500/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AI-xGzywoGqOmgK_CCM7qEyAzCgZHQ1ibWLjdaCagqmz7EiFzeTC3YR20QLr3fYstWbcW9H8gdJF_LZLhbRzQYswHEIvVVj0dQhrHLsVMLnnal057cd8d0Rt6atfWzPqPVN5iI5mFCnqN6C1vNoI5_4BTKttWvyUpEP9QVxpPRkLZKw6GCm7rGiLmfAsGQnMFxa76Q?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thèmes : <br>- Recyclage<br>- Éco-entreprise<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Syndicat d'Élimination et de VAlorisation des DÉchets du Calaisis.<br><br><br>📍 Centre administratif, 583 Rue Jacques Monod, 62100 Calais <br><br>📞 03 21 19 58 30<br><br>📧 sevadec@wanadoo.fr<br>🌐 https://www.sevadec.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -1475,21 +1475,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "BIA FOURNITURES INDUSTRIELLES",
-                "logo": "",
-                "description": "Thèmes :<br>- Recyclage<br>- Réemploi / Réparation<br><br>Description :<br>Bia fournitures, une entreprise basée à Calais spécialisé dans la vente d'équipements de protection individuelle, a déposé la marque Takapas qui recycle les chaussures de sécurité usagées toutes marques et tous modèles confondus (coquilles et semelles acier et/ou composite) - non-souillées.<br><br>📍 3 Rue Louis Breguet, ZAC Marcel Doret - BP 55, 62101 Calais<br><br>📞 03 3 21 19 61 00<br><br>📧 info@bia-france.fr<br>🌐 www.bia-france.fr<br>🌐https://www.facebook.com/profile.php?id=100065229561566"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9114887,
-                    50.9537353
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "METRO Calais",
                 "logo": "",
                 "description": "Thème :<br>- Lutte contre le gaspillage alimentaire<br><br>Description :<br>Grossiste alimentaire et matériel.<br>METRO s'engage avec les Restos du Cœur pour lutter contre le gaspillage alimentaire. Dans ce cadre, l'association collecte les denrées alimentaires non-vendues auprès des entrepôts de METRO, qui représentent une source d'approvisionnement importante sur le plan local<br><br>📍 ZAC Marcel-Doret, Rue Louis Breguet, 62100 Calais<br><br>📞 03 825 09 09 09<br><br>📧 service.clients@metro.fr<br>🌐 www.metro.fr"
@@ -1589,6 +1574,21 @@
                 "coordinates": [
                     1.8533247,
                     50.9524255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Takapas",
+                "logo": "",
+                "description": "Thèmes :<br>- Recyclage<br>- Réemploi / Réparation<br><br>Description :<br>Bia fournitures, une entreprise basée à Calais spécialisé dans la vente d'équipements de protection individuelle, a déposé la marque Takapas qui recycle les chaussures de sécurité usagées toutes marques et tous modèles confondus (coquilles et semelles acier et/ou composite) - non-souillées.<br><br>📍 3 Rue Louis Breguet, ZAC Marcel Doret - BP 55, 62101 Calais<br><br>📞 03 21 19 61 07<br><br>📧 info@bia-france.fr<br>🌐 www.bia-france.fr<br>🌐https://www.facebook.com/profile.php?id=100065229561566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9114887,
+                    50.9537353
                 ]
             }
         }
