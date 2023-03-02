@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "01/03/2023, 09:24:22",
+    "update": "02/03/2023, 09:30:59",
     "features": [
         {
             "type": "Feature",
@@ -1582,13 +1582,43 @@
             "properties": {
                 "name": "Takapas",
                 "logo": "",
-                "description": "Thèmes :<br>- Recyclage<br>- Réemploi / Réparation<br><br>Description :<br>Bia fournitures, une entreprise basée à Calais spécialisé dans la vente d'équipements de protection individuelle, a déposé la marque Takapas qui recycle les chaussures de sécurité usagées toutes marques et tous modèles confondus (coquilles et semelles acier et/ou composite) - non-souillées.<br><br>📍 3 Rue Louis Breguet, ZAC Marcel Doret - BP 55, 62101 Calais<br><br>📞 03 21 19 61 07<br><br>📧 info@bia-france.fr<br>🌐 www.bia-france.fr<br>🌐https://www.facebook.com/profile.php?id=100065229561566"
+                "description": "Thèmes :<br><br>- Recyclage<br>- Réemploi / Réparation<br><br>Description :<br>Bia fournitures, une entreprise basée à Calais spécialisé dans la vente d'équipements de protection individuelle, a déposé la marque Takapas qui recycle les chaussures de sécurité usagées toutes marques et tous modèles confondus (coquilles et semelles acier et/ou composite) - non-souillées.<br><br>📍 3 Rue Louis Breguet, ZAC Marcel Doret - BP 55, 62101 Calais<br><br>📞 03 21 19 61 07<br><br>📧 info@bia-france.fr<br>🌐 www.bia-france.fr<br>🌐https://www.facebook.com/profile.php?id=100065229561566"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     1.9114887,
                     50.9537353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Isicold",
+                "logo": "",
+                "description": "Thème :<br><br>- Éco-entreprise<br><br>Description :<br>Isicold fabrique des accumulateurs de froid en utilisant des technologies de pointe. L'entreprise est entièrement française et respecte l'environnement en utilisant des produits neutres, des matières premières recyclables et un gel biodégradable. Chaque action est soigneusement considérée pour créer un impact positif et durable sur l'environnement.<br><br>📍 12 Rue Gustave Courbet, 62100 Calais<br><br>📞 03 21 97 55 10<br><br>📧 contact@isicold.com<br><br>🌐 https://www.isicold.com/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9081447,
+                    50.95007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EPI Pays d'Opale",
+                "logo": "",
+                "description": "Thèmes :<br><br>- Économie Sociale et Solidaire<br>- Vente en vrac<br><br>Description :<br>EPI Pays d'Opale est une épicerie solidaire mixte qui valorise la production locale. Elle offre une alimentation de qualité respectueuse de la liberté de choix et de la dignité humaine avec des produits locaux issus des circuits courts. Les clients \"solidaires\" soutiennent l'épicerie en faisant leurs courses au tarif plein tandis que les clients \"bénéficiaires\" paient en fonction de leur situation financière. Des séances d'animation, d'information et de sensibilisation sont proposées à tous les clients. EPI Pays d'Opale contribue ainsi à l'insertion durable des personnes en situation de difficulté financière grâce à un accompagnement social et des ateliers pédagogiques mensuels portant sur le budget, l'alimentation, le logement, la santé, etc. Elle est également un lieu d'échanges, d'écoute et de partage de savoirs entre tous âges et toutes catégories sociales. L'épicerie est ouverte le lundi de 13H30 à 17H00, le mercredi de 9H00 à 12H00 et le dernier samedi du mois de 9H00 à 12H00.<br><br>📍 7, avenue de la libération, 62340 Guines<br><br>📞 03.21.82.21.82<br><br>📧 virginie-juillien@cc-paysdopale.fr<br><br>🌐 -"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8622377,
+                    50.8661503
                 ]
             }
         }
