@@ -553,7 +553,7 @@ img.searchBar {
 
 }
 
-@media screen and (width < 505px) {
+@media screen and (width < 531px) {
 
   .leaflet-container {
     margin-top: 350px;
@@ -594,7 +594,7 @@ img.logo-category {
 
 } */
 
-@media screen and (width < 454px) {
+@media screen and (width < 505px) {
   .logo {
     margin: 5px auto;
     width: 330px;
