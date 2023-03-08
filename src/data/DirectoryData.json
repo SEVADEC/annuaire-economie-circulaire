@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "08/03/2023 14:24:15",
+    "update": "08/03/2023 14:30:18",
     "features": [
         {
             "type": "Feature",
@@ -1732,7 +1732,7 @@
             "properties": {
                 "name": "Péoux Services",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Péoux services est une entreprise spécialisée dans le dépannage et la réparation d'appareils électroménagers dans la région de Calais. Leur équipe se déplace rapidement chez vous pour réparer ou dépanner vos appareils, afin de prolonger leur durée de vie et réduire votre impact environnemental.<br><br><strong>Labélisé QualiRépar</strong><br><br>📍 49 Boulevard Léon Gambetta, Calais, 62100<br><br>📞 09 81 45 20 14<br><br>📧 dpeoux@gmail.com<br><br>🌐 www.peouxservices.fr"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Péoux services est une entreprise spécialisée dans le dépannage et la réparation d'appareils électroménagers dans la région de Calais. Leur équipe se déplace rapidement chez vous pour réparer ou dépanner vos appareils, afin de prolonger leur durée de vie et réduire votre impact environnemental.<br><br><strong>Labélisé QualiRépar</strong> <img src=\"https://rapport2021.ecosystem.eco/wp-content/uploads/2022/06/qualirepar_noir_rvb1-300x151.png\"<br>width=\"90px\"<br>alt=\"QualiRéparLogo\"><br>📍 49 Boulevard Léon Gambetta, Calais, 62100<br><br>📞 09 81 45 20 14<br><br>📧 dpeoux@gmail.com<br><br>🌐 www.peouxservices.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -1747,7 +1747,7 @@
             "properties": {
                 "name": "Ritaine SAV Dépannage",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Ritaine SAV Dépannage propose des services de dépannage en électroménager et électricité ainsi que la vente de produits reconditionnés dans le triangle Dunkerque, Boulogne-sur-Mer et Saint-Omer. L'entreprise s'engage à offrir des solutions durables et abordables pour répondre aux besoins de ses clients tout en préservant l'environnement.<br><br><strong>Labélisé QualiRépar</strong><br><br>📍 156 rue de la Nostraeten, 62370 Audruicq<br><br>📞 06 08 15 10 82<br><br>📧 ritaine.rsd@gmail.com<br><br>🌐 https://www.ritainesavdepannage.fr/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Ritaine SAV Dépannage propose des services de dépannage en électroménager et électricité ainsi que la vente de produits reconditionnés dans le triangle Dunkerque, Boulogne-sur-Mer et Saint-Omer. L'entreprise s'engage à offrir des solutions durables et abordables pour répondre aux besoins de ses clients tout en préservant l'environnement.<br><br><strong>Labélisé QualiRépar</strong> <img src=\"https://rapport2021.ecosystem.eco/wp-content/uploads/2022/06/qualirepar_noir_rvb1-300x151.png\"<br>width=\"90px\"<br>alt=\"QualiRéparLogo\"><br><br>📍 156 rue de la Nostraeten, 62370 Audruicq<br><br>📞 06 08 15 10 82<br><br>📧 ritaine.rsd@gmail.com<br><br>🌐 https://www.ritainesavdepannage.fr/"
             },
             "geometry": {
                 "type": "Point",
