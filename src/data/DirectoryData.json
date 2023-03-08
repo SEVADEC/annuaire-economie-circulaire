@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "02/03/2023, 09:30:59",
+    "update": "08/03/2023 14:15:31",
     "features": [
         {
             "type": "Feature",
@@ -1552,7 +1552,7 @@
             "properties": {
                 "name": "BOCOLOCO",
                 "logo": "",
-                "description": "Thèmes :<br><br>- Réemploi / Réparation<br>- Vente en vrac<br><br>Description :<br>BOCOLOCO est une start-up \"FoodTech\" qui a lancé son activité en 2019. Elle se spécialise dans le réemploi et la consigne des emballages, en utilisant une technologie unique. La qualité de son travail a été reconnue par de nombreux prix. En tant que partenaire proche de CITEO, un éco-organisme et acteur français de la Responsabilité Elargie des Producteurs, BOCOLOCO est au centre de l'écosystème du réemploi en France. Elle collabore avec des associations, des partenaires logistiques, des acteurs du packaging et des entreprises spécialisées dans le lavage industriel.<br><br>📍 -<br><br>📞 -<br><br>📧 contact@bocoloco.fr<br><br>🌐 https://www.bocoloco.fr/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Vente en vrac<br><br>Description :<br>BOCOLOCO est une start-up \"FoodTech\" qui a lancé son activité en 2019. Elle se spécialise dans le réemploi et la consigne des emballages, en utilisant une technologie unique. La qualité de son travail a été reconnue par de nombreux prix. En tant que partenaire proche de CITEO, un éco-organisme et acteur français de la Responsabilité Elargie des Producteurs, BOCOLOCO est au centre de l'écosystème du réemploi en France. Elle collabore avec des associations, des partenaires logistiques, des acteurs du packaging et des entreprises spécialisées dans le lavage industriel.<br><br>📍 -<br><br>📞 -<br><br>📧 contact@bocoloco.fr<br><br>🌐 https://www.bocoloco.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -1567,7 +1567,7 @@
             "properties": {
                 "name": "Fromagerie Phillipe Battel",
                 "logo": "",
-                "description": "Thème :<br><br>- Vente en vrac<br><br>Description :<br>La fromagerie Battel Philippe propose une sélection de fromages de la région et de la France sur les marchés du Nord Pas de Calais. Philippe Battel compose des plateaux de fromages tels que le brie de Meaux fourré aux noix, le saint-nectaire fermier, le craquant des Moëres, le roquefort et le pavé du Nord. Les clients peuvent également choisir des plateaux de mets plus raffinés, tels que le brie aux truffes, le gouda extra-vieux, le comté trente mois d'affinage, etc.<br><br>📍 en livraison jeudi, vendredi <br>    mercredi sur le marché de Wissant <br>    samedi sur le marché de Dunkerque <br><br>📞 06 19 25 71 52<br><br>🌐 https://m.facebook.com/people/La-fromagerie-Battel-Philippe/100063472543436/"
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>La fromagerie Battel Philippe propose une sélection de fromages de la région et de la France sur les marchés du Nord Pas de Calais. Philippe Battel compose des plateaux de fromages tels que le brie de Meaux fourré aux noix, le saint-nectaire fermier, le craquant des Moëres, le roquefort et le pavé du Nord. Les clients peuvent également choisir des plateaux de mets plus raffinés, tels que le brie aux truffes, le gouda extra-vieux, le comté trente mois d'affinage, etc.<br><br>📍 en livraison jeudi, vendredi <br>    mercredi sur le marché de Wissant <br>    samedi sur le marché de Dunkerque <br><br>📞 06 19 25 71 52<br><br>🌐 https://m.facebook.com/people/La-fromagerie-Battel-Philippe/100063472543436/"
             },
             "geometry": {
                 "type": "Point",
@@ -1582,7 +1582,7 @@
             "properties": {
                 "name": "Takapas",
                 "logo": "",
-                "description": "Thèmes :<br><br>- Recyclage<br>- Réemploi / Réparation<br><br>Description :<br>Bia fournitures, une entreprise basée à Calais spécialisé dans la vente d'équipements de protection individuelle, a déposé la marque Takapas qui recycle les chaussures de sécurité usagées toutes marques et tous modèles confondus (coquilles et semelles acier et/ou composite) - non-souillées.<br><br>📍 3 Rue Louis Breguet, ZAC Marcel Doret - BP 55, 62101 Calais<br><br>📞 03 21 19 61 07<br><br>📧 info@bia-france.fr<br>🌐 www.bia-france.fr<br>🌐https://www.facebook.com/profile.php?id=100065229561566"
+                "description": "Thèmes :<br>- Recyclage<br>- Réemploi / Réparation<br><br>Description :<br>Bia fournitures, une entreprise basée à Calais spécialisé dans la vente d'équipements de protection individuelle, a déposé la marque Takapas qui recycle les chaussures de sécurité usagées toutes marques et tous modèles confondus (coquilles et semelles acier et/ou composite) - non-souillées.<br><br>📍 3 Rue Louis Breguet, ZAC Marcel Doret - BP 55, 62101 Calais<br><br>📞 03 21 19 61 07<br><br>📧 info@bia-france.fr<br>🌐 www.bia-france.fr<br>🌐https://www.facebook.com/profile.php?id=100065229561566"
             },
             "geometry": {
                 "type": "Point",
@@ -1597,7 +1597,7 @@
             "properties": {
                 "name": "Isicold",
                 "logo": "",
-                "description": "Thème :<br><br>- Éco-entreprise<br><br>Description :<br>Isicold fabrique des accumulateurs de froid en utilisant des technologies de pointe. L'entreprise est entièrement française et respecte l'environnement en utilisant des produits neutres, des matières premières recyclables et un gel biodégradable. Chaque action est soigneusement considérée pour créer un impact positif et durable sur l'environnement.<br><br>📍 12 Rue Gustave Courbet, 62100 Calais<br><br>📞 03 21 97 55 10<br><br>📧 contact@isicold.com<br><br>🌐 https://www.isicold.com/"
+                "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>Isicold fabrique des accumulateurs de froid en utilisant des technologies de pointe. L'entreprise est entièrement française et respecte l'environnement en utilisant des produits neutres, des matières premières recyclables et un gel biodégradable. Chaque action est soigneusement considérée pour créer un impact positif et durable sur l'environnement.<br><br>📍 12 Rue Gustave Courbet, 62100 Calais<br><br>📞 03 21 97 55 10<br><br>📧 contact@isicold.com<br><br>🌐 https://www.isicold.com/"
             },
             "geometry": {
                 "type": "Point",
@@ -1612,13 +1612,148 @@
             "properties": {
                 "name": "EPI Pays d'Opale",
                 "logo": "",
-                "description": "Thèmes :<br><br>- Économie Sociale et Solidaire<br>- Vente en vrac<br><br>Description :<br>EPI Pays d'Opale est une épicerie solidaire mixte qui valorise la production locale. Elle offre une alimentation de qualité respectueuse de la liberté de choix et de la dignité humaine avec des produits locaux issus des circuits courts. Les clients \"solidaires\" soutiennent l'épicerie en faisant leurs courses au tarif plein tandis que les clients \"bénéficiaires\" paient en fonction de leur situation financière. Des séances d'animation, d'information et de sensibilisation sont proposées à tous les clients. EPI Pays d'Opale contribue ainsi à l'insertion durable des personnes en situation de difficulté financière grâce à un accompagnement social et des ateliers pédagogiques mensuels portant sur le budget, l'alimentation, le logement, la santé, etc. Elle est également un lieu d'échanges, d'écoute et de partage de savoirs entre tous âges et toutes catégories sociales. L'épicerie est ouverte le lundi de 13H30 à 17H00, le mercredi de 9H00 à 12H00 et le dernier samedi du mois de 9H00 à 12H00.<br><br>📍 7, avenue de la libération, 62340 Guines<br><br>📞 03.21.82.21.82<br><br>📧 virginie-juillien@cc-paysdopale.fr<br><br>🌐 -"
+                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Vente en vrac<br><br>Description :<br>EPI Pays d'Opale est une épicerie solidaire mixte qui valorise la production locale. Elle offre une alimentation de qualité respectueuse de la liberté de choix et de la dignité humaine avec des produits locaux issus des circuits courts. Les clients \"solidaires\" soutiennent l'épicerie en faisant leurs courses au tarif plein tandis que les clients \"bénéficiaires\" paient en fonction de leur situation financière. Des séances d'animation, d'information et de sensibilisation sont proposées à tous les clients. EPI Pays d'Opale contribue ainsi à l'insertion durable des personnes en situation de difficulté financière grâce à un accompagnement social et des ateliers pédagogiques mensuels portant sur le budget, l'alimentation, le logement, la santé, etc. Elle est également un lieu d'échanges, d'écoute et de partage de savoirs entre tous âges et toutes catégories sociales. L'épicerie est ouverte le lundi de 13H30 à 17H00, le mercredi de 9H00 à 12H00 et le dernier samedi du mois de 9H00 à 12H00.<br><br>📍 7, avenue de la libération, 62340 Guines<br><br>📞 03.21.82.21.82<br><br>📧 virginie-juillien@cc-paysdopale.fr<br><br>🌐 -"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     1.8622377,
                     50.8661503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Strawbio ",
+                "logo": "",
+                "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>Strawbio est une entreprise française située à Calais qui produit une paille 100% biodégradable et compostable. Cette solution écologique et durable répond aux besoins des consommateurs soucieux de l'environnement. Avec une fabrication 100% française, Strawbio minimise son empreinte carbone et son impact sur l'environnement à long terme.<br><br>📍 33 rue royale, 62100 Calais<br><br>📞 0637494924<br><br>📧 contact@strawbio.com<br><br>🌐 https://www.strawbio.com/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8492162,
+                    50.9574562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eco marck",
+                "logo": "",
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>L'association Eco-Marck a pour objectif de faire découvrir l'apiculture au plus grand nombre et de démystifier l'image d'un rapport difficile entre l'abeille et les individus. Elle propose un module d'initiation accessible à tous, ainsi que des activités sur un rucher de découverte pour inciter à la création de petits ruchers dans le Pays du Calaisis. L'association accompagne également techniquement ceux qui souhaitent pratiquer l'apiculture à titre personnel. Elle est équipée de 4 ruches Dadant, complètes avec leurs accessoires et des abeilles Buckfast de souche du frère Adam, avérées douces avec un bon potentiel de rendement. <br><br>📍 Zone des Ursulines, Ferme des Aigrettes, Marck<br><br>📞 03 21 17 00 86<br><br>📧 joelbarrau@free.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9270187,
+                    50.9569517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pouxy Mode",
+                "logo": "",
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Pouxy Mode est un dépôt-vente de prêt-à-porter seconde main situé à Balinghem. La boutique propose une large sélection de vêtements, bijoux et accessoires pour tous, dans un esprit de réemploi et d'économie solidaire.<br><br>📍 932 Rue du Fort, Balinghem, France, 62610<br><br>📞 03.21.46.00.00<br><br>📧 creation@littoralhautsdefrance.cci.fr<br><br>🌐 https://www.facebook.com/Pouxymode"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.94753,
+                    50.866834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pain et Partage Calais",
+                "logo": "",
+                "description": "Thème : <br>- Économie Sociale et Solidaire<br><br>Description : <br>Pain et Partage Calais est une boulangerie solidaire bio qui s'est installée à Calais. Elle fournit des produits bio à des collectivités, des établissements médico-sociaux, des acteurs du tourisme et de la culture. Son objectif est de promouvoir l'emploi des demandeurs d'emploi longue durée en leur offrant des postes de chauffeur-livreur et d'aide-boulanger.<br><br>📍 95, Rue des Salines, Enceinte usine Noyon Dentelles, à côté de la salle de sports Maurice Desmet, 62100 Calais<br><br>📞 03 21 85 43 43<br><br>📧 calais@painetpartage.eu<br><br>🌐 https://fournil-papillons.com/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8428711,
+                    50.9510097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Terre d'Opale",
+                "logo": "",
+                "description": "Thème :<br><br>- Économie Sociale et Solidaire<br><br>Description :<br>Terre d'Opale propose des paniers hebdomadaires de produits bio locaux, ainsi qu'une épicerie en ligne, avec un dépôt des produits sur 80 points relais pour se rapprocher des lieux de vie et de travail.<br><br>📍 800 rue du Pont D'Oye, 62162 Vieille-Église<br><br>📞 03 21 34 08 42<br><br>📧 abonnes@angesgardins.fr<br><br>🌐 https://terres-opale-gohelle.cocagnebio.fr/le-jardin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0537473,
+                    50.9329863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Les Anges Gardins",
+                "logo": "",
+                "description": "Thème :<br>- Économie sociale et solidaire<br><br>Description :<br>L'association Les Anges Gardins œuvre pour l'insertion, l'éducation permanente et le développement de nouvelles pratiques sociales en matière d'alimentation. Elle propose des formations sur l'autoproduction vivrière et culinaire ainsi que des chantiers participatifs pour sensibiliser à une consommation responsable. Elle crée également des emplois pour les personnes sans emploi dans les domaines du maraîchage, du conditionnement et de la livraison de fruits et légumes locaux certifiés en agriculture biologique.<br><br>📍 800 Rue du Pont d'Oye - Ecopôle alimentaire de la Région d'Audruicq, Vieille-Église, France, 62162<br><br>📞 03 21 34 08 42<br><br>📧 contact@angesgardins.fr<br><br>🌐 https://horizonalimentaire.fr/angesgardins"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0535756,
+                    50.9329863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zéro Waste Calais",
+                "logo": "",
+                "description": "Thème :<br>- Économie sociale et solidaire<br><br>Description :<br>Antenne locale de l'ONG Zero Waste France, Zero Waste Calais sensibilise sur l'impact des déchets sur l'environnement et la santé, et propose des actions et événements pour aider à réduire les déchets au quotidien.<br><br>📧 zerowastecalais@gmail.com<br><br>🌐 https://www.zerowastefrance.org/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8533558,
+                    50.9524201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Péoux Services",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Péoux services est une entreprise spécialisée dans le dépannage et la réparation d'appareils électroménagers dans la région de Calais. Leur équipe se déplace rapidement chez vous pour réparer ou dépanner vos appareils, afin de prolonger leur durée de vie et réduire votre impact environnemental.<br><br><strong>Labélisé QualiRépar</strong><br><br>📍 49 Boulevard Léon Gambetta, Calais, 62100<br><br>📞 09 81 45 20 14<br><br>📧 dpeoux@gmail.com<br><br>🌐 www.peouxservices.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8491492,
+                    50.9469775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ritaine SAV Dépannage",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Ritaine SAV Dépannage propose des services de dépannage en électroménager et électricité ainsi que la vente de produits reconditionnés dans le triangle Dunkerque, Boulogne-sur-Mer et Saint-Omer. L'entreprise s'engage à offrir des solutions durables et abordables pour répondre aux besoins de ses clients tout en préservant l'environnement.<br><br><strong>Labélisé QualiRépar</strong><br><br>📍 156 rue de la Nostraeten, 62370 Audruicq<br><br>📞 06 08 15 10 82<br><br>📧 ritaine.rsd@gmail.com<br><br>🌐 https://www.ritainesavdepannage.fr/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0712967,
+                    50.8800594
                 ]
             }
         }
