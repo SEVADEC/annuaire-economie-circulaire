@@ -553,7 +553,7 @@ img.searchBar {
 
 }
 
-@media screen and (width < 531px) {
+@media screen and (width < 505px) {
 
   .leaflet-container {
     margin-top: 350px;
