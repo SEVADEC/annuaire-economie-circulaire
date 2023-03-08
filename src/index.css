@@ -556,7 +556,7 @@ img.searchBar {
 @media screen and (width < 531px) {
 
   .leaflet-container {
-    margin-top: 350px;
+    margin-top: 370px;
     width: 98%;
     border-radius: 20px;
     border: thick double #32a1ce;
@@ -578,19 +578,6 @@ img.logo-category {
   width: 20px;
   height: 20px;
 }
-
-}
-
-@media screen and (width < 531px) {
-
-  .leaflet-container {
-    margin-top: 370px;
-    width: 98%;
-    border-radius: 20px;
-    border: thick double #32a1ce;
-    position: absolute !important;
-    z-index: 0;
-  }
 
 }
 
