@@ -463,7 +463,7 @@ img.searchBar {
 
 }
 
-@media screen and (width < 854px) {
+@media screen and (width < 927px) {
 
   .leaflet-container {
     margin-top: 360px;
@@ -581,7 +581,7 @@ img.logo-category {
 
 }
 
-@media screen and (width < 505px) {
+/* @media screen and (width < 531px) {
 
   .leaflet-container {
     margin-top: 370px;
@@ -592,7 +592,7 @@ img.logo-category {
     z-index: 0;
   }
 
-}
+} */
 
 @media screen and (width < 454px) {
   .logo {
