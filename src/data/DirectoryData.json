@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "08/03/2023 14:15:31",
+    "update": "08/03/2023 14:24:15",
     "features": [
         {
             "type": "Feature",
@@ -1357,7 +1357,7 @@
             "properties": {
                 "name": "La Société Anonyme Populaire",
                 "logo": "",
-                "description": "Thème :<br>- Économie sociale et Solidaire<br><br>Description :<br>Association créée en 2015, dont l'objet est de développer des animations écotouristiques sur la Côte d'Opale. La S.A.P. s'inspire des principes de l'éducation populaire et valorise les acteurs de l'économie sociale et solidaire.<br><br>📍 8 Rue des Soupirants, 62100 Calais<br><br>📞 06 12 17 17 79<br><br>📧 sapassoc@gmail.com<br><br>🌐 https://www.facebook.com/La-SAP-1977882805847407"
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Association créée en 2015, dont l'objet est de développer des animations écotouristiques sur la Côte d'Opale. La S.A.P. s'inspire des principes de l'éducation populaire et valorise les acteurs de l'économie sociale et solidaire.<br><br>📍 8 Rue des Soupirants, 62100 Calais<br><br>📞 06 12 17 17 79<br><br>📧 sapassoc@gmail.com<br><br>🌐 https://www.facebook.com/La-SAP-1977882805847407"
             },
             "geometry": {
                 "type": "Point",
@@ -1372,7 +1372,7 @@
             "properties": {
                 "name": "La Timbale - Fabrique Coopérative Calaisienne",
                 "logo": "",
-                "description": "Thème :<br>- Économie sociale et Solidaire<br><br>Description :<br>Bar à bières, à concerts, à expos.<br>Lieu de vie, d'échanges, et de rencontres.<br>Projet.<br><br>📍 10 rue Royale, Calais, France<br><br>📞 -<br><br>📧 bonjour@latimbale.org<br><br>🌐 https://www.facebook.com/LaTimbaleCalais"
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Bar à bières, à concerts, à expos.<br>Lieu de vie, d'échanges, et de rencontres.<br>Projet.<br><br>📍 10 rue Royale, Calais, France<br><br>📞 -<br><br>📧 bonjour@latimbale.org<br><br>🌐 https://www.facebook.com/LaTimbaleCalais"
             },
             "geometry": {
                 "type": "Point",
@@ -1522,7 +1522,7 @@
             "properties": {
                 "name": "Secours Populaire",
                 "logo": "",
-                "description": "Thèmes :<br>- Économie sociale et Solidaire<br>- Réemploi / Réparation<br><br>Description :<br>Le Secours Populaire est une association française à but non lucratif qui vise à lutter contre la pauvreté et l'exclusion en France et à l'étranger. Le Secours Populaire mène des actions dans les domaines de l'aide alimentaire, de l'hébergement et de l'accès au logement, de l'accès aux soins de santé, de la lutte contre l'isolement et l'exclusion sociale, de l'éducation et de la formation, du sport et du loisir, de la solidarité internationale et de l'aide humanitaire d'urgence. L'association s'appuie sur le bénévolat et sur les dons pour mener ses activités et a pour objectif de susciter l'engagement de chacun en faveur de la solidarité et de la citoyenneté.<br><br>📍 269 Rte de Saint-Omer, 62100 Calais<br><br>📞 03 21 96 37 43<br><br>📧 https://www.secourspopulaire.fr/nous-contacter<br>🌐 www.secourspopulaire.fr"
+                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Réemploi / Réparation<br><br>Description :<br>Le Secours Populaire est une association française à but non lucratif qui vise à lutter contre la pauvreté et l'exclusion en France et à l'étranger. Le Secours Populaire mène des actions dans les domaines de l'aide alimentaire, de l'hébergement et de l'accès au logement, de l'accès aux soins de santé, de la lutte contre l'isolement et l'exclusion sociale, de l'éducation et de la formation, du sport et du loisir, de la solidarité internationale et de l'aide humanitaire d'urgence. L'association s'appuie sur le bénévolat et sur les dons pour mener ses activités et a pour objectif de susciter l'engagement de chacun en faveur de la solidarité et de la citoyenneté.<br><br>📍 269 Rte de Saint-Omer, 62100 Calais<br><br>📞 03 21 96 37 43<br><br>📧 https://www.secourspopulaire.fr/nous-contacter<br>🌐 www.secourspopulaire.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -1687,7 +1687,7 @@
             "properties": {
                 "name": "Terre d'Opale",
                 "logo": "",
-                "description": "Thème :<br><br>- Économie Sociale et Solidaire<br><br>Description :<br>Terre d'Opale propose des paniers hebdomadaires de produits bio locaux, ainsi qu'une épicerie en ligne, avec un dépôt des produits sur 80 points relais pour se rapprocher des lieux de vie et de travail.<br><br>📍 800 rue du Pont D'Oye, 62162 Vieille-Église<br><br>📞 03 21 34 08 42<br><br>📧 abonnes@angesgardins.fr<br><br>🌐 https://terres-opale-gohelle.cocagnebio.fr/le-jardin"
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Terre d'Opale propose des paniers hebdomadaires de produits bio locaux, ainsi qu'une épicerie en ligne, avec un dépôt des produits sur 80 points relais pour se rapprocher des lieux de vie et de travail.<br><br>📍 800 rue du Pont D'Oye, 62162 Vieille-Église<br><br>📞 03 21 34 08 42<br><br>📧 abonnes@angesgardins.fr<br><br>🌐 https://terres-opale-gohelle.cocagnebio.fr/le-jardin"
             },
             "geometry": {
                 "type": "Point",
@@ -1702,7 +1702,7 @@
             "properties": {
                 "name": "Les Anges Gardins",
                 "logo": "",
-                "description": "Thème :<br>- Économie sociale et solidaire<br><br>Description :<br>L'association Les Anges Gardins œuvre pour l'insertion, l'éducation permanente et le développement de nouvelles pratiques sociales en matière d'alimentation. Elle propose des formations sur l'autoproduction vivrière et culinaire ainsi que des chantiers participatifs pour sensibiliser à une consommation responsable. Elle crée également des emplois pour les personnes sans emploi dans les domaines du maraîchage, du conditionnement et de la livraison de fruits et légumes locaux certifiés en agriculture biologique.<br><br>📍 800 Rue du Pont d'Oye - Ecopôle alimentaire de la Région d'Audruicq, Vieille-Église, France, 62162<br><br>📞 03 21 34 08 42<br><br>📧 contact@angesgardins.fr<br><br>🌐 https://horizonalimentaire.fr/angesgardins"
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>L'association Les Anges Gardins œuvre pour l'insertion, l'éducation permanente et le développement de nouvelles pratiques sociales en matière d'alimentation. Elle propose des formations sur l'autoproduction vivrière et culinaire ainsi que des chantiers participatifs pour sensibiliser à une consommation responsable. Elle crée également des emplois pour les personnes sans emploi dans les domaines du maraîchage, du conditionnement et de la livraison de fruits et légumes locaux certifiés en agriculture biologique.<br><br>📍 800 Rue du Pont d'Oye - Ecopôle alimentaire de la Région d'Audruicq, Vieille-Église, France, 62162<br><br>📞 03 21 34 08 42<br><br>📧 contact@angesgardins.fr<br><br>🌐 https://horizonalimentaire.fr/angesgardins"
             },
             "geometry": {
                 "type": "Point",
@@ -1717,7 +1717,7 @@
             "properties": {
                 "name": "Zéro Waste Calais",
                 "logo": "",
-                "description": "Thème :<br>- Économie sociale et solidaire<br><br>Description :<br>Antenne locale de l'ONG Zero Waste France, Zero Waste Calais sensibilise sur l'impact des déchets sur l'environnement et la santé, et propose des actions et événements pour aider à réduire les déchets au quotidien.<br><br>📧 zerowastecalais@gmail.com<br><br>🌐 https://www.zerowastefrance.org/"
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Antenne locale de l'ONG Zero Waste France, Zero Waste Calais sensibilise sur l'impact des déchets sur l'environnement et la santé, et propose des actions et événements pour aider à réduire les déchets au quotidien.<br><br>📧 zerowastecalais@gmail.com<br><br>🌐 https://www.zerowastefrance.org/"
             },
             "geometry": {
                 "type": "Point",
