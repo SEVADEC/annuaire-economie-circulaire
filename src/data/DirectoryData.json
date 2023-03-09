@@ -1,13 +1,13 @@
 {
     "type": "FeatureCollection",
-    "update": "09/03/2023, 09:32:51",
+    "update": "09/03/2023, 10:14:28",
     "features": [
         {
             "type": "Feature",
             "properties": {
                 "name": "SEVADEC",
                 "logo": "",
-                "description": "Thèmes : <br>- Recyclage<br>- Éco-entreprise<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Syndicat d'Élimination et de VAlorisation des DÉchets du Calaisis.<br><div style=\"visibility: hidden; margin:0;padding:0\"> Syndicat Élimination Valorisation Déchets Calaisis Gestion Environnement Recyclage Tri Traitement </div><br><br>📍 Centre administratif, 583 Rue Jacques Monod, 62100 Calais <br><br>📞 03 21 19 58 30<br><br>📧 sevadec@wanadoo.fr<br>🌐 https://www.sevadec.fr/"
+                "description": "Thèmes : <br>- Recyclage<br>- Éco-entreprise<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Syndicat d'Élimination et de VAlorisation des DÉchets du Calaisis.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> Syndicat Élimination Valorisation Déchets Calaisis Gestion Environnement Recyclage Tri Traitement </div><br><br>📍 Centre administratif, 583 Rue Jacques Monod, 62100 Calais <br><br>📞 03 21 19 58 30<br><br>📧 sevadec@wanadoo.fr<br>🌐 https://www.sevadec.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -22,7 +22,7 @@
             "properties": {
                 "name": "ADLC",
                 "logo": "",
-                "description": "Thèmes : <br>- Économie Sociale et Solidaire<br>- Gaspillage alimentaire<br><br>Description :<br>Cuisine solidaire territoriale. Dans cette cuisine, les produits alimentaires sont issus de dons de plusieurs structures locales afin de fournir des plats sains et équilibrés, gratuitement, auprès d'associations d'aide alimentaire. La cuisine solidaire assure également la valorisation des biodéchets de plusieurs partenaires locaux grâce à un dispositif de lombricompostage.<br><div style=\"visibility: hidden; margin:0;padding:0\">Solidarité, Bénévolat, Réduction des déchets, Engagement communautaire, Économie circulaire</div><br><br>📍 8, rue des soupirants 62100 Calais<br><br>📞 03 21 82 76 73<br><br>📧 adlccalais@free.fr<br>🌐 https://adlccalais.com/"
+                "description": "Thèmes : <br>- Économie Sociale et Solidaire<br>- Gaspillage alimentaire<br><br>Description :<br>Cuisine solidaire territoriale. Dans cette cuisine, les produits alimentaires sont issus de dons de plusieurs structures locales afin de fournir des plats sains et équilibrés, gratuitement, auprès d'associations d'aide alimentaire. La cuisine solidaire assure également la valorisation des biodéchets de plusieurs partenaires locaux grâce à un dispositif de lombricompostage.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Solidarité, Bénévolat, Réduction des déchets, Engagement communautaire, Économie circulaire</div><br><br>📍 8, rue des soupirants 62100 Calais<br><br>📞 03 21 82 76 73<br><br>📧 adlccalais@free.fr<br>🌐 https://adlccalais.com/"
             },
             "geometry": {
                 "type": "Point",
@@ -37,7 +37,7 @@
             "properties": {
                 "name": "Brokepoque",
                 "logo": "",
-                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description :<br>Brocanteur. Vente en ligne d'objets anciens, antiquités, brocante. Envoi réalisé uniquement avec des emballages de récupération.<br><div style=\"visibility: hidden; margin:0;padding:0\">Collectionneur,Patrimoine,Vintage,Écologie,Réutilisation,Décoration,Histoire,Économie circulaire,Chineur,Objet rare. </div><br><br>📍 30 Rue du Capitaine de Frégate Marcel Bourgine, 62100 Calais<br><br>📞 06 65 50 96 69<br><br>📧 brokepoque@gmail.com<br>🌐 https://brokepoque.com"
+                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description :<br>Brocanteur. Vente en ligne d'objets anciens, antiquités, brocante. Envoi réalisé uniquement avec des emballages de récupération.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Collectionneur,Patrimoine,Vintage,Réutilisation,Décoration,Économie circulaire,Chineur</div><br><br>📍 30 Rue du Capitaine de Frégate Marcel Bourgine, 62100 Calais<br><br>📞 06 65 50 96 69<br><br>📧 brokepoque@gmail.com<br>🌐 https://brokepoque.com"
             },
             "geometry": {
                 "type": "Point",
@@ -52,7 +52,7 @@
             "properties": {
                 "name": "Marine Life Channel",
                 "logo": "",
-                "description": "Thèmes :<br>- Protection de la nature / Biodiversité<br>- Économie Sociale et Solidaire<br><br>Description :<br> ONG créée en 2021 et ayant pour objectif de préserver la biodiversité marine, notamment dans le détroit du Pas-De-Calais. Dépollution, formation, analyse.<br><br><br>📍 6 Rue Margolle, 62100 Calais<br><br>📞 06 28 37 76 48<br><br>📧 channelmarinelife@gmail.com<br>🌐 https://www.marinelifechannel.org/"
+                "description": "Thèmes :<br>- Protection de la nature / Biodiversité<br>- Économie Sociale et Solidaire<br><br>Description :<br> ONG créée en 2021 et ayant pour objectif de préserver la biodiversité marine, notamment dans le détroit du Pas-De-Calais. Dépollution, formation, analyse.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Écosystème marin,Conservation,Sensibilisation,Sauvegarde,Plongée,Protection,Surveillance,Environnement,Surveillance de la faune et de la flore</div><br><br>📍 6 Rue Margolle, 62100 Calais<br><br>📞 06 28 37 76 48<br><br>📧 channelmarinelife@gmail.com<br>🌐 https://www.marinelifechannel.org/"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +67,7 @@
             "properties": {
                 "name": "Moulin de Bouquehault",
                 "logo": "",
-                "description": "Thèmes : <br>- Éco-entreprise <br><br>Description :<br>L’entreprise Moulin de Bouquehault conçoit, fabrique et commercialise des machines « low tech » et bas carbone pour de petites unités locales de production de farine de blé.<br>L’entreprise Moulin de Bouquehault produit également de la farine bio exclusivement. <br><br><br>📍 49, chemin de Mont Gardin, 62340 Bouquehault. 62100 Calais<br><br>📞 06 76 26 11 03<br><br>📧 moulindebouquehault@orange.fr<br>🌐 https://moulin-de-bouquehault.fr/"
+                "description": "Thèmes : <br>- Éco-entreprise <br><br>Description :<br>L’entreprise Moulin de Bouquehault conçoit, fabrique et commercialise des machines « low tech » et bas carbone pour de petites unités locales de production de farine de blé.<br>L’entreprise Moulin de Bouquehault produit également de la farine bio exclusivement. <br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">entrepreneur, écologique, technologie, innovation, agriculture, circuit-court, production locale, développement durable, qualité, alimentation saine</div><br><br>📍 49, chemin de Mont Gardin, 62340 Bouquehault. 62100 Calais<br><br>📞 06 76 26 11 03<br><br>📧 moulindebouquehault@orange.fr<br>🌐 https://moulin-de-bouquehault.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +82,7 @@
             "properties": {
                 "name": "Pickkmi",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br><br>Description :<br>Création d'accessoires à base de déchets textiles ou de réemploi de produits textiles usagés. Création d'une gamme \"zéro déchet\" de lingettes, mouchoirs et sacs à pain. Utilisation de déchets divers comme l'alimentaire pour pratiquer une teinture végétale. Ateliers participatifs de réparation de linge et de vêtements.<br><br><br>📍 120 Rue du Vauxhall, 62100 Calais<br><br>📞 06 72 70 94 76 <br><br>📧 couture@pickkmi.fr<br>🌐 https://www.pickkmi.fr/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br><br>Description :<br>Création d'accessoires à base de déchets textiles ou de réemploi de produits textiles usagés. Création d'une gamme \"zéro déchet\" de lingettes, mouchoirs et sacs à pain. Utilisation de déchets divers comme l'alimentaire pour pratiquer une teinture végétale. Ateliers participatifs de réparation de linge et de vêtements.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">upcycling, écologie, réparateur, recyclage</div><br><br>📍 120 Rue du Vauxhall, 62100 Calais<br><br>📞 06 72 70 94 76 <br><br>📧 couture@pickkmi.fr<br>🌐 https://www.pickkmi.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -97,7 +97,7 @@
             "properties": {
                 "name": "So'Belle",
                 "logo": "",
-                "description": "Thèmes :<br>- Produits zéro déchet<br>- Éco-entreprise <br><br>Description :<br>Savonnerie artisanale travaillant en saponification à froid. Fabrication de cosmétiques naturels. Packaging réduit au maximum (compostable ou recyclable). Matières premières biosourcées avec le plus possible de produits locaux  (huiles végétales et plantes issues de l'agriculture régionale). Partenariat avec des artisans locaux pour la conception d'articles zéro déchet.<br><br><br>📍 15 Rue de l'Eau Courte, 62132 Hardinghen<br><br>📞 06 77 80 21 04<br><br>📧 sobelle.cosmetique@gmail.com<br>🌐 https://www.so-belle.fr/<br>🌐 www.facebook.com/SobelleCosmetique/"
+                "description": "Thèmes :<br>- Produits zéro déchet<br>- Éco-entreprise <br><br>Description :<br>Savonnerie artisanale travaillant en saponification à froid. Fabrication de cosmétiques naturels. Packaging réduit au maximum (compostable ou recyclable). Matières premières biosourcées avec le plus possible de produits locaux (huiles végétales et plantes issues de l'agriculture régionale). Partenariat avec des artisans locaux pour la conception d'articles zéro déchet.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Artisans locaux Zéro déchet Soins corporels Durabilité Fabrication artisanale </div><br><br>📍 15 Rue de l'Eau Courte, 62132 Hardinghen<br><br>📞 06 77 80 21 04<br><br>📧 sobelle.cosmetique@gmail.com<br>🌐 https://www.so-belle.fr/<br>🌐 www.facebook.com/SobelleCosmetique/"
             },
             "geometry": {
                 "type": "Point",
@@ -112,7 +112,7 @@
             "properties": {
                 "name": "Chicorée du nord",
                 "logo": "",
-                "description": "Thèmes :<br>- Éco-entreprise <br> - Vente en vrac<br><br>Description :<br>Torréfacteurs de chicorée, dernier artisan d’Europe sur ce métier. La matière première agricole, les transformateurs sont issus d'entreprise locale. Emballages BIO éco-conçus. Tradition familiale perpétuée depuis 1934 et 4 générations de LUTUN, nom de famille et nom de la marque des produits.<br><br><br>📍 463 Rte de l'Étoile, 62215 Oye-Plage<br><br>📞 03 21 82 17 67 <br><br>📧 contact@chicoreedunord.fr<br>🌐 https://www.chicoreedunord.fr/SiteCDN/"
+                "description": "Thèmes :<br>- Éco-entreprise <br> - Vente en vrac<br><br>Description :<br>Torréfacteurs de chicorée, dernier artisan d’Europe sur ce métier. La matière première agricole, les transformateurs sont issus d'entreprise locale. Emballages BIO éco-conçus. Tradition familiale perpétuée depuis 1934 et 4 générations de LUTUN, nom de famille et nom de la marque des produits.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Produits locaux Artisanat Emballages éco-responsables Agriculture durable Patrimoine culinaire Savoir-faire</div><br><br>📍 463 Rte de l'Étoile, 62215 Oye-Plage<br><br>📞 03 21 82 17 67 <br><br>📧 contact@chicoreedunord.fr<br>🌐 https://www.chicoreedunord.fr/SiteCDN/"
             },
             "geometry": {
                 "type": "Point",
@@ -127,7 +127,7 @@
             "properties": {
                 "name": "Récup & Coud",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br>- Éco-entreprise <br><br>Description :<br>Confection de textiles zéro déchet, sacs et accessoires à partir de la technique de l’upcycling : valorisation de textiles recyclés au lieu d’être jetés.<br><br><br>📍 D940, 62231 Sangatte<br><br>📞 07 49 54 09 90 <br><br>📧 recupandcoud@hotmail.com<br>🌐 www.recupandcoud.com"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br>- Éco-entreprise <br><br>Description :<br>Confection de textiles zéro déchet, sacs et accessoires à partir de la technique de l’upcycling : valorisation de textiles recyclés au lieu d’être jetés.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Upcycling Textiles Zéro déchet réparateur Confection Valorisation Durabilité Écologique </div><br><br>📍 D940, 62231 Sangatte<br><br>📞 07 49 54 09 90 <br><br>📧 recupandcoud@hotmail.com<br>🌐 www.recupandcoud.com"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +142,7 @@
             "properties": {
                 "name": "B comme Nature",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br>- Économie Sociale et Solidaire<br>- Éco-entreprise <br><br>Description :<br>Vente et conseils beauté bien-être 100% naturel. Huiles végétales, huiles essentielles, hydrolat. Ateliers création cosmétique.<br><br><br>📍 -<br><br>📞 06 98 50 68 76 <br><br>📧 barbara@bcommenature.com<br>🌐 https://www.bcommenature.com/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br>- Économie Sociale et Solidaire<br>- Éco-entreprise <br><br>Description :<br>Vente et conseils beauté bien-être 100% naturel. Huiles végétales, huiles essentielles, hydrolat. Ateliers création cosmétique.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Soins Plantes Écologique</div><br><br>📍 -<br><br>📞 06 98 50 68 76 <br><br>📧 barbara@bcommenature.com<br>🌐 https://www.bcommenature.com/"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +157,7 @@
             "properties": {
                 "name": "SCIE SIDE",
                 "logo": "",
-                "description": "Thème : <br>- Produits zéro déchet<br>- Éco-entreprise<br><br>Description :<br>Artisan du bois et de l'esprit du bord de mer. De la décoration au mobilier, des pièces uniques et sur mesure.<br><br><br>📍 10 Rue de Laubanie, 62231 Coquelles<br><br>📞 06 84 56 71 81<br><br>📧 benjamindassonval@orange.fr<br>🌐 www.scieside.com"
+                "description": "Thème : <br>- Produits zéro déchet<br>- Éco-entreprise<br><br>Description :<br>Artisan du bois et de l'esprit du bord de mer. De la décoration au mobilier, des pièces uniques et sur mesure.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Menuisier Ebéniste Décorateur Fabricant Créateur Personnalisation Unique Élaboration Confection Atelier</div><br><br>📍 10 Rue de Laubanie, 62231 Coquelles<br><br>📞 06 84 56 71 81<br><br>📧 benjamindassonval@orange.fr<br>🌐 www.scieside.com"
             },
             "geometry": {
                 "type": "Point",
@@ -172,7 +172,7 @@
             "properties": {
                 "name": "Cap Energie",
                 "logo": "",
-                "description": "Thèmes :<br>- Recyclage<br>- Éco-entreprise<br><br>Description :<br>Conditionnement, prestation de service externalisée, contrôle qualité, recyclage, fabrication de palettes, ménage, plasturgie, entretien des espaces verts.<br><br><br>📍 203 Rue Louis Breguet, 62100 Calais<br><br>📞 03 22 31 58 90<br><br>📧 contact@cap-energie.fr<br>🌐 www.cap-energie.fr"
+                "description": "Thèmes :<br>- Recyclage<br>- Éco-entreprise<br><br>Description :<br>Conditionnement, prestation de service externalisée, contrôle qualité, recyclage, fabrication de palettes, ménage, plasturgie, entretien des espaces verts.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">logistique, sous-traitance, assurance qualité, récupération, production de supports logistiques, nettoyage, transformation des matières plastiques, aménagement paysager. </div><br><br>📍 203 Rue Louis Breguet, 62100 Calais<br><br>📞 03 22 31 58 90<br><br>📧 contact@cap-energie.fr<br>🌐 www.cap-energie.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -187,7 +187,7 @@
             "properties": {
                 "name": "Envi'vert",
                 "logo": "",
-                "description": "Thèmes :<br>- Protection de la nature / Biodiversité<br>- Économie Sociale et Solidaire<br><br>Description :<br>Association étudiante qui sensibilise les étudiants et le personnel de l'université du Littoral Côte d'Opale à Calais quant à leur rôle sur la préservation des ressources de la planète.<br><br><br>📍 50 Rue Ferdinand Buisson, 62100 Calais<br><br>📞 06 61 15 92 31<br><br>📧 envivert.ulco@gmail.com<br>🌐 https://www.helloasso.com/associations/envi-vert"
+                "description": "Thèmes :<br>- Protection de la nature / Biodiversité<br>- Économie Sociale et Solidaire<br><br>Description :<br>Association étudiante qui sensibilise les étudiants et le personnel de l'université du Littoral Côte d'Opale à Calais quant à leur rôle sur la préservation des ressources de la planète.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Écologie Étudiants Sensibilisation Durabilité Université Préservation Planète Ressources naturelles Environnement Engagement </div><br><br>📍 50 Rue Ferdinand Buisson, 62100 Calais<br><br>📞 06 61 15 92 31<br><br>📧 envivert.ulco@gmail.com<br>🌐 https://www.helloasso.com/associations/envi-vert"
             },
             "geometry": {
                 "type": "Point",
@@ -202,7 +202,7 @@
             "properties": {
                 "name": "A.M.A.P. DU CALAISIS (la ferme)",
                 "logo": "",
-                "description": "Thème :<br>- Protection de la nature / Biodiversité<br>- Vente en vrac<br>- Économie Sociale et Solidaire<br><br>Description :<br>L'Association pour le Maintien d'une Agriculture Paysanne du Calaisis.<br><br><br>📍 42 Chem. Vert, 62610 Louches<br><br>📧 amapducalaisis@gmail.com<br>🌐 https://amapducalaisis5.wixsite.com/website"
+                "description": "Thème :<br>- Protection de la nature / Biodiversité<br>- Vente en vrac<br>- Économie Sociale et Solidaire<br><br>Description :<br>L'Association pour le Maintien d'une Agriculture Paysanne du Calaisis.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">AMAP Agriculture locale Circuit court Producteurs locaux Agriculture raisonnée Agriculture biologique Consommation  responsable Engagement écologique Soutien aux petits exploitants Alimentation de qualité </div><br><br>📍 42 Chem. Vert, 62610 Louches<br><br>📧 amapducalaisis@gmail.com<br>🌐 https://amapducalaisis5.wixsite.com/website"
             },
             "geometry": {
                 "type": "Point",
