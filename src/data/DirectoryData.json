@@ -1,13 +1,13 @@
 {
     "type": "FeatureCollection",
-    "update": "09/03/2023, 09:09:07",
+    "update": "09/03/2023, 09:26:02",
     "features": [
         {
             "type": "Feature",
             "properties": {
                 "name": "SEVADEC",
                 "logo": "",
-                "description": "Thèmes : <br>- Recyclage<br>- Éco-entreprise<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Syndicat d'Élimination et de VAlorisation des DÉchets du Calaisis.<br><br><div style=\"visibility: hidden; margin:0\"><br>Syndicat<br>Élimination<br>Valorisation<br>Déchets<br>Calaisis<br>Gestion<br>Environnement<br>Recyclage<br>Tri<br>Traitement<br></div><br><br>📍 Centre administratif, 583 Rue Jacques Monod, 62100 Calais <br><br>📞 03 21 19 58 30<br><br>📧 sevadec@wanadoo.fr<br>🌐 https://www.sevadec.fr/"
+                "description": "Thèmes : <br>- Recyclage<br>- Éco-entreprise<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Syndicat d'Élimination et de VAlorisation des DÉchets du Calaisis.<br><br><div style=\"visibility: hidden; margin:0\"> Syndicat Élimination Valorisation Déchets Calaisis Gestion Environnement Recyclage Tri Traitement </div><br><br>📍 Centre administratif, 583 Rue Jacques Monod, 62100 Calais <br><br>📞 03 21 19 58 30<br><br>📧 sevadec@wanadoo.fr<br>🌐 https://www.sevadec.fr/"
             },
             "geometry": {
                 "type": "Point",
