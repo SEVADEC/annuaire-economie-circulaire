@@ -1,13 +1,13 @@
 {
     "type": "FeatureCollection",
-    "update": "09/03/2023, 10:14:28",
+    "update": "09/03/2023, 10:39:18",
     "features": [
         {
             "type": "Feature",
             "properties": {
                 "name": "SEVADEC",
                 "logo": "",
-                "description": "Thèmes : <br>- Recyclage<br>- Éco-entreprise<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Syndicat d'Élimination et de VAlorisation des DÉchets du Calaisis.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> Syndicat Élimination Valorisation Déchets Calaisis Gestion Environnement Recyclage Tri Traitement </div><br><br>📍 Centre administratif, 583 Rue Jacques Monod, 62100 Calais <br><br>📞 03 21 19 58 30<br><br>📧 sevadec@wanadoo.fr<br>🌐 https://www.sevadec.fr/"
+                "description": "Thèmes : <br>- Recyclage<br>- Éco-entreprise<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Syndicat d'Élimination et de VAlorisation des DÉchets du Calaisis.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> Gestion Environnement Recyclage Tri Traitement </div><br><br>📍 Centre administratif, 583 Rue Jacques Monod, 62100 Calais <br><br>📞 03 21 19 58 30<br><br>📧 sevadec@wanadoo.fr<br>🌐 https://www.sevadec.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +217,7 @@
             "properties": {
                 "name": "La ferme urbaine - Les Animaliens",
                 "logo": "",
-                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>L’association « Les Animaliens » développe ses services dans le cadre de l’Économie Sociale et Solidaire. Partage (de pratiques, de connaissances, de réflexion, …) et soutien aux personnes fragiles : publics en difficulté, enfants en situation affective précaire, personnes âgées et/ou dépendantes, personnes en situation de handicap…<br><br><br>📍 8 Rue des Soupirants, 62100 Calais<br><br>📞 09 83 69 72 58<br><br>📧 contact@lesanimaliens.org<br>🌐 lesanimaliens.org"
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>L’association « Les Animaliens » développe ses services dans le cadre de l’Économie Sociale et Solidaire. Partage (de pratiques, de connaissances, de réflexion, …) et soutien aux personnes fragiles : publics en difficulté, enfants en situation affective précaire, personnes âgées et/ou dépendantes, personnes en situation de handicap…<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">solidarité, partage, assistance, bienveillance, vulnérabilité, inclusion, accompagnement, échange, soutien, entraide </div><br><br>📍 8 Rue des Soupirants, 62100 Calais<br><br>📞 09 83 69 72 58<br><br>📧 contact@lesanimaliens.org<br>🌐 lesanimaliens.org"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +232,7 @@
             "properties": {
                 "name": "Ré'création Calaisienne",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Ateliers de création, de transformation et de relooking de mobiliers.<br><br><br>📍 47 Rue du Vauxhall, 62100 Calais<br><br>📞 06 31 46 44 66<br><br>📧 andrieuxmireille62@gmail.com<br>🌐 https://www.facebook.com/recreationcalaisienne/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Ateliers de création, de transformation et de relooking de mobiliers.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Upcycling Design d'intérieur Restauration de meubles Décoration d'intérieur Réutilisation créative Customisation de meubles Transformation de meubles Atelier d'artisanat Atelier de menuiserie Recyclage créatif </div><br><br>📍 47 Rue du Vauxhall, 62100 Calais<br><br>📞 06 31 46 44 66<br><br>📧 andrieuxmireille62@gmail.com<br>🌐 https://www.facebook.com/recreationcalaisienne/"
             },
             "geometry": {
                 "type": "Point",
@@ -247,7 +247,7 @@
             "properties": {
                 "name": "Association pour la Mise en Valeur du Patrimoine Architectural du Calaisis",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br> A.M.V.P.A.C. Association (loi de 1901) de bénévoles attachés à la sauvegarde et à la mise en valeur du patrimoine architectural et est domiciliée au Musée des Beaux-Arts et de la Dentelle de Calais (rue Richelieu 62100 Calais). Elle travaille à identifier les éléments constitutifs de notre patrimoine et encourage la préservation et la restauration des monuments et objets (édifices, ornements, mobilier,…) . <br><br><br>📍 25 Rue Richelieu, 62100 Calais<br><br>📞 06 72 10 16 56<br><br>📧 contact@amvpac.com<br>🌐 https://www.amvpac.com/wp/"
+                "description": "Thème :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br> A.M.V.P.A.C. Association (loi de 1901) de bénévoles attachés à la sauvegarde et à la mise en valeur du patrimoine architectural et est domiciliée au Musée des Beaux-Arts et de la Dentelle de Calais (rue Richelieu 62100 Calais). Elle travaille à identifier les éléments constitutifs de notre patrimoine et encourage la préservation et la restauration des monuments et objets (édifices, ornements, mobilier,…) . <br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Préservation culturelle Héritage historique Conservation des bâtiments anciens Restauration patrimoniale Valorisation des monuments Architecture traditionnelle Mobilier d'époque Réhabilitation du patrimoine Sensibilisation à la préservation culturelle Engagement bénévole </div><br><br>📍 25 Rue Richelieu, 62100 Calais<br><br>📞 06 72 10 16 56<br><br>📧 contact@amvpac.com<br>🌐 https://www.amvpac.com/wp/"
             },
             "geometry": {
                 "type": "Point",
@@ -262,7 +262,7 @@
             "properties": {
                 "name": "Centre Européen De Séjour",
                 "logo": "",
-                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Éco-entreprise <br><br>Description :<br>Association locale créee en 2007 qui s’efforce chaque année de se lancer de nouveaux défis : <br>développement durable, développement du territoire, responsabilité sociale, coopération associative, solidarité, accessibilité, mixité.<br><br><br>📍 Rue du Maréchal de Lattre de Tassigny, 62100 Calais<br><br>📞 03 21 34 70 20<br><br>📧 association@calaispourleclimat.fr<br>🌐 www.auberge-jeunesse-calais.com"
+                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Éco-entreprise <br><br>Description :<br>Association locale créee en 2007 qui s’efforce chaque année de se lancer de nouveaux défis : <br>développement durable, développement du territoire, responsabilité sociale, coopération associative, solidarité, accessibilité, mixité.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Environnement Écologie Durabilité Responsabilité sociétale Coopération communautaire Inclusion sociale Égalité Diversité Solidarité locale </div><br><br>📍 Rue du Maréchal de Lattre de Tassigny, 62100 Calais<br><br>📞 03 21 34 70 20<br><br>📧 association@calaispourleclimat.fr<br>🌐 www.auberge-jeunesse-calais.com"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +277,7 @@
             "properties": {
                 "name": "Repair Café Calais",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Redonne une seconde chance à votre matériel en panne avec l'aide de réparateurs bénévoles.<br><br>📅 mercredi : 14:00 - 18:00<br><br>📍 75 Rue de Constantine, 62100 Calais<br><br>📞 06 21 45 26 24<br><br>📧 regiedequartierdecalais@rqcalais.fr<br>🌐 https://repaircafe.org/fr<br>🌐 https://www.facebook.com/RepairCafeCalais/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Redonne une seconde chance à votre matériel en panne avec l'aide de réparateurs bénévoles.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation Matériel Bénévoles Seconde vie Dépannage Restauration Réutilisation Réemploi Remise en état Sauvetage </div><br><br>📅 mercredi : 14:00 - 18:00<br><br>📍 75 Rue de Constantine, 62100 Calais<br><br>📞 06 21 45 26 24<br><br>📧 regiedequartierdecalais@rqcalais.fr<br>🌐 https://repaircafe.org/fr<br>🌐 https://www.facebook.com/RepairCafeCalais/"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +292,7 @@
             "properties": {
                 "name": "Repair café de Marck",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Redonne une seconde chance à votre matériel en panne avec l'aide de réparateurs bénévoles.<br><br>📅 lundi :15:00 - 18:15<br><br>📍 53 Chem. de l'Ecole, 62730 Marck<br><br>📞 03 21 00 72 00<br><br>🌐 https://www.facebook.com/Repair-Caf%C3%A9-MARCK-1731427976975323/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Redonne une seconde chance à votre matériel en panne avec l'aide de réparateurs bénévoles.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation Matériel Bénévoles Seconde vie Dépannage Restauration Réutilisation Réemploi Remise en état Sauvetage </div><br><br>📅 lundi :15:00 - 18:15<br><br>📍 53 Chem. de l'Ecole, 62730 Marck<br><br>📞 03 21 00 72 00<br><br>🌐 https://www.facebook.com/Repair-Caf%C3%A9-MARCK-1731427976975323/"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +307,7 @@
             "properties": {
                 "name": "C.P.E.T.I. région Audruicq Oye-Plage",
                 "logo": "",
-                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Comité de Promotion Économique et Touristique Intercommunal. Cette association (loi 1901) assure, sur les 15 communes, les missions d'accueil et d'information, de promotion du tourisme et du commerce et d'animation au sein du territoire.<br><br>📅 mardi-dimanche :  10h -17h<br><br>📍 66 Pl. du Général de Gaulle, 62370 Audruicq<br><br>📞 03 21 00 83 83<br><br>📧 bienvenue.regionaudruicq@ccra.fr<br>🌐 http://www.tourismeaudruicq-oyeplage.fr/"
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Comité de Promotion Économique et Touristique Intercommunal. Cette association (loi 1901) assure, sur les 15 communes, les missions d'accueil et d'information, de promotion du tourisme et du commerce et d'animation au sein du territoire.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">local Marketing territorial Développement économique Promotion commerciale Communication intercommunale Événements locaux Patrimoine culturel Activités touristiques </div><br><br>📅 mardi-dimanche : 10h -17h<br><br>📍 66 Pl. du Général de Gaulle, 62370 Audruicq<br><br>📞 03 21 00 83 83<br><br>📧 bienvenue.regionaudruicq@ccra.fr<br>🌐 http://www.tourismeaudruicq-oyeplage.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -322,7 +322,7 @@
             "properties": {
                 "name": "Antheya SARL",
                 "logo": "",
-                "description": "Thèmes :<br>- Produits zéro déchet<br>- Éco-entreprise<br><br>Description :<br>Fabrication artisanale de savons surgras et de shampoings solides saponifiés à froid.<br><br><br>📍 679 Av. Roger Salengro, 62100 Calais<br><br>📞 07 84 17 95 22<br><br>📧 contact@antheya.fr<br>🌐 www.antheya.fr"
+                "description": "Thèmes :<br>- Produits zéro déchet<br>- Éco-entreprise<br><br>Description :<br>Fabrication artisanale de savons surgras et de shampoings solides saponifiés à froid.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">écologique biodégradable naturel zéro déchet respectueux de l'environnement ingrédients naturels sans produits chimiques bien-être cosmétique solide </div><br><br>📍 679 Av. Roger Salengro, 62100 Calais<br><br>📞 07 84 17 95 22<br><br>📧 contact@antheya.fr<br>🌐 www.antheya.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -337,7 +337,7 @@
             "properties": {
                 "name": "Naturama",
                 "logo": "",
-                "description": "Thème :<br>- Produits zéro déchet<br><br>Description :<br>Des plantes, des huiles essentielles, des cosmétiques, des minéraux, des compléments nutritionnels, une épicerie fine. Tout un choix de produits bio, qui privilégie l’équitable et l’écoresponsable.<br><br>📅 mardi - samedi : 10h-19h<br><br>📍 47 rue Royale - 62100 Calais<br><br>📞 03 21 34 62 79<br><br>🌐 https://monshoppingcestcalais.fr/marketplace/seller/profile/naturama/view"
+                "description": "Thème :<br>- Produits zéro déchet<br><br>Description :<br>Des plantes, des huiles essentielles, des cosmétiques, des minéraux, des compléments nutritionnels, une épicerie fine. Tout un choix de produits bio, qui privilégie l’équitable et l’écoresponsable.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">produits bio équitable écoresponsable alimentation saine produits naturels bien-être développement durable santé écologie consommation responsable</div><br><br>📅 mardi - samedi : 10h-19h<br><br>📍 47 rue Royale - 62100 Calais<br><br>📞 03 21 34 62 79<br><br>🌐 https://monshoppingcestcalais.fr/marketplace/seller/profile/naturama/view"
             },
             "geometry": {
                 "type": "Point",
@@ -352,7 +352,7 @@
             "properties": {
                 "name": "Le Jardin Colibri",
                 "logo": "",
-                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Maraîchage en agriculture biologique certifié par ECOCERT-FR-BIO-01.<br><br><br>📍 1730 Rte de Saint-Inglevert, 62340 Pihen-lès-Guînes<br><br>📞 06 47 00 57 00<br><br>📧 lejardincolibri@gmail.com<br>🌐 https://www.facebook.com/lejardincolibri"
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Maraîchage en agriculture biologique certifié par ECOCERT-FR-BIO-01.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">cultures biologiques, certification, agriculture durable, production végétale, maraîcher, culture raisonnée, engrais naturels, exploitation agricole, alimentation saine, agriculture responsable</div><br><br>📍 1730 Rte de Saint-Inglevert, 62340 Pihen-lès-Guînes<br><br>📞 06 47 00 57 00<br><br>📧 lejardincolibri@gmail.com<br>🌐 https://www.facebook.com/lejardincolibri"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +367,7 @@
             "properties": {
                 "name": "La Ressourcerie du Calaisis - FACE Valo",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>FACE VALO est une entreprise de l'Économie Sociale et Solidaire du secteur de l'insertion par l'activité économique. Leurs activités sont essentiellement tournées vers le réemploi avec la Ressourcerie et la Matériauthèque.<br><br>📅 mardi - mercredi - vendredi - samedi : 10h-17h30 <br><br>📍 365 Av. Antoine de Saint-Exupéry, 62100 Calais<br><br>📞 07 78 80 09 53 / 03 59 44 37 56<br><br>📧 l.vache@fondationface.org<br>🌐 https://facevalo.fr/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>FACE VALO est une entreprise de l'Économie Sociale et Solidaire du secteur de l'insertion par l'activité économique. Leurs activités sont essentiellement tournées vers le réemploi avec la Ressourcerie et la Matériauthèque.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> </div><br><br>📅 mardi - mercredi - vendredi - samedi : 10h-17h30 <br><br>📍 365 Av. Antoine de Saint-Exupéry, 62100 Calais<br><br>📞 07 78 80 09 53 / 03 59 44 37 56<br><br>📧 l.vache@fondationface.org<br>🌐 https://facevalo.fr/"
             },
             "geometry": {
                 "type": "Point",
