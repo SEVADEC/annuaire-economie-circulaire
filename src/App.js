@@ -47,7 +47,7 @@ function App() {
     <div className="app">
       <Logo />
       <SearchBar
-        placeholder="Recherche : Mots-clés, nom d'entreprise..."
+        placeholder="Recherche : Mot-clé, Entreprise..."
         entry={data}
         stateChanger={setPosition}
         filter={setFilterEntry}
