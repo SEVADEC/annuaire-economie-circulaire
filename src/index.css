@@ -8,6 +8,10 @@ body {
   background-image: linear-gradient(33deg, rgb(4, 74, 92), rgb(151, 214, 211));
 }
 
+::-webkit-scrollbar {
+  width: 0em; /* Largeur de la barre de défilement pour la rendre invisible */
+}
+
 /* App CSS */
 
 .leaflet-container {
