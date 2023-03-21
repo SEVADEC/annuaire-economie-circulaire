@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "10/03/2023, 10:08:35",
+    "update": "21/03/2023, 15:47:06",
     "features": [
         {
             "type": "Feature",
@@ -1739,6 +1739,126 @@
                 "coordinates": [
                     2.0712967,
                     50.8800594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Récup'bois",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>RecupBois propose des plaquettes de bois 100 % françaises pour la création et l'entretien des espaces verts des professionnels. Fabriquées à partir de bois de récupération avec une traçabilité totale, elles sont disponibles immédiatement.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Bois de seconde main Durabilité Respectueux de l'environnement Produits locaux Suivi complet Fabrication écologique Granulés de bois Zones de verdure </div><br><br>📍 720 Rue de l'Église, 62610 Landrethun-lès-Ardres<br><br>📞 06 13 48 34 28<br><br>📧 contact@recupbois.com<br><br>🌐 https://www.recupbois.com/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9659061,
+                    50.8295312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Solid'air",
+                "logo": "",
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Solid'air est un espace de vie sociale offrant un lieu de vie, de liens et d'échanges pour tous. L'association soutient les initiatives locales et accompagne les projets des habitants.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Cohésion sociale Communauté Échanges interpersonnels Plateforme sociale Bénévolat Renforcement communautaire Initiative locale Accompagnement de projets Participatif Bien-être social </div><br><br>📍 356 Rue des Rosiers, 62610 Bois en Ardres, Ardres, France<br><br>📞 06 18 42 42 73<br><br>📧 solidair62@gmail.com<br><br>🌐 https://www.facebook.com/associationsolidair"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9806492,
+                    50.8764219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LudoVélo",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Atelier de recyclage et de restauration de vélos. Vente de vélos d'occasion. Ateliers de réparation de vélos pour tous les niveaux.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Récupération de vélos Réutilisation Restauration de vélos Vélos d'occasion Pièces détachées Réparation de vélos Niveaux de compétences Ateliers communautaires Durabilité Mobilité verte</div><br><br>📍 68 Rue Narcisse Boulanger, 62340 Guînes<br><br>📞 07 82 12 46 32<br><br>📧 contact@ludovelo.fr<br><br>🌐 https://LudoVelo.fr/<br><br>🌐 https://www.facebook.com/assoludovelo/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8715553,
+                    50.8712391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Parc pédagogique Nature du Marais ",
+                "logo": "",
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Le Parc pédagogique Nature du Marais est un refuge pour animaux de ferme abandonnés ou non désirés, où les visiteurs peuvent découvrir la vie des animaux et leur offrir des soins. Les visiteurs peuvent également apprendre le filage de la laine et découvrir la faune et la flore locales. Le parc accueille des groupes scolaires sur réservation et propose une expérience de semi-liberté pour les animaux dans un cadre paisible propice à la détente.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Refuges pour animaux Sensibilisation à la nature Protection des animaux Éducation à l'environnement Filage de la laine Écosystème local Groupes scolaires Expérience de semi-liberté Cadre paisible Détente</div><br><br>📍 Voie verte Guînes Coulogne, 62340 Marais de Guînes<br><br>📞 06 62 66 86 37<br><br>📧 contact@ppnm.fr<br><br>🌐 https://www.ppnm.fr/accueil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.877669,
+                    50.882117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Compagnie Les petites boîtes",
+                "logo": "",
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>La Compagnie Les Petites Boîtes est une compagnie artistique composée de sept personnes aux compétences artistiques spécifiques. Ils proposent des projets adaptés aux individus de tous âges, y compris les personnes déficientes. Ils fonctionnent comme un collectif, en privilégiant le travail d'équipe et la recherche constante de nouvelles voies artistiques et organisationnelles. La compagnie bénéficie de soutiens précieux de la part de diverses institutions et propose des ateliers, des co-productions, des expositions de travaux et des diffusions. <br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Compagnie artistique Compétences spécifiques Projets inclusifs Collectif Collaboration artistique Recherche artistique Soutiens institutionnels Ateliers artistiques Co-productions Diffusions artistiques</div><br><br>📍 639 Imp. des Sarts, 62850 Herbinghen<br><br>📞 06 80 84 03 39<br><br>📧 compagnielespetitesboites@orange.fr<br><br>🌐 https://www.compagnielespetitesboites.com/<br><br>🌐 https://www.facebook.com/profile.php?id=10006347083650"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8759662,
+                    50.7536371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Association \"Espace LA FA BRIQUE\"",
+                "logo": "",
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Association qui promeut la culture sous toutes ses formes à travers les machines et les hommes, le son et la lumière. <br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"><br>Promotion culturelle Diversité culturelle Machines créatives Hommes créatifs Sons artistiques Éclairages artistiques Multimédia Spectacles artistiques Événements culturels Créativité artistique</div><br><br>📍 Maison des associations, rue de l'Eglise, Brêmes, France, 62610<br><br>📞 07 81 35 75 58<br><br>📧 sandrasluc@msn.com<br><br>🌐 https://www.facebook.com/associationespacelafabrique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.95121,
+                    50.852513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Au jardin de Brêmes",
+                "logo": "",
+                "description": "Thèmes :<br>- Éco-entreprise<br>- Produits zéro déchet<br><br>Description :<br>Jardin pédagogique qui cultive sur sol vivant sans travail de sol. Offre des formations et ateliers pour apprendre les techniques de jardinage respectueuses de l'environnement. Vente de légumes frais, cultivés de manière écologique.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Agroécologie Jardinage naturel Cultures vivrières Pédagogie verte Permaculture Sol vivant Agriculture biologique Ateliers pratiques Vente directe Écologie alimentaire</div><br><br>📍 277 Rue de la Chapelle, Brêmes, France<br><br>📧 lejardindebremes@gmail.com<br><br>🌐 https://www.facebook.com/aujardindebremes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9590004,
+                    50.8557183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Afapei - Esat du Calaisis - Le Camp du Drap d'Or",
+                "logo": "",
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>L’ESAT du Calaisis offre des opportunités de travail pour les personnes en situation de handicap mental. Ils proposent une grande variété de métiers adaptés aux capacités et compétences de chacun des travailleurs. En plus des activités professionnelles, ils personnalisent l’accompagnement de façon individuelle pour répondre aux besoins et attentes de chacun dans leur projet de vie.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Inclusion Travail adapté Handicap mental Accompagnement individuel Métiers adaptés Projet de vie ESAT (Etablissement et Service d'Aide par le Travail) Opportunités professionnelles Capacités et compétences Personnalisation de l'accompagnement</div><br><br>📍 1358 Rue du Camp du Drap d'Or, Balinghem, France<br><br>📞 03.21.82.12.50<br><br>🌐 www.afapei.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.945665,
+                    50.86005
                 ]
             }
         }
