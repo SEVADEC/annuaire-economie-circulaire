@@ -120,7 +120,7 @@ function App() {
             attribution={'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://www.sevadec.fr/">SEVADEC</a> - ' + update}
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
-          <Polygon pathOptions={fillOptions} positions={Territory} />
+          <Polygon pathOptions={fillOptions} positions={territoryPosition} />
           {data
             .filter((marker) =>
               marker.properties.description.includes(selectedRadio)
