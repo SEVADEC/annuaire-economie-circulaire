@@ -18,11 +18,11 @@ const radios = AllCategory.name;
 
 const fillOptions = { fillColor: "blue" };
 
-// let territoryPosition = [];
+let territoryPosition = [];
 
-// for (const eachPos of Territory.features[0].geometry.coordinates[0]) {
-//   territoryPosition.push([eachPos[1], eachPos[0]]);
-// }
+for (const eachPos of Territory.features[0].geometry.coordinates[0]) {
+  territoryPosition.push([eachPos[1], eachPos[0]]);
+}
 
 // let numberCategory = [];
 
