@@ -18,11 +18,11 @@ const radios = AllCategory.name;
 
 const fillOptions = { fillColor: "blue" };
 
-let territoryPosition = [];
+// let territoryPosition = [];
 
-for (const eachPos of Territory.features[0].geometry.coordinates[0]) {
-  territoryPosition.push([eachPos[1], eachPos[0]]);
-}
+// for (const eachPos of Territory.features[0].geometry.coordinates[0]) {
+//   territoryPosition.push([eachPos[1], eachPos[0]]);
+// }
 
 // let numberCategory = [];
 
@@ -120,7 +120,7 @@ function App() {
             attribution={'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://www.sevadec.fr/">SEVADEC</a> - ' + update}
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
-          <Polygon pathOptions={fillOptions} positions={territoryPosition} />
+          <Polygon pathOptions={fillOptions} positions={Territory} />
           {data
             .filter((marker) =>
               marker.properties.description.includes(selectedRadio)
