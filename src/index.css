@@ -464,7 +464,34 @@ img.searchBar {
 }
 
 
+@media screen and (width < 1780px) {
+
+  .leaflet-container {
+    margin-top: 370px;
+    width: 98%;    
+    border-radius: 20px;
+    border: thick double #32a1ce;
+    position: absolute !important;
+    z-index: 0;
+  }
+
+  .radio-container {    
+    width: 730px;
+  }
+
+}
+
 @media screen and (width < 1080px) {
+
+  .leaflet-container {
+    margin-top: 330px;
+    width: 98%;
+    border-radius: 20px;
+    border: thick double #32a1ce;
+    position: absolute !important;
+    z-index: 0;
+  }
+
   .logo {
     margin: 5px auto;
     width: 500px;
@@ -496,33 +523,12 @@ img.searchBar {
 
 }
 
-@media screen and (width < 1650px) {
-
-  .leaflet-container {
-    margin-top: 370px;
-    width: 98%;    
-    border-radius: 20px;
-    border: thick double #32a1ce;
-    position: absolute !important;
-    z-index: 0;
-  }
-
-}
-
-@media screen and (width < 1080px) {
-
-  .leaflet-container {
-    margin-top: 330px;
-    width: 98%;
-    border-radius: 20px;
-    border: thick double #32a1ce;
-    position: absolute !important;
-    z-index: 0;
-  }
-
-}
 
 @media screen and (width < 927px) {
+
+  .radio-container {    
+    width: 550px;
+  }
 
   .leaflet-container {
     margin-top: 360px;
@@ -601,6 +607,10 @@ img.searchBar {
 
 @media screen and (width < 720px) {
 
+  .radio-container {    
+    width: 420px;
+  }
+
   .leaflet-container {
     margin-top: 420px;
     width: 98%;
@@ -612,7 +622,7 @@ img.searchBar {
 
 }
 
-@media screen and (width < 531px) {
+@media screen and (width < 530px) {
 
   .radio-container {
     margin-top: 5px;
@@ -620,12 +630,7 @@ img.searchBar {
   }
 
   .leaflet-container {
-    margin-top: 370px;
-    width: 98%;
-    border-radius: 20px;
-    border: thick double #32a1ce;
-    position: absolute !important;
-    z-index: 0;
+    margin-top: 350px;  
   }
 
   button.button-category {
@@ -645,6 +650,15 @@ img.logo-category {
 }
 
 @media screen and (width < 505px) {
+
+  .radio-container {    
+    width: 325px;
+  }
+
+  .leaflet-container {
+    margin-top: 370px;    
+  }
+
   .logo {
     margin: 5px auto;
     width: 330px;
@@ -704,6 +718,21 @@ img.logo-category {
     width: 130px;
   }
 
+  .search input { 
+    padding-right: 0px; 
+    padding-left: 5px; 
+    width: 165px;
+  }
+  
+  img.searchBar {
+    margin-left: 4px;
+    margin-top: -10px;
+    height: 78px;
+    width: 32px;
+    border: none;
+    place-items: center;
+  }
+
   button.button-category {
     font-size: 14px;
     font-weight: bold;
@@ -717,42 +746,35 @@ img.logo-category {
   width: 18px;
   height: 18px;
 }
-
-  .leaflet-container {
-    margin-top: 390px;
-    width: 98%;
-    border-radius: 20px;
-    border: thick double #32a1ce;
-    position: absolute !important;
-    z-index: 0;
-  }
-
+  
 }
 
 @media screen and (width < 424px) {
+.radio-container {    
+ width: 275px;
+}
   
-  .leaflet-container {
-    margin-top: 420px;
-    width: 98%;
-    border-radius: 20px;
-    border: thick double #32a1ce;
-    position: absolute !important;
-    z-index: 0;
-  }
-
+.leaflet-container {
+  margin-top: 420px;    
+}
 }
 
-@media screen and (width < 340px) {
+@media screen and (width < 352px) { 
   
-  .leaflet-container {
+.radio-container {    
+    width: 230px;
+}
+
+.leaflet-container {
     margin-top: 450px;
-  }
+}
 
 button.showList {
     margin-left: 7px;
     margin-top: 210px;
     width: 40px;
 }
+
 button.showcontact {
   margin-right: 7px;
   margin-top: 210px;
@@ -764,9 +786,6 @@ button.showcontact {
   padding-left: 5px; 
   width: 165px;
 }
-button.button-category {
-  font-size: 12px;
-}
 
 img.searchBar {
   margin-left: 4px;
@@ -775,6 +794,10 @@ img.searchBar {
   width: 32px;
   border: none;
   place-items: center;
+}
+
+button.button-category {
+  font-size: 12px;
 }
 
 p.contact img {
@@ -786,7 +809,7 @@ p.contact img {
   width: 33px;
 }
 
-  .logo {
+.logo {
     margin: 5px auto;
     width: 300px;
     border-radius: 10px;
