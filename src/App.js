@@ -42,6 +42,7 @@ function App() {
   const [filterEntry, setFilterEntry] = useState("");
   const [showList, setShowList] = useState(false);
   const [showContact, setShowContact] = useState(false);
+  // const [popUpEvent, setPopUpEvent] = useState(false);
 
   return (
     <div className="app">
@@ -50,6 +51,7 @@ function App() {
         placeholder="Recherche : Mot-clé, Entreprise..."
         entry={data}
         stateChanger={setPosition}
+        // stateChangerPopUp={setPopUpEvent}
         filter={setFilterEntry}
       />
       <ul className="radio-container">
@@ -58,7 +60,8 @@ function App() {
             <button
               className="button-category"
               style={{
-                color: category === selectedRadio ? "rgb(0, 51, 99)" : "",
+                "background-color":
+                  category === selectedRadio ? " rgb(37, 204, 162)" : "",
               }}
               htmlFor={category}
               id={category}
@@ -84,11 +87,15 @@ function App() {
         onClick={() => {
           setShowContact(!showContact);
         }}
+        style={{
+          "background-color": showContact ? " rgb(37, 204, 162)" : "",
+        }}
       >
         {" "}
         <p className="contact">
           <img
-            src={!showContact ? "contactIcon1.png" : "contactIcon2.png"}
+            src={"contactIcon1.png"}
+            // src={!showContact ? "contactIcon1.png" : "contactIcon2.png"}
             alt="contactIcon"
           ></img>
         </p>
@@ -98,6 +105,9 @@ function App() {
         className="showList"
         onClick={() => {
           setShowList(!showList);
+        }}
+        style={{
+          "background-color": showList ? " rgb(37, 204, 162)" : "",
         }}
       >
         {" "}
@@ -117,7 +127,10 @@ function App() {
           scrollWheelZoom={true}
         >
           <TileLayer
-            attribution={'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://www.sevadec.fr/">SEVADEC</a> - ' + update}
+            attribution={
+              '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://www.sevadec.fr/">SEVADEC</a> - ' +
+              update
+            }
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
           <Polygon pathOptions={fillOptions} positions={territoryPosition} />
