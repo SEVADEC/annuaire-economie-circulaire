@@ -1040,21 +1040,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "WeVan",
-                "logo": "",
-                "description": "Thèmes :<br>- Location / Partage <br>- Éco-entreprise<br><br>Description :<br>Location de vans aménagés.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">camionnette aménagée, voyage en van, road trip, camping-car, location de véhicules, vanlife, location de campervan, véhicule de loisirs, tourisme responsable, éco-tourisme </div><br><br>📍 9003 rue des Sycomores, Sangatte<br><br>📞 03 74 39 39 25<br><br>📧 -<br><br>🌐 www.we-van.com"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.810522,
-                    50.954361
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Repair Café Ruminghem",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Redonne une seconde chance à votre matériel en panne avec l'aide de réparateurs bénévoles.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Bricolage Atelier participatif Économie circulaire Réparabilité Obsolescence programmée Durabilité Réutilisation Solidarité Recyclage Récupération Réparateurs </div><br><br>📅 chaque premier mercredi du mois : 18:00 - 20:00<br><br>📍 141 Rue Gd Chem. de l'Église, 62370 Ruminghem<br><br>📞06 95 86 19 58<br><br>📧 lanotebleue@live.com<br><br>🌐 https://www.facebook.com/pg/lebobarruminghem/posts/"
