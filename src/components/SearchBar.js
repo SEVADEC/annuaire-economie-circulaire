@@ -2,7 +2,14 @@ import React, { useState } from "react";
 // import SearchIcon from "@material-ui/icons/Search";
 // import CloseIcon from "@material-ui/icons/Close";
 
-function SearchBar({ placeholder, entry, stateChanger, filter, ...rest }) {
+function SearchBar({
+  placeholder,
+  entry,
+  stateChanger,
+  filter,
+  // stateChangerPopUp,
+  ...rest
+}) {
   const [filteredData, setFilteredData] = useState([]);
   const [wordEntered, setWordEntered] = useState("");
 
@@ -24,9 +31,14 @@ function SearchBar({ placeholder, entry, stateChanger, filter, ...rest }) {
   };
 
   const clearInput = () => {
+    stateChanger([50.8571, 1.9473, 10]);
     setFilteredData([]);
     setWordEntered("");
     filter("");
+    const popup = document.querySelector(".leaflet-popup");
+    if (popup) {
+      popup.remove();
+    }
   };
 
   return (
@@ -41,9 +53,9 @@ function SearchBar({ placeholder, entry, stateChanger, filter, ...rest }) {
         <div className="searchIcon">
           {wordEntered.length === 0 ? (
             // (
-            //   <SearchIcon />
+            // <SearchIcon />
             // ) : (
-            //   <CloseIcon id="clearBtn" onClick={clearInput} />
+            // <CloseIcon id="clearBtn" onClick={clearInput} />
             // )
             <button className="searchBar">
               <img
@@ -78,6 +90,9 @@ function SearchBar({ placeholder, entry, stateChanger, filter, ...rest }) {
                         ]
                       : [50.8571, 1.9473, 10]
                   );
+                  setWordEntered(value.properties.name);
+                  filter(value.properties.name.toLowerCase());
+                  // stateChangerPopUp(value.properties);
                 }}
               >
                 <p>{value.properties.name}</p>
