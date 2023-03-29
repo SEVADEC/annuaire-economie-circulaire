@@ -1891,21 +1891,6 @@
                     50.9322785
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "<! -- WeVan",
-                "logo": "",
-                "description": "Thèmes :<br>- Location / Partage <br>- Éco-entreprise<br><br>Description :<br>Location de vans aménagés.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">camionnette aménagée, voyage en van, road trip, camping-car, location de véhicules, vanlife, location de campervan, véhicule de loisirs, tourisme responsable, éco-tourisme </div><br><br>📍 9003 rue des Sycomores, Sangatte<br><br>📞 03 74 39 39 25<br><br>📧 -<br><br>🌐 www.we-van.com -->"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.810522,
-                    50.954361
-                ]
-            }
         }
     ]
 }
