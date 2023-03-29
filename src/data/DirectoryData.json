@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "21/03/2023, 15:47:06",
+    "update": "29/03/2023, 10:55:36",
     "features": [
         {
             "type": "Feature",
@@ -1844,6 +1844,66 @@
                 "coordinates": [
                     1.945665,
                     50.86005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Centre Social et Culturel Jacques-Yves Cousteau - Marck",
+                "logo": "",
+                "description": "Thèmes:<br>- Économie Sociale et Solidaire<br><br>Description:<br>Le Centre Social et Culturel Jacques-Yves Cousteau est une association par et pour les habitants, proposant diverses activités pour tous les âges afin de favoriser la participation et le lien social sans discrimination. Il s'agit d'un lieu où l'on peut apprendre et faire ensemble, avec des activités évoluant selon les besoins et les envies des participants.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Cohésion sociale Entraide Solidarité Éducation populaire Mixité sociale Médiation sociale Activités culturelles Ateliers participatifs Insertion sociale Quartiers populaires</div><br><br>📍 181 Allée de la Découverte, 62730 Marck<br><br>📞 03 21 00 72 00<br><br>📧 csc.marck@gmail.com<br><br>🌐 marck62cousteau.centres-sociaux.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9270169,
+                    50.9570667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2isd",
+                "logo": "",
+                "description": "Thèmes:<br>- Économie Sociale et Solidaire<br><br>Description:<br>2ISD organise des événements d'entreprise sur mesure pour favoriser la cohésion d'équipe, stimuler les forces vives et remercier les collaborateurs. En mettant en application leur conviction que le sport et la détente sont des vecteurs de cohésion, de communication et de bien-être, ils offrent des projets Incentive \"grandeur nature\".<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Team building Activités ludiques Incentives Séminaires d'entreprise Événements sur mesure Renforcement d'équipe Cohésion d'équipe Stimuler la motivation Dynamique de groupe Épanouissement professionnel</div><br><br>📍 Zone Industrielle Marcel Doret, Pierre Clostermann, 62100 Calais<br><br>📞 03 21 34 78 44<br><br>🌐 www.2isd.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9196021,
+                    50.9523675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "APF",
+                "logo": "",
+                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Éco-entreprise<br><br>Description :<br>L'ESAT APF France handicap de Calais a développé une activité d'élevage d'insectes en partenariat avec la société Minus Farm, dans le cadre de sa démarche RSE et d'un programme de diversification des activités autour de la \"Techfood\". Les insectes fournissent de nombreux services écologiques, tels que la pollinisation et la bioconversion des déchets, ainsi que des produits de valeur comme le miel ou la soie.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">ESAT élevage d'insectes pollinisation bioconversion écologie </div><br><br>📍 Rue de Québec, 62100 Calais, France<br><br>📞 03 21 82 55 72<br><br>🌐 https://participer.apf-francehandicap.org/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8504101,
+                    50.9322785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "<! -- WeVan",
+                "logo": "",
+                "description": "Thèmes :<br>- Location / Partage <br>- Éco-entreprise<br><br>Description :<br>Location de vans aménagés.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">camionnette aménagée, voyage en van, road trip, camping-car, location de véhicules, vanlife, location de campervan, véhicule de loisirs, tourisme responsable, éco-tourisme </div><br><br>📍 9003 rue des Sycomores, Sangatte<br><br>📞 03 74 39 39 25<br><br>📧 -<br><br>🌐 www.we-van.com -->"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.810522,
+                    50.954361
                 ]
             }
         }
