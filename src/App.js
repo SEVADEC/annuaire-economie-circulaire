@@ -1,53 +1,45 @@
-import React, { useState } from "react";
-import { Map, TileLayer, Marker, Popup, Polygon } from "react-leaflet";
-import L from "leaflet";
-import parse from "html-react-parser";
-import Hyperlink from "react-native-hyperlink";
+// Importation des bibliothèques et des fichiers de données nécessaires pour l'application
+import React, {
+  useState,
+  // , useRef
+} from "react";
+import { Map, TileLayer, Marker, Popup, Polygon } from "react-leaflet"; // bibliothèque pour la création de cartes interactives
+import L from "leaflet"; // bibliothèque de visualisation des cartes
+import parse from "html-react-parser"; // bibliothèque pour analyser et interpréter du HTML en utilisant React
+import Hyperlink from "react-native-hyperlink"; // bibliothèque pour créer des liens dans l'application
 
-import Logo from "./components/Logo";
-import SearchBar from "./components/SearchBar";
-import Contact from "./components/ContactText";
+import Logo from "./components/Logo"; // composant pour afficher le logo de l'application
+import SearchBar from "./components/SearchBar"; // composant pour afficher la barre de recherche
+import Contact from "./components/ContactText"; // composant pour afficher le texte de contact
 
-import Directory from "./data/DirectoryData.json";
-import AllCategory from "./data/AllCategory.json";
-import Territory from "./data/Territory.json";
+import Directory from "./data/DirectoryData.json"; // fichier de données pour la liste des points d'intérêt
+import AllCategory from "./data/AllCategory.json"; // fichier de données pour les catégories de points d'intérêt
+import Territory from "./data/Territory.json"; // fichier de données pour les contours du territoire
+// import AllCity from "./data/AllCity.json";
 
-const data = Directory.features;
-const update = Directory.update;
-const radios = AllCategory.name;
+// Initialisation des données
+const data = Directory.features; // liste des points d'intérêt
+const update = Directory.update; // date de la dernière mise à jour des données
+const radios = AllCategory.name; // catégories de points d'intérêt
+// const cityData = AllCity.features;
 
+// Options pour remplir les polygones sur la carte
 const fillOptions = { fillColor: "blue" };
 
-let territoryPosition = [];
-
-for (const eachPos of Territory.features[0].geometry.coordinates[0]) {
-  territoryPosition.push([eachPos[1], eachPos[0]]);
-}
-
-// let numberCategory = [];
-
-// for (const category of radios) {
-//   let i = 0;
-//   for (const element of data) {
-//     if (element.properties.description.includes(category)) {
-//       i++;
-//     }
-//   }
-//   numberCategory.push(i);
-// }
-
 function App() {
-  const [selectedRadio, setSelectedRadio] = useState("");
-  const [position, setPosition] = useState([50.8571, 1.9473, 10]);
-  const [filterEntry, setFilterEntry] = useState("");
-  const [showList, setShowList] = useState(false);
-  const [showContact, setShowContact] = useState(false);
+  // Initialisation des états
+  const [selectedRadio, setSelectedRadio] = useState(""); // catégorie sélectionnée
+  const [position, setPosition] = useState([50.8571, 1.9473, 10]); // position de départ de la carte
+  const [filterEntry, setFilterEntry] = useState(""); // filtre de recherche
+  const [showList, setShowList] = useState(false); // affichage sous forme de liste des points d'intérêt
+  const [showContact, setShowContact] = useState(false); // affichage du texte de contact
   // const [popUpEvent, setPopUpEvent] = useState(false);
 
   return (
     <div className="app">
-      <Logo />
+      <Logo /> {/* Affichage du logo de l'application */}
       <SearchBar
+        // Barre de recherche pour filtrer les points d'intérêt
         placeholder="Recherche : Mot-clé, Entreprise..."
         entry={data}
         stateChanger={setPosition}
@@ -55,6 +47,7 @@ function App() {
         filter={setFilterEntry}
       />
       <ul className="radio-container">
+        {/* Liste des boutons pour sélectionner une catégorie de points d'intérêt */}
         {radios.map((category, index) => (
           <li key={index}>
             <button
@@ -72,6 +65,7 @@ function App() {
               }
             >
               <img
+                //image correspondante à chaque catégorie
                 className="logo-category"
                 src={index + 1 + ".png"}
                 alt={category}
@@ -85,7 +79,7 @@ function App() {
       <button
         className="showcontact"
         onClick={() => {
-          setShowContact(!showContact);
+          setShowContact(!showContact); // basculer l'état pour afficher/masquer le composant de contact
         }}
         style={{
           "background-color": showContact ? " rgb(37, 204, 162)" : "",
@@ -104,7 +98,7 @@ function App() {
       <button
         className="showList"
         onClick={() => {
-          setShowList(!showList);
+          setShowList(!showList); // bascule l'état pour afficher/masquer la liste
         }}
         style={{
           "background-color": showList ? " rgb(37, 204, 162)" : "",
@@ -121,19 +115,32 @@ function App() {
         </p>{" "}
       </button>
       {!showList ? (
-        <Map
-          center={[position[0], position[1]]}
-          zoom={position[2]}
-          scrollWheelZoom={true}
+        <Map // Composant cartographique de react-leaflet
+          center={[position[0], position[1]]} // position centrale initiale de la carte
+          zoom={position[2]} // niveau de zoom initial de la carte
+          scrollWheelZoom={true} // activer/désactiver le zoom avec la molette de défilement
         >
-          <TileLayer
+          <TileLayer // Composant TileLayer de la notice de réaction
             attribution={
               '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors <a href="https://www.sevadec.fr/">SEVADEC</a> - ' +
               update
             }
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
-          <Polygon pathOptions={fillOptions} positions={territoryPosition} />
+          {Territory.features.map((polygon) => {
+            // Inverser les coordonnées de chaque polygone
+            const invertedCoordinates = polygon.geometry.coordinates[0].map(
+              ([lng, lat, alt]) => [lat, lng, alt]
+            );
+
+            // Rendre le polygone avec les coordonnées inversées
+            return (
+              <Polygon
+                pathOptions={fillOptions}
+                positions={[invertedCoordinates]}
+              />
+            );
+          })}
           {data
             .filter((marker) =>
               marker.properties.description.includes(selectedRadio)
@@ -146,6 +153,7 @@ function App() {
             .filter((marker) =>
               marker.geometry.coordinates ? marker.geometry.coordinates : ""
             )
+            // Afficher un marqueur pour chaque élément filtré
             .map((marker, index) => (
               <Marker
                 key={index}
@@ -180,6 +188,7 @@ function App() {
             ))}
         </Map>
       ) : (
+        // Si showList est true, afficher une liste
         <ul className="list">
           {data
             .filter((marker) =>
@@ -192,6 +201,7 @@ function App() {
                   .includes(filterEntry) ||
                 marker.properties.name.toLowerCase().includes(filterEntry)
             )
+            // Afficher un élément de la liste pour chaque élément filtré
             .map((marker, index) => (
               <li className="list" key={index}>
                 <span className="dashicons dashicons-admin-tools" />
