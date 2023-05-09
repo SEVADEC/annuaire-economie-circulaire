@@ -92,11 +92,15 @@ function SearchBar({
                   );
                   setWordEntered(value.properties.name);
                   filter(value.properties.name.toLowerCase());
-                  document
-                    .querySelector(
-                      "div.leaflet-pane.leaflet-marker-pane img:first-child"
-                    )
-                    .click();
+                  if (
+                    document.querySelector(
+                      "div.leaflet-pane.leaflet-popup-pane"
+                    ).firstChild == null
+                  ) {
+                    document
+                      .querySelector("div.leaflet-pane.leaflet-marker-pane")
+                      .firstChild.click();
+                  }
                 }}
               >
                 <p>{value.properties.name}</p>
