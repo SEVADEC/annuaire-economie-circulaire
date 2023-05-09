@@ -95,7 +95,7 @@ function SearchBar({
                   // stateChangerPopUp(value.properties);
                   document.addEventListener("DOMContentLoaded", function(event) { 
                     document.querySelector("div.leaflet-pane.leaflet-marker-pane > img").click();
-                  }
+                  });
                 }}
               >
                 <p>{value.properties.name}</p>
