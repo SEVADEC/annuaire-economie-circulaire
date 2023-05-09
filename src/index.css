@@ -387,26 +387,37 @@ p.info {
 }
 
 ul.dataResult {
-  padding: 0;
+    padding: 0;
     margin-top: -8px;
     width: 376px;
     height: 117px;
-    background-color: white;
+    background-color: #fff;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
     position: absolute;
-    z-index: 99;    
+    z-index: 99;
     line-height: 2em;
     overflow-y: visible;
     overflow-x: hidden;
     direction: ltr;
-    /*position of scroll bar can use rtl if wanted, but use div * {direction: ltr;} if you do.} */
-    scrollbar-width: thin;/*fancy width*/
-    scrollbar-color: #f3f0dd #154734;/*fancy colors for Firefox*/
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+ul.dataResult:hover {
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    align-items: center;
 }
 
 .dataResult .dataItem {
-  width: 400px;
+  width: 90%;
   height: 50px;
   align-items: center;
   color: rgb(255, 255, 255);
@@ -591,7 +602,7 @@ img.searchBar {
   }
 
   ul.dataResult {    
-      width: 190px;      
+      width: 245px;      
   }
 
   .leaflet-container {
@@ -691,7 +702,7 @@ img.logo-category {
   }  
 
   ul.dataResult {    
-    width: 150px;      
+    width: 215px;      
 }
 
   .showList p {
