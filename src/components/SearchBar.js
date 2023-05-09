@@ -93,6 +93,7 @@ function SearchBar({
                   setWordEntered(value.properties.name);
                   filter(value.properties.name.toLowerCase());
                   // stateChangerPopUp(value.properties);
+                  document.querySelector("div.leaflet-pane.leaflet-marker-pane > img").click();
                 }}
               >
                 <p>{value.properties.name}</p>
