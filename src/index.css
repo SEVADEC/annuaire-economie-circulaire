@@ -408,7 +408,8 @@ ul.dataResult {
 }
 
 ul.dataResult:hover {
-    height: 60%;
+    height: auto;
+    max-height: 60%;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
