@@ -84,7 +84,7 @@ function SearchBar({
                   stateChanger(
                     value.geometry.coordinates
                       ? [
-                          value.geometry.coordinates[1] - 0.0035,
+                          value.geometry.coordinates[1] - 0.0005,
                           value.geometry.coordinates[0],
                           16,
                         ]
@@ -92,10 +92,11 @@ function SearchBar({
                   );
                   setWordEntered(value.properties.name);
                   filter(value.properties.name.toLowerCase());
-                  // stateChangerPopUp(value.properties);
-                  document.addEventListener("DOMContentLoaded", function(event) { 
-                    document.querySelector("div.leaflet-pane.leaflet-marker-pane > img").click();
-                  });
+                  document
+                    .querySelector(
+                      "div.leaflet-pane.leaflet-marker-pane img:first-child"
+                    )
+                    .click();
                 }}
               >
                 <p>{value.properties.name}</p>
