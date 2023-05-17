@@ -440,7 +440,9 @@ ul.dataResult:hover {
 }
 
 .dataItem p {
-  margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
 }
 
 .dataItem:hover {
