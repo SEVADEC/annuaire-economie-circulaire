@@ -420,7 +420,6 @@ ul.dataResult:hover {
 .dataResult .dataItem {
   width: 90%;
   height: 50px;
-  align-items: center;
   color: rgb(255, 255, 255);
   cursor: pointer;
 
@@ -440,9 +439,11 @@ ul.dataResult:hover {
 }
 
 .dataItem p {
-    display: flex;
-    justify-content: center;
-    margin: auto;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
 }
 
 .dataItem:hover {
