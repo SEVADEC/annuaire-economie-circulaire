@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "12/04/2023, 16:46:48",
+    "update": "07/07/2023, 16:58:55",
     "features": [
         {
             "type": "Feature",
@@ -22,7 +22,7 @@
             "properties": {
                 "name": "ADLC",
                 "logo": "",
-                "description": "Thèmes : <br>- Économie Sociale et Solidaire<br>- Gaspillage alimentaire<br><br>Description :<br>Cuisine solidaire territoriale. Dans cette cuisine, les produits alimentaires sont issus de dons de plusieurs structures locales afin de fournir des plats sains et équilibrés, gratuitement, auprès d'associations d'aide alimentaire. La cuisine solidaire assure également la valorisation des biodéchets de plusieurs partenaires locaux grâce à un dispositif de lombricompostage.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Solidarité, Bénévolat, Réduction des déchets, Engagement communautaire, Économie circulaire</div><br><br>📍 8, rue des soupirants 62100 Calais<br><br>📞 03 21 82 76 73<br><br>📧 adlccalais@free.fr<br>🌐 https://adlccalais.com/"
+                "description": "Thèmes : <br>- Économie Sociale et Solidaire<br>- Gaspillage alimentaire<br><br>Description :<br>Cuisine solidaire territoriale. Dans cette cuisine, les produits alimentaires sont issus de dons de plusieurs structures locales afin de fournir des plats sains et équilibrés, gratuitement, auprès d'associations d'aide alimentaire. La cuisine solidaire assure également la valorisation des biodéchets de plusieurs partenaires locaux grâce à un dispositif de lombricompostage.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Solidarité, Bénévolat, Réduction des déchets, Engagement communautaire, Économie circulaire</div><br><br>📍 8, rue des soupirants 62100 Calais<br><br>📞 03 21 82 76 73<br><br>📧 contact@adlccalais.com<br>🌐 https://adlccalais.com/"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +82,7 @@
             "properties": {
                 "name": "Pickkmi",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br><br>Description :<br>Création d'accessoires à base de déchets textiles ou de réemploi de produits textiles usagés. Création d'une gamme \"zéro déchet\" de lingettes, mouchoirs et sacs à pain. Utilisation de déchets divers comme l'alimentaire pour pratiquer une teinture végétale. Ateliers participatifs de réparation de linge et de vêtements.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">upcycling, écologie, réparateur, recyclage</div><br><br>📍 120 Rue du Vauxhall, 62100 Calais<br><br>📞 06 72 70 94 76 <br><br>📧 couture@pickkmi.fr<br>🌐 https://www.pickkmi.fr/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br><br>Description :<br>Création d'accessoires à base de déchets textiles ou de réemploi de produits textiles usagés. Création d'une gamme \"zéro déchet\" de lingettes, mouchoirs et sacs à pain. Utilisation de déchets divers comme l'alimentaire pour pratiquer une teinture végétale. Ateliers participatifs de réparation de linge et de vêtements.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">upcycling, écologie, réparateur, recyclage</div><br><br>📍 120 Rue du Vauxhall, 62100 Calais<br><br>📞 06 72 70 94 76 <br><br>📧 pickkmicouture@gmail.com<br>🌐 https://www.instagram.com/explore/tags/pickkmi"
             },
             "geometry": {
                 "type": "Point",
@@ -1012,7 +1012,7 @@
             "properties": {
                 "name": "Chrysalide",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation <br><br>Description :<br>Collection et mode écoresponsable en collaboration avec des artisans français et marques engagées.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Écologie Durabilité Upcycling Artisanat Production locale Commerce équitable Matières naturelles Zéro déchet Textile responsable Slow fashion </div><br><br>📍 34 Bd la Fayette, 62100 Calais<br><br>📞 06 13 76 81 54<br><br>📧 chrysalidecontactshop@gmail.com<br>🌐 https://fr-fr.facebook.com/ChrysalideSeReveler/<br>🌐 https://www.instagram.com/chrysalideshop/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br> - Produits zéro déchet<br><br>Description :<br>Collection et mode écoresponsable en collaboration avec des artisans français et marques engagées.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Écologie Durabilité Upcycling Artisanat Production locale Commerce équitable Matières naturelles Zéro déchet Textile responsable Slow fashion </div><br><br>📍 34 Bd la Fayette, 62100 Calais<br><br>📞 06 13 76 81 54<br><br>📧 chrysalidecontactshop@gmail.com<br>🌐 https://fr-fr.facebook.com/ChrysalideSeReveler/<br>🌐 https://www.instagram.com/chrysalideshop/"
             },
             "geometry": {
                 "type": "Point",
@@ -1462,7 +1462,7 @@
             "properties": {
                 "name": "BradOcaz",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Vide grenier permanent.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Brocante   Seconde main Friperie <br>Économie circulaire Réutilisation Chineur Récupération </div><br><br>📍 54 Quai Gustave Lamarle, 62100 Calais<br><br>📞 03 9 86 07 80 77<br><br>📧 bradocaz@yahoo.com<br>🌐 https://www.facebook.com/BradOcaz"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>vide grenier permanant.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Brocante   Seconde main Friperie <br>Économie circulaire Réutilisation Chineur Récupération </div><br><br>📍 54 Quai Gustave Lamarle, 62100 Calais<br><br>📞 03 9 86 07 80 77<br><br>📧 bradocaz@yahoo.com<br>🌐 https://www.facebook.com/BradOcaz"
             },
             "geometry": {
                 "type": "Point",
@@ -1477,7 +1477,7 @@
             "properties": {
                 "name": "Secours populaire",
                 "logo": "",
-                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Réemploi / Réparation<br><br>Description :<br>Le Secours populaire est une association française à but non-lucratif qui vise à lutter contre la pauvreté et l'exclusion en France et à l'étranger. Le Secours populaire mène des actions dans les domaines de l'aide alimentaire, de l'hébergement et de l'accès au logement, de l'accès aux soins de santé, de la lutte contre l'isolement et l'exclusion sociale, de l'éducation et de la formation, du sport et du loisir, de la solidarité internationale et de l'aide humanitaire d'urgence. L'association s'appuie sur le bénévolat et sur les dons pour mener ses activités. Elle a pour objectif de susciter l'engagement de chacun en faveur de la solidarité et de la citoyenneté.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Aide alimentaire  Bénévolat Dons </div><br><br>📍 269 Rte de Saint-Omer, 62100 Calais<br><br>📞 03 21 96 37 43<br><br>📧 https://www.secourspopulaire.fr/nous-contacter<br>🌐 www.secourspopulaire.fr"
+                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Réemploi / Réparation<br><br>Description :<br>Le Secours populaire est une association française à but non-lucratif qui vise à lutter contre la pauvreté et l'exclusion en France et à l'étranger. Le Secours populaire mène des actions dans les domaines de l'aide alimentaire, de l'hébergement et de l'accès au logement, de l'accès aux soins de santé, de la lutte contre l'isolement et l'exclusion sociale, de l'éducation et de la formation, du sport et du loisir, de la solidarité internationale et de l'aide humanitaire d'urgence. L'association s'appuie sur le bénévolat et sur les dons pour mener ses activités et a pour objectif de susciter l'engagement de chacun en faveur de la solidarité et de la citoyenneté.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Aide alimentaire  Bénévolat Dons </div><br><br>📍 269 Rte de Saint-Omer, 62100 Calais<br><br>📞 03 21 96 37 43<br><br>📧 https://www.secourspopulaire.fr/nous-contacter<br>🌐 www.secourspopulaire.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -1492,7 +1492,7 @@
             "properties": {
                 "name": "Marguerite cosmétique",
                 "logo": "",
-                "description": "Thèmes :<br>- Produits zéro déchet<br>- Éco-entreprise<br><br>Description :<br>Marguerite Cosmétique est une entreprise de savonnerie qui propose une gamme de produits cosmétiques écologiques et durables. Elle propose une gamme de savons à base d'ingrédients naturels, des déodorants et baumes solides, ainsi que des accessoires fabriqués à la main. L'entreprise s'engage à utiliser des matériaux recyclés et à réduire leur empreinte carbone en sélectionnant des matières premières locales.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Cosmétiques écologiques Savons naturels Accessoires fabriqués à la main Matériaux recyclés Empreinte carbone réduite Matières premières locales </div><br><br>📍 227 Rue Arthur Rimbaud, 62137 Coulogne<br><br>📞 06 61 45 99 46<br><br>📧 contact@margueritecosmetique.fr<br><br>🌐 www.margueritecosmetique.fr"
+                "description": "Thèmes :<br>- Produits zéro déchet<br>- Éco-entreprise<br><br>Description :<br>Marguerite Cosmétique est une entreprise de savonnerie qui propose une gamme de produits cosmétiques écologiques et durables. Elle propose une gamme de savons à base d'ingrédients naturels, des déodorants et baumes solides, ainsi que des accessoires fabriqués à la main. L'entreprise s'engage à utiliser des matériaux recyclés et à réduire leur empreinte carbone en sélectionnant des matières premières locales. Elle travaille avec des entreprises françaises pour offrir des boîtes à savon en liège et en plastique de bouteille d’eau recyclées ou encore une proposant des porte-savons minimalistes.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Cosmétiques écologiques Savons naturels Accessoires fabriqués à la main Matériaux recyclés Empreinte carbone réduite Matières premières locales </div><br><br>📍 227 Rue Arthur Rimbaud, 62137 Coulogne<br><br>📞 06 61 45 99 46<br><br>📧 contact@margueritecosmetique.fr<br><br>🌐 www.margueritecosmetique.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -1537,7 +1537,7 @@
             "properties": {
                 "name": "Bia fournitures - Takapas",
                 "logo": "",
-                "description": "Thèmes :<br>- Recyclage<br>- Réemploi / Réparation<br><br>Description :<br>Bia fournitures, une entreprise basée à Calais spécialisée dans la vente d'équipements de protection individuelle, a déposé la marque Takapas qui recycle les chaussures de sécurité usagées toutes marques et tous modèles confondus (coquilles et semelles acier et/ou composite) non-souillées.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">recyclage de chaussures de sécurité, récupération de chaussures de sécurité usagées, réutilisation de chaussures de sécurité, récupération de chaussures de travail, transformation de chaussures de sécurité, seconde vie des chaussures de sécurité, upcycling de chaussures de sécurité, chaussures de sécurité recyclées, chaussures de travail recyclées, chaussures de sécurité réutilisées. </div><br><br>📍 3 Rue Louis Breguet, ZAC Marcel Doret - BP 55, 62101 Calais<br><br>📞 03 21 19 61 07<br><br>📧 info@bia-france.fr<br>🌐 www.bia-france.fr<br>🌐https://www.facebook.com/profile.php?id=100065229561566"
+                "description": "Thèmes :<br>- Recyclage<br>- Réemploi / Réparation<br><br>Description :<br>Bia fournitures, une entreprise basée à Calais spécialisé dans la vente d'équipements de protection individuelle, a déposé la marque Takapas qui recycle les chaussures de sécurité usagées toutes marques et tous modèles confondus (coquilles et semelles acier et/ou composite) non-souillées.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">recyclage de chaussures de sécurité, récupération de chaussures de sécurité usagées, réutilisation de chaussures de sécurité, récupération de chaussures de travail, transformation de chaussures de sécurité, seconde vie des chaussures de sécurité, upcycling de chaussures de sécurité, chaussures de sécurité recyclées, chaussures de travail recyclées, chaussures de sécurité réutilisées. </div><br><br>📍 3 Rue Louis Breguet, ZAC Marcel Doret - BP 55, 62101 Calais<br><br>📞 03 21 19 61 07<br><br>📧 info@bia-france.fr<br>🌐 www.bia-france.fr<br>🌐https://www.facebook.com/profile.php?id=100065229561566"
             },
             "geometry": {
                 "type": "Point",
@@ -1627,7 +1627,7 @@
             "properties": {
                 "name": "Pain et Partage Calais",
                 "logo": "",
-                "description": "Thème : <br>- Économie Sociale et Solidaire<br><br>Description : <br>Pain et Partage Calais est une boulangerie solidaire bio qui s'est installée à Calais. Elle fournit des produits bio à des collectivités, des établissements médico-sociaux, des acteurs du tourisme et de la culture. Son objectif est de promouvoir l'embauche des demandeurs d'emploi longue durée en leur offrant des postes de chauffeur-livreur et d'aide-boulanger.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Bio Collectivités Établissements médico-sociaux   Emploi Demandeurs d'emploi longue durée  Aide-boulanger Insertion professionnelle </div><br><br>📍 95, Rue des Salines, Enceinte usine Noyon Dentelles, à côté de la salle de sports Maurice Desmet, 62100 Calais<br><br>📞 03 21 85 43 43<br><br>📧 calais@painetpartage.eu<br><br>🌐 https://fournil-papillons.com/"
+                "description": "Thème : <br>- Économie Sociale et Solidaire<br><br>Description : <br>Pain et Partage Calais est une boulangerie solidaire bio qui s'est installée à Calais. Elle fournit des produits bio à des collectivités, des établissements médico-sociaux, des acteurs du tourisme et de la culture. Son objectif est de promouvoir l'emploi des demandeurs d'emploi longue durée en leur offrant des postes de chauffeur-livreur et d'aide-boulanger.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Bio Collectivités Établissements médico-sociaux   Emploi Demandeurs d'emploi longue durée  Aide-boulanger Insertion professionnelle </div><br><br>📍 95, Rue des Salines, Enceinte usine Noyon Dentelles, à côté de la salle de sports Maurice Desmet, 62100 Calais<br><br>📞 03 21 85 43 43<br><br>📧 calais@painetpartage.eu<br><br>🌐 https://fournil-papillons.com/"
             },
             "geometry": {
                 "type": "Point",
@@ -1647,8 +1647,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.0542221,
-                    50.9331469
+                    2.0537473,
+                    50.9329863
                 ]
             }
         },
@@ -1662,8 +1662,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.0532403,
-                    50.9332466
+                    2.0535756,
+                    50.9329863
                 ]
             }
         },
@@ -1687,7 +1687,7 @@
             "properties": {
                 "name": "Péoux Services",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Péoux Services est une entreprise spécialisée dans le dépannage et la réparation d'appareils électroménagers dans la région de Calais. Leur équipe se déplace rapidement chez vous pour réparer ou dépanner vos appareils, afin de prolonger leur durée de vie et réduire votre impact environnemental.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparateurs d'appareils électroménagers, dépanneur d'appareils électroménagers, prolongation de durée de vie, durabilité, service de réparation à domicile, réduction de l'impact environnemental, économie circulaire, récupération d'appareils, remise en état, maintenance. </div><br><br><strong>Labélisé QualiRépar</strong><br><img src=\"https://rapport2021.ecosystem.eco/wp-content/uploads/2022/06/qualirepar_noir_rvb1-300x151.png\" width=\"90px\" alt=\"QualiRéparLogo\"> </img><br><br>📍 49 Boulevard Léon Gambetta, Calais, 62100<br><br>📞 09 81 45 20 14<br><br>📧 dpeoux@gmail.com<br><br>🌐 www.peouxservices.fr"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Péoux services est une entreprise spécialisée dans le dépannage et la réparation d'appareils électroménagers dans la région de Calais. Leur équipe se déplace rapidement chez vous pour réparer ou dépanner vos appareils, afin de prolonger leur durée de vie et réduire votre impact environnemental.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparateurs d'appareils électroménagers, dépanneur d'appareils électroménagers, prolongation de durée de vie, durabilité, service de réparation à domicile, réduction de l'impact environnemental, économie circulaire, récupération d'appareils, remise en état, maintenance. </div><br><br><strong>Labélisé QualiRépar</strong><br><img src=\"https://rapport2021.ecosystem.eco/wp-content/uploads/2022/06/qualirepar_noir_rvb1-300x151.png\" width=\"90px\" alt=\"QualiRéparLogo\"> </img><br><br>📍 49 Boulevard Léon Gambetta, Calais, 62100<br><br>📞 09 81 45 20 14<br><br>📧 dpeoux@gmail.com<br><br>🌐 www.peouxservices.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -1717,7 +1717,7 @@
             "properties": {
                 "name": "Récup'bois",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Recup'Bois propose des plaquettes de bois 100 % françaises pour la création et l'entretien des espaces verts des professionnels. Fabriquées à partir de bois de récupération avec une traçabilité totale, elles sont disponibles immédiatement.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Bois de seconde main Durabilité Respectueux de l'environnement Produits locaux Suivi complet Fabrication écologique Granulés de bois Zones de verdure </div><br><br>📍 720 Rue de l'Église, 62610 Landrethun-lès-Ardres<br><br>📞 06 13 48 34 28<br><br>📧 contact@recupbois.com<br><br>🌐 https://www.recupbois.com/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>RecupBois propose des plaquettes de bois 100 % françaises pour la création et l'entretien des espaces verts des professionnels. Fabriquées à partir de bois de récupération avec une traçabilité totale, elles sont disponibles immédiatement.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Bois de seconde main Durabilité Respectueux de l'environnement Produits locaux Suivi complet Fabrication écologique Granulés de bois Zones de verdure </div><br><br>📍 720 Rue de l'Église, 62610 Landrethun-lès-Ardres<br><br>📞 06 13 48 34 28<br><br>📧 contact@recupbois.com<br><br>🌐 https://www.recupbois.com/"
             },
             "geometry": {
                 "type": "Point",
@@ -1775,7 +1775,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Compagnie Les Petites Boîtes",
+                "name": "Compagnie Les petites boîtes",
                 "logo": "",
                 "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>La Compagnie Les Petites Boîtes est une compagnie artistique composée de sept personnes aux compétences artistiques spécifiques. Ils proposent des projets adaptés aux individus de tout âge, y compris les personnes déficientes. Ils fonctionnent comme un collectif, en privilégiant le travail d'équipe et la recherche constante de nouvelles voies artistiques et organisationnelles. La compagnie bénéficie de soutiens précieux de la part de diverses institutions et propose des ateliers, des co-productions, des expositions de travaux et des diffusions. <br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Compagnie artistique Compétences spécifiques Projets inclusifs Collectif Collaboration artistique Recherche artistique Soutiens institutionnels Ateliers artistiques Co-productions Diffusions artistiques</div><br><br>📍 639 Imp. des Sarts, 62850 Herbinghen<br><br>📞 06 80 84 03 39<br><br>📧 compagnielespetitesboites@orange.fr<br><br>🌐 https://www.compagnielespetitesboites.com/<br><br>🌐 https://www.facebook.com/profile.php?id=10006347083650"
             },
@@ -1850,7 +1850,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "2ISD",
+                "name": "2isd",
                 "logo": "",
                 "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>2ISD organise des événements d'entreprise sur mesure pour favoriser la cohésion d'équipe, stimuler les forces vives et remercier les collaborateurs. En mettant en application leur conviction que le sport et la détente sont des vecteurs de cohésion, de communication et de bien-être.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Team building Activités ludiques Incentives Séminaires d'entreprise Événements sur mesure Renforcement d'équipe Cohésion d'équipe Stimuler la motivation Dynamique de groupe Épanouissement professionnel</div><br><br>📍 Zone Industrielle Marcel Doret, Pierre Clostermann, 62100 Calais<br><br>📞 03 21 34 78 44<br><br>🌐 www.2isd.com"
             },
@@ -1867,7 +1867,7 @@
             "properties": {
                 "name": "ESAT APF \"Les Terres d'Opale\" Calais",
                 "logo": "",
-                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Éco-entreprise<br><br>Description :<br>L'ESAT APF de Calais a développé une activité d'élevage d'insectes en partenariat avec la société \"Minus Farm\", dans le cadre de sa démarche RSE et d'un programme de diversification des activités autour de la \"Techfood\". Les insectes fournissent de nombreux services écologiques, tels que la pollinisation et la bioconversion des déchets, ainsi que des produits de valeur comme le miel ou la soie.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">ESAT élevage d'insectes pollinisation bioconversion écologie </div><br><br>📍 Rue de Québec, 62100 Calais, France<br><br>📞 03 21 82 55 72<br><br>📧 esat.calais@apf.asso.fr<br><br>🌐 https://participer.apf-francehandicap.org/"
+                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Éco-entreprise<br><br>Description :<br>L'ESAT APF France handicap de Calais a développé une activité d'élevage d'insectes en partenariat avec la société \"Minus Farm\", dans le cadre de sa démarche RSE et d'un programme de diversification des activités autour de la \"Techfood\". Les insectes fournissent de nombreux services écologiques, tels que la pollinisation et la bioconversion des déchets, ainsi que des produits de valeur comme le miel ou la soie.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">ESAT élevage d'insectes pollinisation bioconversion écologie </div><br><br>📍 Rue de Québec, 62100 Calais, France<br><br>📞 03 21 82 55 72<br><br>📧 esat.calais@apf.asso.fr<br><br>🌐 https://participer.apf-francehandicap.org/"
             },
             "geometry": {
                 "type": "Point",
@@ -1925,9 +1925,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "AlloPCsecours",
+                "name": "alloPCsecours",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>AlloPCsecours est une entreprise labellisée Répar'acteur, qui se consacre à la réparation de matériels informatiques pour prolonger leur durée de vie et réduire les déchets électroniques. La société s'engage ainsi à préserver l'environnement en offrant des solutions de réparation efficaces et durables.<br><br>📍 4230 Route de Gravelines, 62370 Saint-Folquin<br><br>📞 0⑹ ⓹1 70 4⓹ 76 (anti-spam)<br><br>📧 gcaprara@allopcsecours.fr<br><br>🌐 https://www.allopcsecours.fr<br><br>🌐 https://www.facebook.com/allopcsecours/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>AlloPCsecours est une entreprise labellisée Répar'acteur, qui se consacre à la réparation de matériels informatiques pour prolonger leur durée de vie et réduire les déchets électroniques. La société s'engage ainsi à contribuer à la préservation de l'environnement en offrant des solutions de réparation efficaces et durables.<br><br>📍 4230 Route de Gravelines, 62370 Saint-Folquin<br><br>📞 0⑹ ⓹1 70 4⓹ 76 (anti-spam)<br><br>📧 gcaprara@allopcsecours.fr<br><br>🌐 https://www.allopcsecours.fr<br><br>🌐 https://www.facebook.com/allopcsecours/"
             },
             "geometry": {
                 "type": "Point",
@@ -1940,7 +1940,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Zeus-Informatique",
+                "name": "Zeus Informatique",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Zeus-Informatique est une entreprise spécialisée dans la réparation et la maintenance d'ordinateurs portables et de bureau. Leur objectif est de prolonger la durée de vie des équipements informatiques pour réduire les déchets électroniques. Ils offrent des services de qualité pour assurer une utilisation optimale de vos appareils.<br><br>📍 35 Rue François 1er, 62610 Ardres<br><br>📞 06 58 96 23 54<br><br>📧 ZEUS-INFORMATIQUE@PROTONMAIL.COM<br><br>🌐 https://www.zeus-informatique.com/"
             },
@@ -1955,7 +1955,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "L'Atelier d'Annie",
+                "name": "L'atelier d'Annie",
                 "logo": "",
                 "description": "Thème : <br>- Réemploi / Réparation<br><br>Description : <br>L'Atelier d'Annie offre un service de retouche et couture pour une variété de vêtements, tels que les jupes, les robes, les pantalons, les vestes, les chemises, ainsi que pour les rideaux. <br><br>📍 124 Rue du Calaisis, 62370 Audruicq<br><br>📞 07 82 24 04 15<br><br>📧 fredericannie@free.fr<br><br>🌐 https://www.facebook.com/profile.php?id=100057332984520"
             },
@@ -2002,7 +2002,7 @@
             "properties": {
                 "name": "Cape Eva",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Couturière offrant des services de retouche et de réparation de vêtements afin de prolonger leur durée de vie et d'éviter de les jeter prématurément. <br><br>📍 45 Rue Des Prairies, 62100 Calais<br><br>📞 06 03 61 21 06"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Couturière offrant des services de retouche et de réparation vêtements afin de prolonger leur durée de vie et d'éviter de les jeter prématurément. <br><br>📍 45 Rue Des Prairies, 62100 Calais<br><br>📞 06 03 61 21 06"
             },
             "geometry": {
                 "type": "Point",
@@ -2030,7 +2030,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Véro Création Vente",
+                "name": "Véro création vente",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Véro Création Vente est une entreprise de réparation de vêtements et de couture. Elle offre des services de retouche et de réparation de vêtements afin de prolonger leur durée de vie et de réduire le gaspillage.<br><br>📍 272 Rue Du Rosendael, 62370 Audruicq, France<br><br>📞 07 60 40 13 23"
             },
@@ -2077,7 +2077,7 @@
             "properties": {
                 "name": "TATA P. Créations couture zéro déchet",
                 "logo": "",
-                "description": "Thème :<br>- Produits zéro déchet<br><br>Description :<br>TATA P. Créations couture zéro déchet propose des produits zéro déchet, réutilisables et lavables, fabriqués en coton oeko-tex et/ou doublé de micro-éponge de coton bio, entièrement faits main en France.<br><br>📍 Sainte-Marie-Kerque<br><br>📞 06 47 76 19 61<br><br>📧 tatap.creationszd@gmail.com<br><br>🌐 https://www.facebook.com/TataPcreationsZD/"
+                "description": "Thème :<br>- Produits zéro déchet<br><br>Description :<br>TATA P. Créations couture zéro déchet propose des produits zéro déchet, réutilisables et lavables, fabriqués en coton oekotex et/ou doublé de micro éponge de coton bio, entièrement faits main en France.<br><br>📍 Sainte-Marie-Kerque<br><br>📞 06 47 76 19 61<br><br>📧 tatap.creationszd@gmail.com<br><br>🌐 https://www.facebook.com/TataPcreationsZD/"
             },
             "geometry": {
                 "type": "Point",
@@ -2105,9 +2105,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "L'Atelier d'LN",
+                "name": "L'atelier d'LN",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description : <br>L’Atelier d’LN propose des animations et des activités artistiques pour recycler les déchets plastiques. Les déchets sont transformés en œuvres d'art ou en objets utiles, dans une approche ludique et créative.<br><br>📍 Oye-Plage<br><br>📞 06 12 93 74 18<br><br>📧 hellaunatzoe@gmail.com<br><br>🌐 https://www.facebook.com/animatricerecyclage"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description : <br>L’atelier d’LN propose des animations et des activités artistiques pour recycler les déchets plastiques. Les déchets sont transformés en œuvres d'art ou en objets utiles, dans une approche ludique et créative.<br><br>📍 Oye-Plage<br><br>📞 06 12 93 74 18<br><br>📧 hellaunatzoe@gmail.com<br><br>🌐 https://www.facebook.com/animatricerecyclage"
             },
             "geometry": {
                 "type": "Point",
@@ -2120,9 +2120,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Le Ptit Atelier d'Angel",
+                "name": "Le ptit atelier d'angel",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Le Ptit Atelier d'Angel est une couturière professionnelle et expérimentée à Bouquehault. Elle propose ses services de création, de réparation et de confection de vêtements avec un travail rapide et soigné. Le tout dans une démarche de réemploi et de prolongation de la durée de vie des vêtements.<br><br>📍 5 Rue de l'École, 62340 Bouquehault<br><br>📞 06 58 87 78 42<br><br>📧 petit.atelier.dangel@gmail.com<br><br>🌐 https://www.facebook.com/groups/220712371629256/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Le Ptit Atelier d'Angel est une couturière professionnelle et expérimentée à Bouquehault. Elle propose ses services de création, de réparation et de confection de vêtements avec un travail rapide et soigné. Le tout dans une démarche de réemploi et de prolongation de la vie des vêtements.<br><br>📍 5 Rue de l'École, 62340 Bouquehault<br><br>📞 06 58 87 78 42<br><br>📧 petit.atelier.dangel@gmail.com<br><br>🌐 https://www.facebook.com/groups/220712371629256/"
             },
             "geometry": {
                 "type": "Point",
@@ -2180,7 +2180,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "L'univers de Julie Couture",
+                "name": "L'univers de julie couture",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Julie, autoentrepreneuse, propose des services de couture et de retouches, ainsi que la confection de vêtements sur mesure et de cosplay sur le Calaisis.<br><br>📍 Guines<br><br>📞 06 19 86 42 17<br><br>📧 daneljulie@gmail.com<br><br>🌐 https://www.facebook.com/atelierJuliecouture/?locale=fr_FR"
             },
@@ -2197,7 +2197,7 @@
             "properties": {
                 "name": "Les mignonneries de Mimie",
                 "logo": "",
-                "description": "Thème : <br>- Produits zéro déchet<br><br>Description :<br>Créatrice française d'articles mignons cousus à la main dans son atelier. Propose des produits réutilisables comme des lingettes et serviettes lavables.<br><br>📍 Ardres, France<br><br>📧 lesmignonneriesdemimie@gmail.com<br><br>🌐 https://www.facebook.com/lesmignonneriesdeMimie/<br><br>🌐 https://www.instagram.com/lesmignonneriesdemimie_/?hl=fr"
+                "description": "Thème : <br>- Produits zéro déchet<br><br>Description :<br>Créatrice française d'articles mignons cousus à la main dans son atelier. Propose des produits réutilisables comme des lingettes et serviettes lavable.<br><br>📍 Ardres, France<br><br>📧 lesmignonneriesdemimie@gmail.com<br><br>🌐 https://www.facebook.com/lesmignonneriesdeMimie/<br><br>🌐 https://www.instagram.com/lesmignonneriesdemimie_/?hl=fr"
             },
             "geometry": {
                 "type": "Point",
@@ -2212,7 +2212,7 @@
             "properties": {
                 "name": "Atelier Brigitte-couturière",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Couturière offrant des services de retouche et de réparation de vêtements afin de prolonger leur durée de vie et d'éviter de les jeter prématurément. <br><br>📍 145 Av. Paul Machy, 62215 Oye-Plage<br><br>📞 03 21 35 84 28"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Couturière offrant des services de retouche et de réparation vêtements afin de prolonger leur durée de vie et d'éviter de les jeter prématurément. <br><br>📍 145 Av. Paul Machy, 62215 Oye-Plage<br><br>📞 03 21 35 84 28"
             },
             "geometry": {
                 "type": "Point",
@@ -2242,7 +2242,7 @@
             "properties": {
                 "name": "Beauty Phone",
                 "logo": "",
-                "description": "Thème : Réemploi/Réparation<br><br>Description :<br>Beauty Phone est un magasin de réparation de téléphones mobiles situé dans le Centre Commercial Cité Europe à Calais. Avec des techniciens qualifiés, ils réparent vos téléphones avec des pièces de qualité. Leur objectif est de prolonger la durée de vie de votre appareil au lieu de le remplacer.<br><br>📍 Centre Commercial cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 09 80 83 03 46<br><br>🌐 https://beautyphonecite.business.site/<br><br>🌐 https://www.facebook.com/Beautyphonciteeurope"
+                "description": "Thème : Réemploi/Réparation<br><br>Description :<br>Beauty Phone est un magasin de réparation de téléphones mobiles situé dans le Centre Commercial Cité Europe. Avec des techniciens qualifiés, ils réparent vos téléphones avec des pièces de qualité. Leur objectif est de prolonger la vie de votre appareil au lieu de le remplacer.<br><br>📍 Centre Commercial cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 09 80 83 03 46<br><br>🌐 https://beautyphonecite.business.site/<br><br>🌐 https://www.facebook.com/Beautyphonciteeurope"
             },
             "geometry": {
                 "type": "Point",
@@ -2255,7 +2255,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "High-Tech Reboot",
+                "name": "High tech reboot",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>High-Tech Reboot est spécialisé dans la réparation et la vente de pièces détachées pour smartphones, tablettes et consoles de jeux.<br><br>📍 Rue Henri Guillaumet, 62100 Calais, France<br><br>📞 07 69 61 66 71<br><br>🌐 https://www.facebook.com/profile.php?id=100057636271700"
             },
@@ -2272,7 +2272,7 @@
             "properties": {
                 "name": "Doc'Mobiles",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Doc'Mobiles propose des services de réparation et de vente de smartphones et tablettes. Le fondateur, passionné de technologie, met son expérience à votre disposition pour allonger la durée de vie de vos appareils. L'entreprise a également choisi de s'engager pour l'environnement en partenariat avec l'association \"Pour la vie\" pour la valorisation des anciens smartphones et tablettes.<br><br>📍 500 route Bonningues, Pihen-lès-Guînes, France<br><br>📞 06 63 19 43 06<br><br>📧 docmobiles62@gmail.com<br><br>🌐 https://www.docmobiles62.fr<br><br>🌐 https://www.facebook.com/Docmobiles62/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Doc'mobiles propose des services de réparation et de vente de smartphones et tablettes. Le fondateur, passionné de technologie, met son expérience à votre disposition pour allonger la durée de vie de vos appareils. L'entreprise a également choisi de s'engager pour l'environnement en partenariat avec l'association \"Pour la vie\" pour la valorisation des anciens smartphones et tablettes.<br><br>📍 500 route Bonningues, Pihen-lès-Guînes, France<br><br>📞 06 63 19 43 06<br><br>📧 docmobiles62@gmail.com<br><br>🌐 https://www.docmobiles62.fr<br><br>🌐 https://www.facebook.com/Docmobiles62/"
             },
             "geometry": {
                 "type": "Point",
@@ -2300,7 +2300,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Verhaeghe Dépannage Informatique",
+                "name": "Verhaeghe dépannage informatique",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Verhaeghe Dépannage Informatique est spécialisé dans la réparation et le dépannage d'ordinateurs.<br><br>📍 36 Rue Alfred Delcluze, 62100 Calais<br><br>📞 06 29 62 99 24<br><br>📧 verhaegheflorentin@live.fr<br><br>🌐 https://verhaeghe-depannage-informatique.business.site/?utm_source=gmb&utm_medium=referral<br><br>🌐 https://www.facebook.com/groups/1757641004435423"
             },
@@ -2317,7 +2317,7 @@
             "properties": {
                 "name": "Comeca",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br><br>Description :<br>Comeca est une entreprise qui offre des services de réparation et de maintenance pour les parcs informatiques professionnels. Elle aide les entreprises à réduire leur impact environnemental en prolongeant la durée de vie de leur matériel informatique.<br><br>📍 405 Rue Marcel Dassault, 62100 Calais<br><br>📞 03 21 36 43 101<br><br>📧 contact@sas-comeca.fr<br><br>🌐 https://sas-comeca.fr/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br><br>Description :<br>Comeca est une entreprise qui offre des services de réparation et de maintenance pour les parcs informatiques professionnels qui peut aider les entreprises à réduire leur impact environnemental en prolongeant la durée de vie de leur matériel informatique.<br><br>📍 405 Rue Marcel Dassault, 62100 Calais<br><br>📞 03 21 36 43 101<br><br>📧 contact@sas-comeca.fr<br><br>🌐 https://sas-comeca.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -2360,9 +2360,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "MS INORMATIK",
+                "name": "Ms informatik",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>MS INFORMATIK propose des services de dépannage et de coaching en informatique pour les particuliers et les professionnels. L'entreprise effectue la réparation et la remise à zéro d'équipements électroniques tels que les ordinateurs, tablettes et consoles de jeux vidéos. En plus de ses services de réparation, MS INFORMATIK offre également des formations et une assistance administrative.<br><br>📍 59 Rue Chamberland, 62730 Marck<br><br>📞 06 68 72 56 19<br><br>📧 ms.1formatik@gmail.com"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>MS Informatik propose des services de dépannage et de coaching en informatique pour les particuliers et les professionnels. L'entreprise effectue la réparation et la remise à zéro d'équipements électroniques tels que les ordinateurs, tablettes et consoles de jeux vidéos. En plus de ses services de réparation, MS Informatik offre également des formations et une assistance administrative.<br><br>📍 59 Rue Chamberland, 62730 Marck<br><br>📞 06 68 72 56 19<br><br>📧 ms.1formatik@gmail.com"
             },
             "geometry": {
                 "type": "Point",
@@ -2377,7 +2377,7 @@
             "properties": {
                 "name": "Eco-Mam",
                 "logo": "",
-                "description": "Thème : <br>- Économie Sociale et Solidaire<br><br>Description : <br>Eco-Mam est une maison d'assistantes maternelles située à Saint-Folquin, qui a pour objectif d'être éco-responsable en utilisant des couches et cotons lavables, de l'eau filtrée, des plats faits maison, un poulailler ainsi qu'un potager.<br><br>📍 110 route des anciens combattants, 62370 Saint-Folquin<br><br>📞 06 51 15 51 70 / 06 79 18 02 39<br><br>📧 eco.mam.62@gmail.com<br><br>🌐 https://www.facebook.com/eco.mam.saint.folquin/ <br> 🌐 https://www.helloasso.com/associations/eco-mam"
+                "description": "Thème : <br>- Économie Sociale et Solidaire<br><br>Description : <br>Eco-Mam est une maison d'assistantes maternelles située à Saint-Folquin, qui a pour objectif d'être éco-responsable en utilisant des couches et cotons lavables, de l'eau filtrée, des plats faits maison, un poulailler et un potager.<br><br>📍 110 route des anciens combattants, 62370 Saint-Folquin<br><br>📞 06 51 15 51 70 / 06 79 18 02 39<br><br>📧 eco.mam.62@gmail.com<br><br>🌐 https://www.facebook.com/eco.mam.saint.folquin/ <br> 🌐 https://www.helloasso.com/associations/eco-mam"
             },
             "geometry": {
                 "type": "Point",
@@ -2422,7 +2422,7 @@
             "properties": {
                 "name": "Le Fil de Léa",
                 "logo": "",
-                "description": "Thème :<br>- Produit zéro déchet<br><br>Description :<br>Le Fil de Léa est une créatrice artisanale de couture spécialisée dans les articles pour bébés, enfants et femmes, avec une approche écoresponsable et zéro déchet. <br><br>📍 Vieille-Église<br><br>🌐 https://www.etsy.com/fr/shop/lefildelea"
+                "description": "Thème :<br>- Produit zéro déchet<br><br>Description :<br>Le Fil de Léa est une créatrice artisanale de couture spécialisée dans les articles pour bébés, enfants et femmes, avec une approche éco-responsable et \"Zéro déchet\". <br><br>📍 Vieille-Église<br><br>🌐 https://www.etsy.com/fr/shop/lefildelea"
             },
             "geometry": {
                 "type": "Point",
@@ -2435,9 +2435,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Au fil de Fab",
+                "name": "Au fil du fab",
                 "logo": "",
-                "description": "Thème :<br>- Produits zéro déchet<br><br>Description :<br>Au fil de Fab est une créatrice artisanale de couture (sacs à vrac, essuie-tout lavable, lingettes démaquillantes).<br><br>📍  Ruminghem<br><br>🌐 https://www.facebook.com/groups/473694323773368"
+                "description": "Thème :<br>- Produits zéro déchet<br><br>Description :<br>Au fil du fab est une créatrice artisanale de couture telle que des sacs à vrac, des essuie-tout lavables, et des lingettes démaquillantes.<br><br>📍  Ruminghem<br><br>🌐 https://www.facebook.com/groups/473694323773368"
             },
             "geometry": {
                 "type": "Point",
@@ -2452,7 +2452,7 @@
             "properties": {
                 "name": "Niie et ses petites coutures",
                 "logo": "",
-                "description": "Thèmes :<br>- Produits zéro déchet<br>- Réemploi / Réparation<br><br>Description :<br>Créatrice couturière autodidacte et passionnée, elle crée des vêtements, des accessoires ainsi que des articles d'ameublement uniques.<br>Elle apprécie de faire des créations en favorisant le réemploi de tissus (upcycling).<br> Son univers est à la fois vintage, coloré et moderne.<br><br>📍 46 Rue Dognin, 62100 Calais<br><br>📞 06 48 87 23 74<br><br>🌐https://niieetsespetitescoutures.com/"
+                "description": "Thèmes :<br>- Produits zéro déchet<br>- Réemploi / Réparation<br><br>Description :<br>Créatrice couturière autodidacte passionnée. Elle crée des vêtements, des accessoires et des articles d'ameublement uniques.<br>Elle apprécie de faire des créations en favorisant le réemploi de tissus (Upcycling).<br> Son univers est à la fois vintage, coloré et moderne.<br><br>📍 46 Rue Dognin, 62100 Calais<br><br>📞 06 48 87 23 74<br><br>🌐https://niieetsespetitescoutures.com/"
             },
             "geometry": {
                 "type": "Point",
@@ -2467,7 +2467,7 @@
             "properties": {
                 "name": "Joly Jennifer",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Joly Jennifer est une artisane indépendante proposant un service de retouches et de couture pour vêtements et ameublements.<br><br>📍 Brêmes<br><br>📞 03 21 19 97 18"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Joly Jennifer est une artisane indépendante proposant un service de retouches et de couture pour vêtements et ameublements.<br><br>📍 Bremes<br><br>📞 03 21 19 97 18"
             },
             "geometry": {
                 "type": "Point",
@@ -2497,7 +2497,7 @@
             "properties": {
                 "name": "Recup'store",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Recup'store est une entreprise spécialisée dans la rénovation, la récupération et le recyclage de meubles. Ils fabriquent également des lampes originales à partir d'objets récupérés. <br><br>📍 134 Rue de Souchez, 62100 Calais<br><br>📞 06 21 09 23 06<br><br>📧 yayarin@hotmail.fr<br><br>🌐 https://www.recupstore.business.site<br><br>🌐 https://www.facebook.com/Recup.Store/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Récup'store est une entreprise spécialisée dans la rénovation, la récupération et le recyclage de meubles. Ils fabriquent également des lampes originales à partir d'objets récupérés. <br><br>📍 134 Rue de Souchez, 62100 Calais<br><br>📞 06 21 09 23 06<br><br>📧 yayarin@hotmail.fr<br><br>🌐 https://www.recupstore.business.site<br><br>🌐 https://www.facebook.com/Recup.Store/"
             },
             "geometry": {
                 "type": "Point",
@@ -2512,13 +2512,43 @@
             "properties": {
                 "name": "Bois flottés de Dan le nounours",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br><br>Description :<br>Artiste créant des objets uniques à partir de bois flotté récupéré sur les plages. Dan le nounours utilise les bois transportés et érodés pour créer des sculptures, des décorations murales et bien plus encore.<br><br>📍 Sangatte<br><br>📞 06 01 82 01 18<br><br>📧 ddesmet@wanadoo.fr<br><br>🌐 https://www.facebook.com/profile.php?id=100063668886018"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br><br>Description :<br>Artiste créant des objets uniques à partir de bois flotté récupéré sur les plages. Dan le Nounours utilise les bois transportés et érodés pour créer des sculptures, des décorations murales et bien plus encore.<br><br>📍 Sangatte<br><br>📞 06 01 82 01 18<br><br>📧 ddesmet@wanadoo.fr<br><br>🌐 https://www.facebook.com/profile.php?id=100063668886018"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     1.7516791,
                     50.9454649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Couture Des 2 Caps -",
+                "logo": "",
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br><br>Description :<br>\"Couture Des 2 Caps\" est spécialisé dans la fabrication d'accessoires et d'articles de mode en tissu.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Fabrication artisanale Mode éthique Accessoires textiles Couture créative Réutilisation Matériaux durables Consommation responsable Économie circulaire</div><br><br>📍 62100 Calais<br><br>📞 06 09 52 52 76 <br><br>📧 couturedes2caps@gmail.com<br>🌐 https://www.facebook.com/couturedes2caps/<br>🌐 https://www.instagram.com/couturedes2caps/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8570067,
+                    50.9467479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seconde chance by Hélène",
+                "logo": "",
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br><br>Description :<br>\"Seconde chance by Hélène\" est une boutique de prêt-à-porter de seconde main pour hommes, femmes et enfants. Leur sélection comprend des vêtements de qualité, offrant une alternative durable et abordable à la mode conventionnelle.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Vêtements d'occasion Mode durable Économie circulaire Consommation responsable Friperie Mode éthique Seconde main</div><br><br>📍 38 rue Léonard de Vinci, Marck, France<br><br>📞 07 49 83 51 55<br><br>📧 secondechancebyhelene@laposte.net<br><br>🌐 https://www.facebook.com/profile.php?id=100093147619715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9401215,
+                    50.9459529
                 ]
             }
         },
@@ -2532,8 +2562,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.9170818,
-                    50.9509468
+                    1.9191063,
+                    50.9519891
                 ]
             }
         },
@@ -2542,13 +2572,13 @@
             "properties": {
                 "name": "Octeva",
                 "logo": "",
-                "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>Octeva est un centre de traitement des déchets par biométhanisation. Il transforme les déchets organiques en biogaz, qui peut être utilisé comme source d'énergie renouvelable. <br><br>📍 293 Rue Jacques Monod, 62100 Calais<br><br>📞 03 21 97 74 20<br><br>📧 contact@urbaserenvironnement.fr<br><br>🌐 https://www.urbaserenvironnement.fr/component/contact/contact/13-traitement/17-urbaser-environnement-octeva-calais?Itemid=187"
+                "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>Octeva est un centre de traitement des déchets par biométhanisation. Il transforme les déchets organiques en biogaz, qui peut être utilisé comme source d'énergie renouvelable. <br><br>📍 293 Rue Jacques Monod, 62100 Calais<br><br>📞 03 21 97 74 20<br><br>📧 contact@urbaserenvironnement.fr<br><br>🌐 https://www.urbaserenvironnement.fr/component/contact/contact/13-traitement/17-urbaser-environnement-octeva-calais?Itemid=187"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.9163473,
-                    50.9610735
+                    1.9169213,
+                    50.9602558
                 ]
             }
         },
@@ -2557,7 +2587,7 @@
             "properties": {
                 "name": "Nature Propre 62",
                 "logo": "",
-                "description": "Thème : <br>- Économie Sociale et Solidaire<br><br>Description : <br>Nature Propre 62 s'engage dans la lutte contre la pollution en organisant des opérations de ramassage des déchets dans la nature, ainsi que des actions de sensibilisation dans les écoles et centres aérés, notamment à travers des jeux éducatifs. Des panneaux de bordure de route sont également utilisés pour sensibiliser le grand public.<br><br>📍 3206 Rue Principale, 62185 Fréthun<br><br>📞 06 29 43 83 73<br><br>📧 np62frethun@yahoo.fr"
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Nature Propre 62 s'engage dans la lutte contre la pollution en organisant des opérations de ramassage des déchets dans la nature, ainsi que des actions de sensibilisation dans les écoles et centres aérés, notamment à travers des jeux éducatifs. Des panneaux de bordure de route sont également utilisés pour sensibiliser le grand public.<br><br>📍 3206 Rue Principale, 62185 Fréthun<br><br>📞 06 29 43 83 73<br><br>📧 np62frethun@yahoo.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -2600,15 +2630,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "L’Écopôle alimentaire",
+                "name": "Ecopôle Alimentaire",
                 "logo": "",
                 "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>L’Écopôle alimentaire est un pôle territorial de coopération économique (PTCE) labellisé au plan national, qui vise à développer un système alimentaire durable, de qualité et inclusif. Basé à Vieille-Église, il regroupe des parties prenantes engagées dans la démarche d'un avenir alimentaire souhaité.<br><br>📍 800 Rue du Pont d'Oye, 62162 Vieille-Église<br><br>📞 03 21 34 08 42<br><br>📧 contact@ecopolealimentaire.fr<br><br>🌐 https://ecopolealimentaire.fr/"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.0537308,
-                    50.933059
+                    2.0536557,
+                    50.9328663
                 ]
             }
         },
@@ -2637,38 +2667,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.0536143,
-                    50.9331782
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ludothèque Pays d'Opale Ardres",
-                "logo": "",
-                "description": "Thème : <br>- Location / Partage<br><br>Description :<br>La Ludothèque Pays d'Opale Ardres propose des jeux sur place ainsi que le prêt de jeux et jouets pour tous les âges.<br><br>📍 Av. Fernand Buscot, 62610 Ardres<br><br>📞 03 21 00 72 03<br><br>📧 ludotheque-ardres@cc-paysdopale.fr<br><br>🌐 https://www.facebook.com/ludotheque.ardres.5<br><br>🌐 https://cc-paysdopale.fr/fr/rb/487580/les-ludotheques"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9815801,
-                    50.8593538
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ludothèque Pays d'Opale Guînes",
-                "logo": "",
-                "description": "Thème :<br>- Location / Partage<br><br>Description :<br>La Ludothèque Pays d'Opale Guînes propose des jeux sur place ainsi que le prêt de jeux et jouets pour tous les âges.<br><br>📍 Rue du Bel air, 62340 Guines<br><br>📞 03 21 00 83 95<br><br>📧 ludotheque-guines@cc-paysdopale.fr<br><br>🌐 https://cc-paysdopale.fr/fr/rb/487580/les-ludotheques"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8727006,
-                    50.8665202
+                    2.0538234,
+                    50.9328777
                 ]
             }
         },
@@ -2682,8 +2682,38 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.818483,
-                    50.8059202
+                    1.8184442,
+                    50.8059871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ludothèque Pays d'Opale Ardres",
+                "logo": "",
+                "description": "Thème :<br>- Location / Partage<br><br>Description :<br>La Ludothèque Pays d'Opale Ardres propose des jeux sur place ainsi que le prêt de jeux et jouets pour tous les âges.<br><br>📍 Av. Fernand Buscot, 62610 Ardres<br><br>📞 03 21 00 72 03<br><br>📧 ludotheque-ardres@cc-paysdopale.fr<br><br>🌐 https://www.facebook.com/ludotheque.ardres.5<br><br>🌐 https://cc-paysdopale.fr/fr/rb/487580/les-ludotheques"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9817278,
+                    50.8591981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ludothèque des Trois-Pays, Guines",
+                "logo": "",
+                "description": "Thème :<br>- Location / Partage<br><br>Description :<br>La Ludothèque Pays d'Opale Guînes propose des jeux sur place ainsi que le prêt de jeux et jouets pour tous les âges.<br><br>📍 Rue du Bel air, 62340 Guines<br><br>📞 03 21 00 83 95<br><br>📧 ludotheque-guines@cc-paysdopale.fr<br><br>🌐 https://cc-paysdopale.fr/fr/rb/487580/les-ludotheques"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8731046,
+                    50.8663533
                 ]
             }
         }
