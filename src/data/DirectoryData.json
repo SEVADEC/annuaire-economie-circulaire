@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "07/07/2023, 16:58:55",
+    "update": "12/07/2023, 10:47:27",
     "features": [
         {
             "type": "Feature",
@@ -1717,7 +1717,7 @@
             "properties": {
                 "name": "Récup'bois",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>RecupBois propose des plaquettes de bois 100 % françaises pour la création et l'entretien des espaces verts des professionnels. Fabriquées à partir de bois de récupération avec une traçabilité totale, elles sont disponibles immédiatement.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Bois de seconde main Durabilité Respectueux de l'environnement Produits locaux Suivi complet Fabrication écologique Granulés de bois Zones de verdure </div><br><br>📍 720 Rue de l'Église, 62610 Landrethun-lès-Ardres<br><br>📞 06 13 48 34 28<br><br>📧 contact@recupbois.com<br><br>🌐 https://www.recupbois.com/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Vente en vrac<br><br>Description :<br>RecupBois propose des plaquettes de bois 100 % françaises pour la création et l'entretien des espaces verts des professionnels. Fabriquées à partir de bois de récupération avec une traçabilité totale, elles sont disponibles immédiatement.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Bois de seconde main Durabilité Respectueux de l'environnement Produits locaux Suivi complet Fabrication écologique Granulés de bois Zones de verdure </div><br><br>📍 720 Rue de l'Église, 62610 Landrethun-lès-Ardres<br><br>📞 06 13 48 34 28<br><br>📧 contact@recupbois.com<br><br>🌐 https://www.recupbois.com/"
             },
             "geometry": {
                 "type": "Point",
@@ -2525,7 +2525,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Couture Des 2 Caps -",
+                "name": "Couture Des 2 Caps",
                 "logo": "",
                 "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br><br>Description :<br>\"Couture Des 2 Caps\" est spécialisé dans la fabrication d'accessoires et d'articles de mode en tissu.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Fabrication artisanale Mode éthique Accessoires textiles Couture créative Réutilisation Matériaux durables Consommation responsable Économie circulaire</div><br><br>📍 62100 Calais<br><br>📞 06 09 52 52 76 <br><br>📧 couturedes2caps@gmail.com<br>🌐 https://www.facebook.com/couturedes2caps/<br>🌐 https://www.instagram.com/couturedes2caps/"
             },
@@ -2662,7 +2662,7 @@
             "properties": {
                 "name": "Épicerie solidaire d'Audruicq",
                 "logo": "",
-                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>L'épicerie solidaire de la Région d'Audruicq, gérée par le Centre Intercommunal d'Action Sociale, est située à l'Ecopôle alimentaire de Vieille-Église. Elle offre aux habitants de la CCRA, en difficulté passagère, la possibilité de faire leurs courses en payant seulement 30% de la valeur des produits.<br><br>📍 800 Rue du Pont d'Oye, 62162 Vieille-Église<br><br>📞 03 21 00 83 83<br><br>🌐 https://www.ccra.fr/L-%C3%A9picerie-sociale/343/"
+                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Vente en vrac<br><br>Description :<br>L'épicerie solidaire de la Région d'Audruicq, gérée par le Centre Intercommunal d'Action Sociale, est située à l'Ecopôle alimentaire de Vieille-Église. Elle offre aux habitants de la CCRA, en difficulté passagère, la possibilité de faire leurs courses en payant seulement 30% de la valeur des produits.<br><br>📍 800 Rue du Pont d'Oye, 62162 Vieille-Église<br><br>📞 03 21 00 83 83<br><br>🌐 https://www.ccra.fr/L-%C3%A9picerie-sociale/343/"
             },
             "geometry": {
                 "type": "Point",
