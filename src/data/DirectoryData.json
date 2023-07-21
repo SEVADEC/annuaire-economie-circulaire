@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "12/07/2023, 10:47:27",
+    "update": "21/07/2023 11:46:37",
     "features": [
         {
             "type": "Feature",
@@ -322,7 +322,7 @@
             "properties": {
                 "name": "Naturama",
                 "logo": "",
-                "description": "Thème :<br>- Produits zéro déchet<br><br>Description :<br>Des plantes, des huiles essentielles, des cosmétiques, des minéraux, des compléments nutritionnels, une épicerie fine. Tout un choix de produits bio, qui privilégie l’équitable et l’écoresponsable.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">produits bio équitable écoresponsable alimentation saine produits naturels bien-être développement durable santé écologie consommation responsable</div><br><br>📅 mardi - samedi : 10h-19h<br><br>📍 47 rue Royale - 62100 Calais<br><br>📞 03 21 34 62 79<br><br>🌐 https://monshoppingcestcalais.fr/marketplace/seller/profile/naturama/view"
+                "description": "Thèmes :<br>- Produits zéro déchet<br>- Vente en vrac<br><br>Description :<br>Des plantes, des huiles essentielles, des cosmétiques, des minéraux, des compléments nutritionnels, une épicerie fine. Tout un choix de produits bio, qui privilégie l’équitable et l’écoresponsable.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">produits bio équitable écoresponsable alimentation saine produits naturels bien-être développement durable santé écologie consommation responsable</div><br><br>📅 mardi - samedi : 10h-19h<br><br>📍 47 rue Royale - 62100 Calais<br><br>📞 03 21 34 62 79<br><br>🌐 https://monshoppingcestcalais.fr/marketplace/seller/profile/naturama/view"
             },
             "geometry": {
                 "type": "Point",
