@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "21/07/2023 11:46:37",
+    "update": "04/09/2023, 11:27:34",
     "features": [
         {
             "type": "Feature",
@@ -2714,6 +2714,21 @@
                 "coordinates": [
                     1.8731046,
                     50.8663533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Micromania - Zing CALAIS",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Chaîne distribuant des jeux vidéo neufs et d'occasion, consoles, accessoires et produits dérivés.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> </div><br><br>📍 Centre commercial Auchan RN1, Av. Roger Salengro, 62100 Calais<br><br>📞 03 21 00 10 83<br><br>📧 -<br>🌐 www.micromania.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8083939,
+                    50.9443511
                 ]
             }
         }
