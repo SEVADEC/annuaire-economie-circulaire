@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "04/09/2023, 11:27:34",
+    "update": "16/10/2023, 11:40:44",
     "features": [
         {
             "type": "Feature",
@@ -157,7 +157,7 @@
             "properties": {
                 "name": "Cap Energie",
                 "logo": "",
-                "description": "Thèmes :<br>- Recyclage<br>- Éco-entreprise<br><br>Description :<br>Conditionnement, prestation de service externalisée, contrôle qualité, recyclage, fabrication de palettes, ménage, plasturgie, entretien des espaces verts.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">logistique, sous-traitance, assurance qualité, récupération, production de supports logistiques, nettoyage, transformation des matières plastiques, aménagement paysager. </div><br><br>📍 203 Rue Louis Breguet, 62100 Calais<br><br>📞 03 22 31 58 90<br><br>📧 contact@cap-energie.fr<br>🌐 www.cap-energie.fr"
+                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Éco-entreprise<br><br>Description :<br>Conditionnement, prestation de service externalisée, contrôle qualité, recyclage, fabrication de palettes, ménage, plasturgie, entretien des espaces verts.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">logistique, sous-traitance, assurance qualité, récupération, production de supports logistiques, nettoyage, transformation des matières plastiques, aménagement paysager. </div><br><br>📍 203 Rue Louis Breguet, 62100 Calais<br><br>📞 03 22 31 58 90<br><br>📧 contact@cap-energie.fr<br>🌐 www.cap-energie.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -2729,6 +2729,156 @@
                 "coordinates": [
                     1.8083939,
                     50.9443511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Calais e-Mobilité",
+                "logo": "",
+                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Location / Partage<br><br>Description :<br>L'association \"Calais E-Mobilité\" a pour mission de promouvoir l'utilisation des véhicules urbains électriques, en mettant l'accent sur l'aide aux personnes âgées et aux personnes à mobilité réduite. Elle facilite l'utilisation du vélo électrique et la transformation des anciens cycles grâce à l'assistance électrique (installation prise en charge par l'association).<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mobilité électrique, vélo, trottinette, assistance électrique, accessibilité, partenariats, véhicules urbains électriques </div><br><br>📍 86 Av. Louis Blériot, 62100 Calais<br><br>📞 03 61 31 00 02<br><br>📧 calais.e.mobilite@gmail.com<br><br>🌐 https://calaisemobilite.wixsite.com/calais-e-mobilite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8698424,
+                    50.9504682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Association Environnement et Solidarité (AES) Calais",
+                "logo": "",
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>L'association Environnement et Solidarité (AES) est une association humanitaire, d'entraide, sociale qui permet aux personnes sans emploi, bénéficiaires du RSA et rencontrant des difficultés sociales et professionnelles d'accéder à une activité professionnelle de support mais aussi de lever les freins à l'emploi par le biais d'un accompagnement social et individualisé.<br><br>AES œuvre dans le champ de l’insertion sociale et professionnelle à travers diverses activités, notamment la culture de légumes BIO, l'entretien et l'aménagement d'espaces verts (dans une démarche de développement durable) et le nettoyage et entretien des plages du littoral.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">insertion sociale, développement durable, culture de légumes BIO, espaces verts, nettoyage des plages, accompagnement social, économie sociale et solidaire </div><br><br>📍 1997 Grande Rue du Petit Courgain, 62100 Calais<br><br>📞 03 21 34 04 64<br><br>📧 sol-en-vie@wanadoo.fr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.900132,
+                    50.959345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La régie de quartier Calais",
+                "logo": "",
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>La Régie de quartiers de Calais est une association de proximité au service des habitants des quartiers du Beau-Marais et du Fort-Nieulay. Par le biais de ses activités, elle s'engage à améliorer le cadre de vie et l'habitat dans ces quartiers.<br><br>La Régie est une Structure d’Insertion par l’Activité Économique qui offre des emplois à des personnes rencontrant des difficultés particulières d'accès à l'emploi. Elle met à leur disposition :<br>- un encadrement technique sur les chantiers, favorisant la reprise d'habitudes et d'un rythme de travail, le développement de compétences, et l'acquisition d'une expérience professionnelle récente,<br>- un accompagnement social et professionnel individualisé, incluant des recherches d'emploi actives et la mise en place de formations complémentaires techniques courtes.<br><br>📍 1 Rue Youri Gagarine Bât. C Résidence Iris, 62100 CALAIS<br><br>📞 03 21 19 79 05<br><br>📧 regiedequartierdecalais@orange.fr<br><br>🌐 <a href=\"http://regiesdequartiers-npdc.fr/les-regies-de-quartiers-du-nord-pas-de-calais.html\">Site web</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8922805,
+                    50.9531262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Unis-Cités Calais",
+                "logo": "",
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Unis-Cité est l'association experte et pionnière du Service Civique des jeunes en France, partenaire privilégié de l'État et des collectivités dans le déploiement du Service Civique.<br><br>À la fois militante en faveur d'un Service Civique de qualité pour toutes et tous, convaincue que le Service Civique devrait faire partie du parcours de vie de tous les jeunes, d'où qu'ils viennent et quel que soit leur projet d'avenir, Unis-Cité agit chaque jour pour redonner aux jeunes, dans leur diversité, l'envie et le pouvoir d'agir.<br><br>L'association est actuellement présente dans plus de 120 territoires en France métropolitaine et à La Réunion.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Service Civique, jeunes, engagement, éducation, diversité, solidarité, citoyenneté, jeunesse, participation, territoires, France </div><br><br>📍 14 Rue Gustave Cuvelier, 62100 CALAIS<br><br>📞 06 01 14 39 17<br><br>📧 calais@uniscite.fr<br><br>🌐 <a href=\"https://www.uniscite.fr/\">Site web</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8521899,
+                    50.9463116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Concept Insertion",
+                "logo": "",
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Concept Insertion Calais est un atelier chantier insertion (ACI) qui a pour objet de favoriser la mise en œuvre d'un cursus d'accès à la qualification et à l'emploi des personnes en difficulté d'insertion professionnelle dans le cadre de parcours individualisés.<br><br>Concept Insertion propose différents champs d'activités, un accompagnement socio-professionnel personnalisé et différents supports d'emploi par le biais de contrats aidés de 26 heures, dans les domaines du bâtiment, de la vente, de la couture et de la mode.<br><br>Si vous êtes bénéficiaire du RSA et à la recherche d'un emploi, ils peuvent vous accompagner pour :<br><br>- Acquérir des compétences (savoir-faire) permettant l'adaptation à l'entreprise (qualité du travail).<br>- Acquérir des savoir-être permettant l'adaptation à l'entreprise (contact, esprit d'équipe).<br>- Acquérir des savoir-faire complémentaires apportant un plus au CV.<br>- Connaître vos droits et vos devoirs en entreprise.<br>- Organiser votre recherche d'emploi.<br>- Accéder à l'emploi.<br>- Accéder à la formation qualifiante.<br><br>📍 365 Avenue Antoine de Saint-Exupéry BP 70051, 62100 CALAIS<br><br>📞 09 67 03 65 39<br><br>📧 concept.insertion@laposte.net<br><br>🌐 <a href=\"https://www.facebook.com/ConceptInsertionACI/\">Facebook</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9161446,
+                    50.9472097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Centre Social Matisse",
+                "logo": "",
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Le Centre Social situé dans le quartier du Beau-Marais. Géré par l'association Matisse qui s'occupe également la gestion des accueils de loisirs Mouchotte, Parmentier et Chateaubriand. <br><br> Il s'agit d'un lieu d'animation de la vie sociale, accueillant à la fois des professionnels et des bénévoles. L'objectif est de favoriser le développement de la vie sociale du quartier en assurant une participation effective de la population aux activités du centre.<br><br>Le Centre Social Matisse s'engage à aider la population à assumer ses besoins matériels et sociaux, ainsi qu'à accompagner les résidents dans leur démarche d'insertion sociale. De plus, le centre joue un rôle essentiel en informant, accompagnant, motivant et préparant la population en difficulté face à l'emploi. Il travaille également pour protéger et promouvoir la santé de la population.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">centre social, vocation sociale, vie sociale, insertion sociale, emploi, santé, économie sociale et solidaire </div><br><br>📍 19 Rue Henri Matisse, 62100 CALAIS<br><br>📞 03 21 46 38 80<br><br>📧 direction@centre-social-matisse.fr<br><br>🌐 <a href=\"https://association-matisse.fr/\">Site web</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9002093,
+                    50.9479888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boulangerie Dejonghe",
+                "logo": "",
+                "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>Chaque soir, la Boulangerie Dejonghe publie des annonces sur ses réseaux sociaux, offrant des paniers anti-gaspi. Ces paniers sont destinés à réduire les invendus en proposant des produits de qualité à un prix avantageux. Pour réserver un panier anti-gaspi, il vous suffit de les contacter par message privé.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">gaspillage alimentaire, paniers anti-gaspi, réduction des invendus, produits frais, réseaux sociaux, économie sociale et solidaire </div><br><br>📍 51 Rte d'Andrés, 62730 Les Attaques<br><br>📞 03 21 82 18 50<br><br>🌐https://www.facebook.com/people/Boulangerie-patisserie-Dejonghe-p%C3%A8re-et-fils/100057207651027/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9339132,
+                    50.9075605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spencer",
+                "logo": "",
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Location / Partage<br><br>Description :<br>Spencer s'engage à offrir des solutions complètes en sonorisation, vidéo, et éclairage pour répondre aux besoins variés de ses clients, que ce soit pour des projets professionnels ou des événements personnels.<br>Offre également des services de réparations pour votre matériel de l'audiovisuel.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">sonorisation, vidéo, aménagement scénique, éclairage, streaming, services audiovisuels, événementiel, culture, technologie, projection, maintenance, réparation, service technique </div><br><br>📍 16 place Foch, Guînes, France, 62340<br><br>📞 03 21 35 21 24<br><br>📧 contact@spencer.fr<br><br>🌐 https://www.facebook.com/spencer.calais.sono<br><br>🌐 https://www.spencer.fr/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.870606,
+                    50.868899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Little Big Wood",
+                "logo": "",
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Éco-entreprise<br><br>Description :<br>Bienvenue chez Little Big Wood, un artisan passionné du travail du bois. Vous y trouverez une sélection d'objets uniques, principalement en bois, créés avec dévouement dans l'atelier de l'artisan.<br><br>L'approche éco-responsable de Little Big Wood se traduit par l'utilisation de bois provenant de sources récupérées. La plupart du bois d'œuvre est obtenu auprès d'une petite entreprise qui transforme des troncs entiers en bois de chauffage. Little Big Wood transforme en plateaux et d'autres formats en fonction des projets, contribuant ainsi à réduire le gaspillage de ressources naturelles.<br><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">travail du bois, éco-responsabilité, création d'objets en bois, décoration, meubles, réemploi, récupération, bois de chauffage, éco-entreprise </div><br><br>📍 Coquelles, France, 62231<br><br>📞 06 23 68 31 59<br><br>📧 contact@littlebigwood.fr<br><br>🌐 <a href=\"http://www.littlebigwood.fr/\">Site web</a><br>🌐 <a href=\"https://www.facebook.com/littlebigwoodfr/\">Facebook</a><br>🌐 <a href=\"https://www.instagram.com/little_big_wood/\">Instagram</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7992673,
+                    50.934752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Béatrice Baroux - Artisan Vannier",
+                "logo": "",
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Éco-entreprise<br><br>Description :<br>Béatrice Baroux, artisan vannier passionnée par la vannerie traditionnelle. Son osier provient d'une productrice bio de Thiérache.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">vannerie traditionnelle, osier, artisan vannier, éco-responsabilité, réemploi, artisanat local, Thiérache, création artisanale </div><br><br>📞 06 87 51 48 40<br><br>📧 beatricesannier@gmail.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.963359,
+                    50.856432
                 ]
             }
         }
