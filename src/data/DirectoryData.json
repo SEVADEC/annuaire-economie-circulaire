@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "16/10/2023, 11:45:33",
+    "update": "23/11/2023, 10:19:10",
     "features": [
         {
             "type": "Feature",
@@ -260,7 +260,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Repair Café Calais",
+                "name": "Repair Café Calais Constantine",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Redonne une seconde chance à votre matériel en panne avec l'aide de réparateurs bénévoles.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation Matériel Bénévoles Seconde vie Dépannage Restauration Réutilisation Réemploi Remise en état Sauvetage </div><br><br>📅 mercredi : 14:00 - 18:00<br><br>📍 75 Rue de Constantine, 62100 Calais<br><br>📞 06 21 45 26 24<br><br>📧 regiedequartierdecalais@rqcalais.fr<br>🌐 https://repaircafe.org/fr<br>🌐 https://www.facebook.com/RepairCafeCalais/"
             },
@@ -1737,8 +1737,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.9806492,
-                    50.8764219
+                    1.9807082,
+                    50.8764659
                 ]
             }
         },
@@ -2879,6 +2879,66 @@
                 "coordinates": [
                     1.963359,
                     50.856432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mafrip",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Friperie spécialisée dans le style des années 2000, également connu sous le nom \"Y2K\" (Y pour year et 2K pour l’année 2000). <br><br>Vous y trouverez une variété de jeans de différentes marques telles que Levi’s, Diesel, Lois, ainsi que des accessoires, des vêtements pour hommes et femmes, et des bijoux.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"></div><br><br>📍 18 Rue du Duc de Guise, 62100 Calais"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8501299,
+                    50.9571567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repair Café Licques",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Des bricoleurs chevronnés se mobilisent pour réparer petits électroménagers et outils au Repair Café de Licques. Rendez-vous tous les 1er et 3e samedis du mois de 9h à 12h au bar-restaurant Le Chaudron Licquois. Apportez vos grille-pains, cafetières, ou autres équipements défectueux, et les experts détermineront s'ils sont réparables. Inauguration officielle des locaux du restaurant à 10h. <br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">repair café, réparation d'électroménagers, bricolage, réemploi, durable, outils, Licques, Ardres, Guînes, Calais </div><br><br>📍 Le Chaudron Licquois, Licques<br><br>📞 07 67 30 73 00<br><br>📧 rcco@laposte.net<br><br>🌐 https://www.facebook.com/p/Repair-Caf%C3%A9-C%C3%B4te-dOpale-100064679290376/?locale=fr_FR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.932264,
+                    50.7843889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Répair Café Ardres",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>L'association Solid'air de Bois-en-Ardres abrite le Repair Café d'Ardres, un lieu dédié à la réparation d'électroménagers et d'outils. <br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">repair café, réparation d'électroménagers, bricolage, réemploi, durable, outils, Ardres, Solid'air, Bois-en-Ardres </div><br>📍 Association Solid'air, Bois-en-Ardres, Ardres<br><br>📞 07 67 30 73 00<br><br>📧 rcco@laposte.net<br><br>🌐 https://www.facebook.com/p/Repair-Caf%C3%A9-C%C3%B4te-dOpale-100064679290376/?locale=fr_FR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9807297,
+                    50.876361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repair Café Calais Youri-Gagarine",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Le Repair Café de Calais offre ses services tous  les lundis au rue Youri-Gagarine, pour réparer vos petits électroménagers et outils. <br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">repair café, réparation d'électroménagers, bricolage, réemploi, durable, outils, rue Youri-Gagarine </div><br><br>📍 Rue Youri-Gagarine, Calais (Lundi, 14h-18h)<br><br>📞 07 68 10 06 79<br><br>📧 sophie.malet@rqcalais.fr<br><br>🌐 https://www.facebook.com/p/Repair-Caf%C3%A9-C%C3%B4te-dOpale-100064679290376/?locale=fr_FR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.892345,
+                    50.9529775
                 ]
             }
         }
