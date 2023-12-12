@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "23/11/2023, 10:19:10",
+    "update": "12/12/2023, 15:37:18",
     "features": [
         {
             "type": "Feature",
@@ -2892,8 +2892,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8501299,
-                    50.9571567
+                    1.8501178,
+                    50.957177
                 ]
             }
         },
@@ -2939,6 +2939,36 @@
                 "coordinates": [
                     1.892345,
                     50.9529775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Winniefred Sharp Carpot",
+                "logo": "",
+                "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>Winniefred Sharp Carpot, passionnée de couture et de broderie depuis son plus jeune âge, a créé sa propre entreprise dédiée à la confection de vêtements haute-couture. Spécialisée dans la création de pièces uniques sur-mesure, elle applique des méthodes de luxe, empruntées à la haute-couture, et s'engage dans une approche éco-responsable. Utilisant des matières naturelles comme le lin français et des fins de stocks pour la dentelle de Calais, chaque design est produit en série limitée, numéroté de 1 à 12, afin de minimiser les déchets. Winniefred propose également des accessoires dans la boutique Chrysalide à Calais.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">savoir-faire, haute-couture, éco-responsabilité, série limitée, artisanat, confection sur-mesure, matériaux naturels, dentelle de Calais, Chrysalide, atelier créatif</div><br><br>📍 34 Bd la Fayette, 62100 Calais<br><br>📧 winniefredsharp@gmail.com<br><br>🌐 https://www.facebook.com/winniefredsharpcarpot"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8568606,
+                    50.946791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Naturellement chien",
+                "logo": "",
+                "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>Salon de toilettage canin \"Naturellement Chien\" à Calais, offrant des services de toilettage pour toutou tout bio. Les produits utilisés sont exclusivement bio et naturels.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">toilettage canin, produits bio, naturels, éco-entreprise, soins respectueux de l'environnement, Marie Deneuville, réservations, achats en boutique</div><br><br>📍 53 boulevard Louis Pasteur, Calais, France<br><br>📞 06 23 60 47 71<br><br>🌐 https://www.facebook.com/profile.php?id=100091074931414"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8541478,
+                    50.9459345
                 ]
             }
         }
