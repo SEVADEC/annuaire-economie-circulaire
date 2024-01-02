@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "14/12/2023, 11:30:00",
+    "update": "02/01/2024, 09:01:29",
     "features": [
         {
             "type": "Feature",
@@ -2992,13 +2992,28 @@
             "properties": {
                 "name": "Le Fourgon - Côte d'Opale",
                 "logo": "",
-                "description": "<img src=\"https://doc-0s-28-mymaps.googleusercontent.com/untrusted/hostedimage/d4b3sen2o1vm9j6l695di3sa6c/je1n1sk39kp9npqfo8seshdna4/1702549728750/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PiuEh8U487wc00copACuazeeJvFG0O88Y2XZDMwYsUPSg5lzj2liX5p94aNxdlco8FvTCo2s7GCRemXH24St7vW2ynoe8GESavntRBOOHbELZUBWgTWIv7tS2FBwFdQNPsKhPQ862xj3IHj30PDlNMkJknOrJJk2-V86-zoIYgl2xinArge788CDkBOC07GSAcLuX2dkKVHyplQ2nWiVcQNWRf7EoyD0Xm5Fp3puW0d3BC0?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Vente en vrac<br><br>Description :<br>Le Fourgon propose une solution éco-responsable avec plus de 500 références en vrac, allant des boissons à l'épicerie et aux produits pour la maison. Optez pour une livraison dans la journée en fourgon électrique, réduisant ainsi votre empreinte carbone. En privilégiant des produits consignés, Le Fourgon minimise les déchets en les réemployant après nettoyage. Favorisant les producteurs locaux, la majorité des articles proviennent de moins de 150 km, réduisant ainsi les kilomètres parcourus pour la livraison. Choisissez la simplicité avec une commande sans abonnement et une livraison gratuite à partir de 20€ d'achat.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">vente en vrac, éco-responsable, empreinte carbone, produits consignés, réduction des déchets, producteurs locaux, livraison électrique, proximité géographique, simplicité, sans abonnement </div><br><br>📍 Adresse de livraison : Toute la côte d'Opale<br><br>📞 03 52 80 03 30<br><br>🌐 Instagram: <a target=\"_new\" href=\"https://www.instagram.com/lefourgontournee/?utm_source=site&amp;utm_medium=footer\">LeFourgonTournee</a><br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/LeFourgonTournee?utm_source=site&amp;utm_medium=footer\">LeFourgonTournee</a>"
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Le Fourgon propose une solution éco-responsable avec plus de 500 références en vrac, allant des boissons à l'épicerie et aux produits pour la maison. Optez pour une livraison dans la journée en fourgon électrique, réduisant ainsi votre empreinte carbone. En privilégiant des produits consignés, Le Fourgon minimise les déchets en les réemployant après nettoyage. Favorisant les producteurs locaux, la majorité des articles proviennent de moins de 150 km, réduisant ainsi les kilomètres parcourus pour la livraison. Choisissez la simplicité avec une commande sans abonnement et une livraison gratuite à partir de 20€ d'achat.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">vente en vrac, éco-responsable, empreinte carbone, produits consignés, réduction des déchets, producteurs locaux, livraison électrique, proximité géographique, simplicité, sans abonnement </div><br><br>📍 Adresse de livraison : Toute la côte d'Opale<br><br>📞 03 52 80 03 30<br><br>🌐 Instagram: <a target=\"_new\" href=\"https://www.instagram.com/lefourgontournee/?utm_source=site&amp;utm_medium=footer\">LeFourgonTournee</a><br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/LeFourgonTournee?utm_source=site&amp;utm_medium=footer\">LeFourgonTournee</a>"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     1.9606592,
                     50.9172547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fripshop",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Boutique spécialisée dans la vente de vêtements et d’accessoires de seconde main.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"></div><br><br>📍 105 Bd Gambetta, 62100 Calais<br><br>📞 06 28 78 52 45<br><br>📧 frishop23@gmail.com<br><br>🌐 Instagram: <a target=\"_new\" href=\"https://www.instagram.com/fripshopcalais\">Frishop Calais</a><br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/people/Fripshop-Calais/pfbid02e3mhjgGh4un6wsb2FjG6AU4gMVPRPa9cXpcCsiSem517iAQfwkJvhH6JevPsoKBMl/\">Frishop Calais</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8466325,
+                    50.9467558
                 ]
             }
         }
