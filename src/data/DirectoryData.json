@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "02/01/2024, 09:01:29",
+    "update": "05/01/2024, 09:47:53",
     "features": [
         {
             "type": "Feature",
@@ -1910,9 +1910,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Atelier Couture de Christine",
+                "name": "Atelier Couture de Christine | Mer-Sea",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Service de retouche et de couture pour vêtements, meubles et autres articles. L'atelier de Christine propose une expertise artisanale pour répondre aux besoins de réparation et de customisation de vêtements.<br><br>📍 65 Rue de Calais, 62370 Saint-Folquin<br><br>📞 03 21 82 15 42<br><br>🌐 https://www.facebook.com/christine.obry.75"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Christine est spécialisé dans la couture et propose des services de retouches, ourlets, et réparations pour prolonger la durée de vie de vos vêtements et accessoires. <br><br>Elle confectionne également des sacs \"Mer-Sea\" fabriqués à partir d'ailes de kitesurf récupérées, offrant ainsi une seconde vie à ces matériaux marins. <br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">atelier couture, réemploi, sacs en voile de bateaux, sacs portefeuille, ailes de kitesurf, retouches, ourlets, réparations, durabilité</div><br><br>📍 Adresse :<br>65 rue de Calais<br>62370 Saint-Folquin<br><br>📞 03 21 82 15 42<br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/christine.obry.75\">Christine Obry - Mer-Sea</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -2137,7 +2137,7 @@
             "properties": {
                 "name": "Au cœur du chaudron",
                 "logo": "",
-                "description": "Thèmes :<br>- Éco-entreprise<br>- Produits zéro déchet<br><br>Description:<br>Au cœur du chaudron est une éco-entreprise qui met l'accent sur l'éco-responsabilité et l'éthique. Les matières premières sont choisies localement ou dans des exploitations familiales et associatives qui garantissent un commerce équitable. Les produits cosmétiques ne contiennent que des ingrédients naturels d'origine végétale ou minérale. Les packagings minimalistes ont un bandeau en papier ensemencé qui peut être planté pour obtenir des fleurs sauvages.<br><br>📍 Vieille-Église<br><br>📧 aucoeurduchaudron.contact@gmail.com<br><br>🌐 https://aucoeurduchaudron.fr/"
+                "description": "Thèmes :<br>- Éco-entreprise<br>- Produits zéro déchet<br><br>Description :<br>Au cœur du chaudron, une boutique en ligne spécialisée dans l'alchimie végétale. Des produits conçus avec amour, privilégiant des ingrédients naturels, majoritairement bio, et un packaging éco-responsable, avec des options de plantation pour réduire l'impact sur l'environnement. Optez pour une consommation consciente avec une totale transparence sur l'origine des matières premières, favorisant les circuits courts et éthiques.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">alchimie végétale, cosmétiques chargés d'intentions, ingrédients naturels, packaging éco-responsable, transparence, circuit court, éthique </div><br>📍 Vieille-Église<br><br>📧 aucoeurduchaudron.contact@gmail.com<br><br>🌐 Site Web: <a target=\"_new\" href=\"https://aucoeurduchaudron.fr/\">AuCoeurDuChaudron.fr</a><br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/profile.php?id=100064103350728\">AuCoeurDuChaudron</a><br><br>🌐 Instagram: <a target=\"_new\" href=\"https://www.instagram.com/aucoeurduchaudron/\">AuCoeurDuChaudron</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -3014,6 +3014,36 @@
                 "coordinates": [
                     1.8466325,
                     50.9467558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miss Mussels",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Miss Mussels transforme les trésors marins en bijoux éco-responsables. Parcourant les plages de la région, l'artisan crée des pièces uniques à partir de coquillages, offrant ainsi une seconde vie aux éléments naturels.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">bijoux éco-responsables, réemploi, trésors marins, artisanat, préservation environnement, coquillages, Côte d'Opale, pièces uniques</div><br><br>📍 Côte d'Opale<br><br>📧 missmussels@gmail.com<br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/missmusselscotedopale/\">Miss Mussels Côte d'Opale</a><br><br>🌐 Instagram: <a target=\"_new\" href=\"https://www.instagram.com/miss.mussels/\">@miss.mussels</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.83746,
+                    50.9643387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toffe Environnement",
+                "logo": "",
+                "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>Toffe Environnement, fondé par Christophe Guilbert, est une éco-entreprise dédiée au ramassage et au tri des déchets dans la nature. Christophe utilise ses \"bidons malins\", confectionnés à partir de déchets récupérés sur les plages, pour collecter les déchets avec une approche responsable. Collaborant avec l'association Nature Libre de Boulogne-sur-Mer, il organise des ramassages le long du littoral entre Hardelot et Oye-Plage. Toffe Environnement propose également des initiatives d'éducation à l'environnement, visant à sensibiliser le public, notamment les scolaires, à la conservation de la biodiversité.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">ramassage des déchets, tri sélectif, éco-entreprise, éducation à l'environnement, conservation de la biodiversité, partenariat associatif</div><br><br>📍 Adresse :<br>36 rue du Colombier, 62123 Hardinghen<br><br>📞 0617812909<br><br>📧 toffeguil@cegetel.net"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.831885,
+                    50.803032
                 ]
             }
         }
