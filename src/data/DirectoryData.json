@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "15/01/2024, 15:02:07",
+    "update": "29/01/2024, 16:49:45",
     "features": [
         {
             "type": "Feature",
@@ -470,21 +470,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Les p'tites fripes d'Amelie",
-                "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Friperie de prêt-à-porter et d'accessoires pour femme et fille en showroom ou en vente à domicile.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Seconde main Vintage Slow fashion Économie circulaire Consommation responsable Upcycling Vente privée Shopping éco-responsable Friperie</div><br><br>📍 557 Rte d'Hardinghen, 62132 Boursin<br><br>📞 06 95 69 77 32<br><br>📧 amelieperso@hotmail.fr<br>🌐 https://www.facebook.com/profile.php?id=100060243231322"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.832441,
-                    50.780349
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Frip&Chic",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Boutique de prêt-à-porter neuf et d'occasion.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Seconde main Récupération<br>Vintage Économie circulaire seconde vie Upcycling friperie Braderie</div><br><br>📍 767 Rue de l'Église, 62340 Andres<br><br>🌐 https://www.vinted.fr/member/18628452-fripchic62"
@@ -569,21 +554,6 @@
                 "coordinates": [
                     1.924326,
                     50.967389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "BAB's",
-                "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Friperie située dans le Calaisis : vente de vêtements de seconde main, vintage, customisés, couture.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> occasion, rétro, dépôt-vente</div><br><br>📍 22 Rue Félix Cadras, 62100 Calais<br><br>📞 06 98 23 15 01<br><br>📧 ametysme@aol.com<br>🌐 https://www.facebook.com/friperiebabs/"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.848084,
-                    50.957271
                 ]
             }
         },
@@ -697,7 +667,7 @@
             "properties": {
                 "name": "TTC 2000",
                 "logo": "",
-                "description": "<img src=\"https://doc-0g-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/unsgkafd66a67v8si9iblafo1o/1705327289250/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PivrJJKOHc5oMFQm1dI-nt-BVfAWJP4DaByoyh-aHR80KIzVHmCPxr-r6UWXxMVPHzEfTxNEnNISYPtkMUZySt9PgMa_8mH3krQr53hEfqm4wRUCQp506ccr2dKzn1YoTWRGidFXXx3MOgHQ1nioMxC8xqts_v1V1ZRaix3Mse05z3mbfybQo5oubELSSr7Z9dFZ6wihXI8ZIoUqWzAsrKHzveM_S-UVWqCL_1jJ3CvcUOs?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>TTC 2000, situé au 25 rue du Temple à Calais, est spécialisé dans la mercerie, la laine, les machines à coudre et les tissus variés. L'équipe compétente composée d'Annick, Marie Pierre, Trecy, Sylvie et Virginie propose un vaste choix. Grâce à des brodeuses perfectionnées, ils réalisent des broderies sur divers supports. De plus, TTC 2000 offre des services de confection, réparation de machines à coudre, retouches, et confectionne rideaux, voilages, housses, nappes, etc. Contactez-les pour toute demande particulière.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mercerie, laine, machine à coudre, tissu, broderie, confection, réparation, retouche, Calais </div><br><br>📍 25 Rue du Temple, 62100 Calais<br><br>📞 09 65 25 92 29<br><br>📞 03 21 34 73 39<br><br>📧 ttc2000calais@gmail.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://monshoppingcestcalais.fr/marketplace/seller/profile/ttc2000/view\">Mon Shopping C'est Calais - TTC 2000</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/ttc2000\">TTC 2000</a><br><br>🌐 Instagram : <a target=\"_new\" href=\"https://www.instagram.com/ttc.2000\">TTC.2000</a>"
+                "description": "<img src=\"https://doc-00-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/t5htb6un5um7u0vo8td052dago/1706543322250/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PiufR89j4U8T4OrvBFvYgrz4v2cinDB267hqE1uPRHd3EQEGWt5uoXWg9gHhH7Z_fYCNewpi6gscAKLO7I9bfGEO-jl4tW44C9LR3oZY_17u4FS1E3zabYytr5Pe2ACabjqVRVxj9om8EeNWDiwZehHaCOZV9cdX6b3S4wnKF5XfqKazmnhNMxVXFbByKpcTihD9esKSdNX5fZ-2QnczCWB8qYvaciyBiJNoTx7U_vHz2Uw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>TTC 2000, situé au 25 rue du Temple à Calais, est spécialisé dans la mercerie, la laine, les machines à coudre et les tissus variés. L'équipe compétente composée d'Annick, Marie Pierre, Trecy, Sylvie et Virginie propose un vaste choix. Grâce à des brodeuses perfectionnées, ils réalisent des broderies sur divers supports. De plus, TTC 2000 offre des services de confection, réparation de machines à coudre, retouches, et confectionne rideaux, voilages, housses, nappes, etc. Contactez-les pour toute demande particulière.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mercerie, laine, machine à coudre, tissu, broderie, confection, réparation, retouche, Calais </div><br><br>📍 25 Rue du Temple, 62100 Calais<br><br>📞 09 65 25 92 29<br><br>📞 03 21 34 73 39<br><br>📧 ttc2000calais@gmail.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://monshoppingcestcalais.fr/marketplace/seller/profile/ttc2000/view\">Mon Shopping C'est Calais - TTC 2000</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/ttc2000\">TTC 2000</a><br><br>🌐 Instagram : <a target=\"_new\" href=\"https://www.instagram.com/ttc.2000\">TTC.2000</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -892,7 +862,7 @@
             "properties": {
                 "name": "Point Services",
                 "logo": "",
-                "description": "<img src=\"https://doc-14-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/i70e61n2uv09l7v1rbd8as62ko/1705327289250/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PitEOLsF3ukug9_G3hTHqboDt_ea9r3GMHqri9oPuXGZMuPrdiJM5RkWB-_xg-c8mPn9auuRoffBcl5oTXtPJTAUNujNZV6D83lwkxIO4iNrArNanI0epH-WpE9tjVZx6VEzN9waqQOIGD_DrhPGr9CdF_v7oACI8RdZl-4nhB2ncX_f3aenwiWmIOyUAN2tMNQ-83waCOOLp4n6pJtroM5JST50Re2QA8ri5OLnmP35iiw?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Point Services vous accueille pour divers services de réparation et de reproduction. Spécialisés dans la réparation de talon, la gravure sur support, la reproduction de clés minute, et la réparation de sacs et vêtements en cuir, nous offrons également des prestations variées telles que la confection de plaques d'immatriculation, la réalisation de tampons, et bien plus encore.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation de talon, gravure sur support, reproduction de clés minute, plaques d'immatriculation, tampons, réparation de sac en cuir, réparation de vêtement en cuir, cordonnerie artisanale, cordonnerie multiservice, cordonnerie serrurerie</div><br><br>📍 Adresse : Bât C, Ccal Auchan, avenue Roger Salengro, 62100 Calais<br><br>📞 03 21 19 68 21<br><br>🌐 Site Web: <a target=\"_new\" href=\"http://europeservices.fr/\">europeservices.fr</a>"
+                "description": "<img src=\"https://doc-0o-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/hhc77cbb6sgv8ugmb3vd4jnra4/1706543322250/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8Pis6H-m6N4l11PvZqzP2TxJwB8snKBcnpV1UuuNjQSDMitFnd0GWVtEsGycyXt7u2_8GuAvAn5pAeS2kKhWWAy5dXHKJoAjvmTuQaZTxzBiSAh7bnJzQBxyznf19qhm7zECs95nAPb_98KEy3cRsiteHqN9jLhJEwIVZFa7-cY1eqMI4w9EAharJtcU6Qc60xVZsWZ6qBAw0H8WCWtqDhNsDDkfUgjqPkkaooFUMiMxWs5Y?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Point Services vous accueille pour divers services de réparation et de reproduction. Spécialisés dans la réparation de talon, la gravure sur support, la reproduction de clés minute, et la réparation de sacs et vêtements en cuir, nous offrons également des prestations variées telles que la confection de plaques d'immatriculation, la réalisation de tampons, et bien plus encore.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation de talon, gravure sur support, reproduction de clés minute, plaques d'immatriculation, tampons, réparation de sac en cuir, réparation de vêtement en cuir, cordonnerie artisanale, cordonnerie multiservice, cordonnerie serrurerie</div><br><br>📍 Adresse : Bât C, Ccal Auchan, avenue Roger Salengro, 62100 Calais<br><br>📞 03 21 19 68 21<br><br>🌐 Site Web: <a target=\"_new\" href=\"http://europeservices.fr/\">europeservices.fr</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -1664,21 +1634,6 @@
                 "coordinates": [
                     2.0535756,
                     50.9329863
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Zéro Waste Calais",
-                "logo": "",
-                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Antenne locale de l'ONG Zero Waste France, Zero Waste Calais sensibilise sur l'impact des déchets sur l'environnement et la santé, et propose des actions et événements pour aider à réduire les déchets au quotidien.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">déchets écologie environnement  réduction des déchets  consommation responsable </div><br><br>📧 zerowastecalais@gmail.com<br><br>🌐 https://www.zerowastefrance.org/"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8533558,
-                    50.9524201
                 ]
             }
         },
@@ -2585,21 +2540,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nature Propre 62",
-                "logo": "",
-                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Nature Propre 62 s'engage dans la lutte contre la pollution en organisant des opérations de ramassage des déchets dans la nature, ainsi que des actions de sensibilisation dans les écoles et centres aérés, notamment à travers des jeux éducatifs. Des panneaux de bordure de route sont également utilisés pour sensibiliser le grand public.<br><br>📍 3206 Rue Principale, 62185 Fréthun<br><br>📞 06 29 43 83 73<br><br>📧 np62frethun@yahoo.fr"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8131925,
-                    50.9047691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Natur Pom",
                 "logo": "",
                 "description": "Thème :<br>- Produits zéro déchet<br><br>Description :<br>Natur Pom transforme les pommes et fruits de leur verger en jus de pomme, cocktails, cidre et vinaigre de cidre aux propriétés exceptionnelles. Leur production utilise des méthodes durables et respectueuses de l'environnement pour créer des produits zéro déchet.<br><br>📍 9 rue de la chapelle, 62370 Nortkerque<br><br>📞 03 21 35 38 86<br><br>📧 naturpom@naturpom.com<br><br>🌐 https://naturpom.fr/"
@@ -3052,7 +2992,7 @@
             "properties": {
                 "name": "ZARA",
                 "logo": "",
-                "description": "<img src=\"https://doc-0o-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/tk1j12903j7fps5lda2fhps5fk/1705327289250/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PiszKh-TsIldIbw-yNwI_llEHYIITIj1y9ZwTQPl2zVziH_r_RPsYg45Y5XzzlaoWNNOwFiHRBq16zsowuAdSkqny0gqv7MONvZOMH_KoUD7qi3b9txZuU8L864x1HmNlHdvFI69tFCyZdqgedGaQBMru9UU3wXpiEzGYQNRyAocym6NeQpkhg7jUO5oDZBW16h8ucxsT2XRNifUlxpd3fnIp3ROO_v-cMjCln9QmUlc1uY?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>ZARA, la célèbre chaîne espagnole de mode, va au-delà de la tendance en proposant un service de réparation de vêtements. Située à Cité Europe, Coquelles, ZARA s'engage à prolonger la durée de vie de vos vêtements ZARA. .<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparation de vêtements, durabilité, ateliers labellisés, mode responsable, prolongation de vie, service en magasin, service en ligne, ZARA </div><br><br>📍 Cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 +33 801 84 13 91<br><br>🌐 Site : <a target=\"_new\" href=\"https://www.zara.com/fr/fr/preowned-repair-mkt5796.html?v1=2317175\">ZARA Réparation</a>"
+                "description": "<img src=\"https://doc-10-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/1acjlscnorml0ef83347dmrsfk/1706543322250/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PivEhoDhWc5kNntr6AJBa51LU2snp4eo6LKjX3C9MGAfGtzLyZ16kJcdNG_pLm83sVR7mDm-PLCj5mCpHlSYkJVVf7p3TrVM-GnBsiyMvSGbuElkEaSYScf2z_Qf61XUHfMHXl6hXT7zZBC-guMrMq-DiYN8Jr8OSru_nUsZlUaGfidxNhnFy4DTmUIzvXhnthCokCKUvFdvIUYz5yTUWHPwvbHqS2vLyMoNxGAbkADXFjY?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>ZARA, la célèbre chaîne espagnole de mode, va au-delà de la tendance en proposant un service de réparation de vêtements. Située à Cité Europe, Coquelles, ZARA s'engage à prolonger la durée de vie de vos vêtements ZARA. .<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparation de vêtements, durabilité, ateliers labellisés, mode responsable, prolongation de vie, service en magasin, service en ligne, ZARA </div><br><br>📍 Cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 +33 801 84 13 91<br><br>🌐 Site : <a target=\"_new\" href=\"https://www.zara.com/fr/fr/preowned-repair-mkt5796.html?v1=2317175\">ZARA Réparation</a>"
             },
             "geometry": {
                 "type": "Point",
