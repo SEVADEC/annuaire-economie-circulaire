@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "05/02/2024, 09:46:39",
+    "update": "22/02/2024, 16:44:07",
     "features": [
         {
             "type": "Feature",
@@ -20,15 +20,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "ADLC",
+                "name": "Ateliers de la Citoyenneté",
                 "logo": "",
-                "description": "Thèmes : <br>- Économie Sociale et Solidaire<br>- Gaspillage alimentaire<br><br>Description :<br>Cuisine solidaire territoriale. Dans cette cuisine, les produits alimentaires sont issus de dons de plusieurs structures locales afin de fournir des plats sains et équilibrés, gratuitement, auprès d'associations d'aide alimentaire. La cuisine solidaire assure également la valorisation des biodéchets de plusieurs partenaires locaux grâce à un dispositif de lombricompostage.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Solidarité, Bénévolat, Réduction des déchets, Engagement communautaire, Économie circulaire</div><br><br>📍 8, rue des soupirants 62100 Calais<br><br>📞 03 21 82 76 73<br><br>📧 contact@adlccalais.com<br>🌐 https://adlccalais.com/"
+                "description": "Thèmes : <br>- Économie Sociale et Solidaire<br>- Gaspillage alimentaire<br><br>Description :<br>Cuisine solidaire territoriale. Dans cette cuisine, les produits alimentaires sont issus de dons de plusieurs structures locales afin de fournir des plats sains et équilibrés, gratuitement, auprès d'associations d'aide alimentaire. La cuisine solidaire assure également la valorisation des biodéchets de plusieurs partenaires locaux grâce à un dispositif de lombricompostage.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Solidarité, Bénévolat, Réduction des déchets, Engagement communautaire, Économie circulaire, ADLC</div><br><br>📍 8, rue des soupirants 62100 Calais<br><br>📞 03 21 82 76 73<br><br>📧 contact@adlccalais.com<br>🌐 https://adlccalais.com/"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.853102,
-                    50.948822
+                    1.8530484,
+                    50.9487645
                 ]
             }
         },
@@ -67,7 +67,7 @@
             "properties": {
                 "name": "Moulin de Bouquehault",
                 "logo": "",
-                "description": "Thèmes : <br>- Éco-entreprise <br><br>Description :<br>L’entreprise Moulin de Bouquehault conçoit, fabrique et commercialise des machines « low tech » et bas carbone pour de petites unités locales de production de farine de blé.<br>L’entreprise Moulin de Bouquehault produit également de la farine bio exclusivement. <br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">entrepreneur, écologique, technologie, innovation, agriculture, circuit-court, production locale, développement durable, qualité, alimentation saine</div><br><br>📍 49, chemin de Mont Gardin, 62340 Bouquehault. 62100 Calais<br><br>📞 06 76 26 11 03<br><br>📧 moulindebouquehault@orange.fr<br>🌐 https://moulin-de-bouquehault.fr/"
+                "description": "Thèmes : <br>- Éco-entreprise <br><br>Description :<br>L’entreprise Moulin de Bouquehault conçoit, fabrique et commercialise des machines « low tech » et bas carbone pour de petites unités locales de production de farine de blé.<br>L’entreprise Moulin de Bouquehault produit également de la farine bio exclusivement. <br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">entrepreneur, écologique, technologie, innovation, agriculture, circuit-court, production locale, développement durable, qualité, alimentation saine</div><br><br>📍 49, chemin de Mont Gardin, 62340 Bouquehault.<br><br>📞 06 76 26 11 03<br><br>📧 moulindebouquehault@orange.fr<br>🌐 https://moulin-de-bouquehault.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -470,21 +470,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Frip&Chic",
-                "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Boutique de prêt-à-porter neuf et d'occasion.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Seconde main Récupération<br>Vintage Économie circulaire seconde vie Upcycling friperie Braderie</div><br><br>📍 767 Rue de l'Église, 62340 Andres<br><br>🌐 https://www.vinted.fr/member/18628452-fripchic62"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.909671,
-                    50.861007
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Cash Maker",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Magasin de produits d'occasion.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"><br>Seconde main Économie circulaire</div><br><br>📍 47 Bd la Fayette, 62100 Calais<br><br>📞 03 21 34 37 63<br><br>📧 calais@cashemaker.fr<br>🌐 https://boutique-calais.cashemaker.fr/<br>🌐 www.cashemaker.fr"
@@ -575,21 +560,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "La Brocante Du Clos Sur Cour",
-                "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Boutique de brocante et de déco.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Antiquités Objets vintage Meubles  occasion Collectionneurs Articles de seconde main chineur Récupération Décoration vintage </div><br><br>📍 11 Rue du Paradis, 62100 Calais<br><br>📞 06 82 25 12 02<br><br>📧 arlette.vankerkhove@wanadoo.fr<br>🌐 https://www.facebook.com/LaBrocanteDuClosSurCour/"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.846319,
-                    50.959848
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Calais Batterie (Accu 62)",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Calais batteries spécialiste batteries, piles, accumulateurs, boosters et chargeurs toutes applications.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"><br>Stockage d'énergie Électricité Alimentation électrique Cellule électrochimique Récupération d'énergie Source d'alimentation Système de stockage d'énergie Équipement électrique </div><br><br>📍 170 Bd Gambetta, 62100 Calais<br><br>📞 03 21 96 28 23<br><br>📧 calaisbatteries@bbox.fr<br>🌐 www.calais-batteries.fr"
@@ -667,7 +637,7 @@
             "properties": {
                 "name": "TTC 2000",
                 "logo": "",
-                "description": "<img src=\"https://doc-08-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/f68egcsutcm8kgkih8r108ftv0/1707122485250/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PisRYEl1mQpz6jCsru9tyPdAN6tqpbF-PzA_yItCRVv_mwtWuC7i7m8EDEGrePEKbf4RFjV6wMe8wGqR0b8OYzY-Rx-mAILOes7HKLbmNGWC35MOcf8YOI5spnMdRuEGFFfvauQFhK0TYDnBajgQYwbUw5ePGO09zE9K3tQ1_0fj-RfRNyxVzrxt_AtL2riutprB1mZecfzMPRlbT_kBBSCknUdlA0tcCJosypeqgAOavys?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>TTC 2000, situé au 25 rue du Temple à Calais, est spécialisé dans la mercerie, la laine, les machines à coudre et les tissus variés. L'équipe compétente composée d'Annick, Marie Pierre, Trecy, Sylvie et Virginie propose un vaste choix. Grâce à des brodeuses perfectionnées, ils réalisent des broderies sur divers supports. De plus, TTC 2000 offre des services de confection, réparation de machines à coudre, retouches, et confectionne rideaux, voilages, housses, nappes, etc. Contactez-les pour toute demande particulière.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mercerie, laine, machine à coudre, tissu, broderie, confection, réparation, retouche, Calais </div><br><br>📍 25 Rue du Temple, 62100 Calais<br><br>📞 09 65 25 92 29<br><br>📞 03 21 34 73 39<br><br>📧 ttc2000calais@gmail.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://monshoppingcestcalais.fr/marketplace/seller/profile/ttc2000/view\">Mon Shopping C'est Calais - TTC 2000</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/ttc2000\">TTC 2000</a><br><br>🌐 Instagram : <a target=\"_new\" href=\"https://www.instagram.com/ttc.2000\">TTC.2000</a>"
+                "description": "<img src=\"https://doc-0g-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/05oer8agkvr7rvksci7fjod9p0/1708616513500/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PiurIRBam9MZGMQ595RWLL_4NAy5XOmIR3KmfmKzR3h-hHnq6sXmm-_8JujYrWD-j8Ng15-M3Ko3SNxi6XUmgqefbOzKIELAGRNQ1dGiz53WUqxapltfVi2Kt36tVVHe2lIte8OrvktUqRebqz0HelWy-LjWfVLKRRfIhecn1cikqIaGLgYy9sy6wf-BCMUS-NF1uoAujb6lb6BHqn1HUz38m7-kXZuCRKlPErJ2oSpf_M4?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>TTC 2000, situé au 25 rue du Temple à Calais, est spécialisé dans la mercerie, la laine, les machines à coudre et les tissus variés. L'équipe compétente composée d'Annick, Marie Pierre, Trecy, Sylvie et Virginie propose un vaste choix. Grâce à des brodeuses perfectionnées, ils réalisent des broderies sur divers supports. De plus, TTC 2000 offre des services de confection, réparation de machines à coudre, retouches, et confectionne rideaux, voilages, housses, nappes, etc. Contactez-les pour toute demande particulière.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mercerie, laine, machine à coudre, tissu, broderie, confection, réparation, retouche, Calais </div><br><br>📍 25 Rue du Temple, 62100 Calais<br><br>📞 09 65 25 92 29<br><br>📞 03 21 34 73 39<br><br>📧 ttc2000calais@gmail.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://monshoppingcestcalais.fr/marketplace/seller/profile/ttc2000/view\">Mon Shopping C'est Calais - TTC 2000</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/ttc2000\">TTC 2000</a><br><br>🌐 Instagram : <a target=\"_new\" href=\"https://www.instagram.com/ttc.2000\">TTC.2000</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -695,7 +665,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Guignard Fabienne",
+                "name": "Pique & Retouche",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Service de retouche de vêtements.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Couture Confection sur mesure Personnalisation de vêtements Réparations textiles Retouches vestimentaires Création de vêtements Réalisation Broderie Réparateurs</div><br><br>📍 63 Rue des Fontinettes, 62100 Calais<br><br>📞 03 21 46 67 59<br><br>📧 -<br><br>🌐 -"
             },
@@ -785,21 +755,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Toobug",
-                "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Dépannage / Vente / Site web / Assemblage de Pc sur mesure / Nettoyage.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation d'ordinateurs Maintenance informatique Assistance informatique Systèmes d'exploitation Configuration PC Périphériques informatiques Composants informatiques PC sur mesure Nettoyage informatique Montage de PC Réparateurs</div><br><br>📍 17 Rue du Commandant Bonningue, 62100 Calais<br><br>📞 03 21 85 87 67<br><br>📧 -<br><br>🌐 -"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.854992,
-                    50.96098
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Décapage du Littoral",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Décapage d'objets peints ou vernis.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">traitement de surface protection remise à neuf</div><br><br>📍 130 Rue de l'Ancien Pont, 62370 Saint-Folquin<br><br>📞 03 28 23 33 98<br><br>📧 -<br><br>🌐 http://www.decapage-du-littoral.fr/"
@@ -815,7 +770,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "WoodyArt",
+                "name": "Woody Art",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Création de meubles, personnalisation à la carte, fabrication artisanale de meubles de tous les styles (cuisine, salle de bain, menuiserie, agencement, dressing).<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">ébéniste artisanat menuiserie sur mesure mobilier personnalisé création sur mesure design d'intérieur décoration d'intérieur travail du bois fabrication artisanale de meubles</div><br><br>📍 21 Rue Courtebourne, 62100 Calais<br><br>📞 06 77 78 83 48<br><br>📧 sabatier_mickael@yahoo.fr<br>🌐 https://fr-fr.facebook.com/WoodyArt"
             },
@@ -862,7 +817,7 @@
             "properties": {
                 "name": "Point Services",
                 "logo": "",
-                "description": "<img src=\"https://doc-04-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/2r2anpfofl6059rmuedt7e3e4s/1707122485250/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PitVvtVJZq8sKBQ6Vmcr1S-4OsoB_SWe6mg6toW2262Ode-RY2uKJt2VlSp_WpLtc3jzG588Wl3AEgXYnkOxnw-9nwzpLxkOlWLgYejgxG8CvZ7TgLwyoi3eLtYhSYyCfQKi-w29nr8vGUd8dbxfKIFtPA5HDFEDX7WmE2EdEKPw0SluVtpqygFgjA-pHrLFtg5YJZW_k6QgNG2vFN3OHEizJA6sHcl3xJXtPmSaK0oFhDA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Point Services vous accueille pour divers services de réparation et de reproduction. Spécialisés dans la réparation de talon, la gravure sur support, la reproduction de clés minute, et la réparation de sacs et vêtements en cuir, nous offrons également des prestations variées telles que la confection de plaques d'immatriculation, la réalisation de tampons, et bien plus encore.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation de talon, gravure sur support, reproduction de clés minute, plaques d'immatriculation, tampons, réparation de sac en cuir, réparation de vêtement en cuir, cordonnerie artisanale, cordonnerie multiservice, cordonnerie serrurerie</div><br><br>📍 Adresse : Bât C, Ccal Auchan, avenue Roger Salengro, 62100 Calais<br><br>📞 03 21 19 68 21<br><br>🌐 Site Web: <a target=\"_new\" href=\"http://europeservices.fr/\">europeservices.fr</a>"
+                "description": "<img src=\"https://doc-00-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/rm4am3iu30cbuq8ivtds7tcqs0/1708616513500/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PivYwgrTMxFXooY2xTZyZY5vBYZKuDS4WEkzDhmFk9NNVd_sm9efN7bok2WlnwdRotfZgNv08OFh0gHKwIWCNzkDQgayV-0IueOaMFL1AMvQhc_1T_LG0i5Z8g1rep-63kaUGZZWVI__euoOLO3HWGrIVaZBCr8-zRwG8an_gNDoWEkkhnUh7Hk4pbASd0ifFni9dW0y3cCF3dYVRLbAX6cxBXobIlIY9-iYxWqkGBv7YbI?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Point Services vous accueille pour divers services de réparation et de reproduction. Spécialisés dans la réparation de talon, la gravure sur support, la reproduction de clés minute, et la réparation de sacs et vêtements en cuir, nous offrons également des prestations variées telles que la confection de plaques d'immatriculation, la réalisation de tampons, et bien plus encore.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation de talon, gravure sur support, reproduction de clés minute, plaques d'immatriculation, tampons, réparation de sac en cuir, réparation de vêtement en cuir, cordonnerie artisanale, cordonnerie multiservice, cordonnerie serrurerie</div><br><br>📍 Adresse : Bât C, Ccal Auchan, avenue Roger Salengro, 62100 Calais<br><br>📞 03 21 19 68 21<br><br>🌐 Site Web: <a target=\"_new\" href=\"http://europeservices.fr/\">europeservices.fr</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -1287,8 +1242,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.853102,
-                    50.948822
+                    1.8530564,
+                    50.9488389
                 ]
             }
         },
@@ -1317,8 +1272,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.853102,
-                    50.948822
+                    1.8532442,
+                    50.9488406
                 ]
             }
         },
@@ -1589,21 +1544,6 @@
                 "coordinates": [
                     1.94753,
                     50.866834
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Pain et Partage Calais",
-                "logo": "",
-                "description": "Thème : <br>- Économie Sociale et Solidaire<br><br>Description : <br>Pain et Partage Calais est une boulangerie solidaire bio qui s'est installée à Calais. Elle fournit des produits bio à des collectivités, des établissements médico-sociaux, des acteurs du tourisme et de la culture. Son objectif est de promouvoir l'emploi des demandeurs d'emploi longue durée en leur offrant des postes de chauffeur-livreur et d'aide-boulanger.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Bio Collectivités Établissements médico-sociaux   Emploi Demandeurs d'emploi longue durée  Aide-boulanger Insertion professionnelle </div><br><br>📍 95, Rue des Salines, Enceinte usine Noyon Dentelles, à côté de la salle de sports Maurice Desmet, 62100 Calais<br><br>📞 03 21 85 43 43<br><br>📧 calais@painetpartage.eu<br><br>🌐 https://fournil-papillons.com/"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8428711,
-                    50.9510097
                 ]
             }
         },
@@ -2992,7 +2932,7 @@
             "properties": {
                 "name": "ZARA",
                 "logo": "",
-                "description": "<img src=\"https://doc-04-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/ts1e0oem8qv1iugif9a9s7v9c8/1707122485250/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8Piu1sfeGWaB_nJw8nNbDtcFn3NgA4gnOyb29BSBydFj-anZxTkpbJtS1Trf38oJV-P3F5dD5_aVVOsj8yWAhfDbPx5Up_abOkQwjfeQSPcmnaEYDig5ANz8NM7lXYejThL295t737N-69Gp6-H422qOCNuz0rkpbbIZCYZOkvlFpQEjT99pXnOZ-tIpAjAEif9NPhQFKYBYJ0hATFpSla_wXUGcVHMmxNC4EYkfoGMooz28?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>ZARA, la célèbre chaîne espagnole de mode, va au-delà de la tendance en proposant un service de réparation de vêtements. Située à Cité Europe, Coquelles, ZARA s'engage à prolonger la durée de vie de vos vêtements ZARA. .<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparation de vêtements, durabilité, ateliers labellisés, mode responsable, prolongation de vie, service en magasin, service en ligne, ZARA </div><br><br>📍 Cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 +33 801 84 13 91<br><br>🌐 Site : <a target=\"_new\" href=\"https://www.zara.com/fr/fr/preowned-repair-mkt5796.html?v1=2317175\">ZARA Réparation</a>"
+                "description": "<img src=\"https://doc-10-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/78kfj6cnek1enln4o0dad9afgc/1708616513500/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PiuuJxjU2Dv2tNWZo6Atmqyfg6lNbpIQBp2U_1LZiljAcy7wuXa4-tBOZApBxv2hrkQW0j2OhekPFg8Lv3PuCeRPoTCI3L0aq3Smy-kxm8mrAgG6yFw2sEINYmDOmmtUcRIKoBhdFySKTAUS0eGQXQ9DdomKVZHqJjX4gDUXhzsY_4g0R1gIvlqLB4lkh0nIlrfuzDVyTY1ZYQ9qhSnpK5rUY1ih9Rw4OZ82PUTXFxKVP04?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>ZARA, la célèbre chaîne espagnole de mode, va au-delà de la tendance en proposant un service de réparation de vêtements. Située à Cité Europe, Coquelles, ZARA s'engage à prolonger la durée de vie de vos vêtements ZARA. .<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparation de vêtements, durabilité, ateliers labellisés, mode responsable, prolongation de vie, service en magasin, service en ligne, ZARA </div><br><br>📍 Cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 +33 801 84 13 91<br><br>🌐 Site : <a target=\"_new\" href=\"https://www.zara.com/fr/fr/preowned-repair-mkt5796.html?v1=2317175\">ZARA Réparation</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -3014,6 +2954,21 @@
                 "coordinates": [
                     1.8461268,
                     50.9593706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pôle Anima",
+                "logo": "",
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Le Pôle d’Économie Sociale et Solidaire ANIMA, situé au cœur de la ville de Calais, est un espace dédié à l'intensification des coopérations, des innovations et des mutualisations. En rénovant une ancienne école d'art et en reconquérant une friche urbaine, il offre un lieu d'échanges entre acteurs publics, privés, associatifs et de la société civile. Le Pôle ANIMA héberge un collectif d'une douzaine d'associations connu sous le nom de \"LES ANIMÉS\", qui propose divers services tels que des espaces de coworking, une poussinière d'activités, une maison des mobilités douces, des ateliers artisanaux, des conseils en création d'activités sociales et solidaires, une Marketplace de soutien au commerce de proximité, des services d'insertion par l'activité économique, des solutions d'hébergement, de restauration, une boutique mutualisée et une conciergerie.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Economie Sociale et Solidaire, Calais, coopérations, innovations, mutualisations, rénovation, friche urbaine, collectif, associations, espaces de coworking, mobilités douces, conseils, création d'activités, commerce de proximité, insertion économique, hébergement, restauration, boutique mutualisée, conciergerie</div><br><br>📍 8 rue des soupirants, 62100 Calais<br><br>📞 03 21 82 76 73<br><br>🌐 Site Web: <a target=\"_new\" href=\"https://animacalais.fr/\">animacalais.fr</a><br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/AnimaCalais/\">AnimaCalais</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8532365,
+                    50.9487672
                 ]
             }
         }
