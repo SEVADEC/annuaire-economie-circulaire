@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "22/02/2024, 16:51:08",
+    "update": "23/02/2024, 14:01:41",
     "features": [
         {
             "type": "Feature",
@@ -335,21 +335,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Le Jardin Colibri",
-                "logo": "",
-                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Maraîchage en agriculture biologique certifié par ECOCERT-FR-BIO-01.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">cultures biologiques, certification, agriculture durable, production végétale, maraîcher, culture raisonnée, engrais naturels, exploitation agricole, alimentation saine, agriculture responsable</div><br><br>📍 1730 Rte de Saint-Inglevert, 62340 Pihen-lès-Guînes<br><br>📞 06 47 00 57 00<br><br>📧 lejardincolibri@gmail.com<br>🌐 https://www.facebook.com/lejardincolibri"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.761618,
-                    50.877423
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "La Ressourcerie du Calaisis - FACE Valo",
                 "logo": "",
                 "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>FACE VALO est une entreprise de l'Économie Sociale et Solidaire du secteur de l'insertion par l'activité économique. Leurs activités sont essentiellement tournées vers le réemploi avec la Ressourcerie et la Matériauthèque.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Économie circulaire Recyclage Réutilisation Valorisation des déchets Donner une seconde vie aux objets Tri sélectif Collecte  matériaux Solidarité Insertion professionnelle Réduction des déchets</div><br><br>📅 mardi - mercredi - vendredi - samedi : 10h-17h30 <br><br>📍 365 Av. Antoine de Saint-Exupéry, 62100 Calais<br><br>📞 07 78 80 09 53 / 03 59 44 37 56<br><br>📧 l.vache@fondationface.org<br>🌐 https://facevalo.fr/"
@@ -637,7 +622,7 @@
             "properties": {
                 "name": "TTC 2000",
                 "logo": "",
-                "description": "<img src=\"https://doc-0s-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/inlhos0jf27kdg3t2nj4ufl91c/1708617036750/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PivEADN1E5AeCmRW312FN3KsrSZL0LMLUpUDdVX809Y24MN64erO81KEGMYHhpmRRyb8Rr2UddLcCQ5vEMz5dQQ3Sc6NbXoDcpONNobCw2lVf7mm47JrUCcwSkkBmuu2N0SGfeWU-e9SLfa1lllGt09_Zl_5bG2yCJMFYTBy_l1IT1IrlXqt4zXyRfa2g0xZyMeOA4MbNLg6dOhpDjfq51qBdaAtEYVLjHc4ItzvidfnsLA?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>TTC 2000, situé au 25 rue du Temple à Calais, est spécialisé dans la mercerie, la laine, les machines à coudre et les tissus variés. L'équipe compétente composée d'Annick, Marie Pierre, Trecy, Sylvie et Virginie propose un vaste choix. Grâce à des brodeuses perfectionnées, ils réalisent des broderies sur divers supports. De plus, TTC 2000 offre des services de confection, réparation de machines à coudre, retouches, et confectionne rideaux, voilages, housses, nappes, etc. Contactez-les pour toute demande particulière.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mercerie, laine, machine à coudre, tissu, broderie, confection, réparation, retouche, Calais </div><br><br>📍 25 Rue du Temple, 62100 Calais<br><br>📞 09 65 25 92 29<br><br>📞 03 21 34 73 39<br><br>📧 ttc2000calais@gmail.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://monshoppingcestcalais.fr/marketplace/seller/profile/ttc2000/view\">Mon Shopping C'est Calais - TTC 2000</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/ttc2000\">TTC 2000</a><br><br>🌐 Instagram : <a target=\"_new\" href=\"https://www.instagram.com/ttc.2000\">TTC.2000</a>"
+                "description": "<img src=\"https://doc-10-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/a1r8og4dv5npue46f45alcugqo/sfu6bmdm02puq48jsa4mvsblqg/1708693207000/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AHUGKgqEkGHP-QkFWrEIVs4o8G1hdj2vV6H6J-zc4J5t1tkkDqEZtEvgrCFvZdHkzgM8F3csKgPtqSUA63GPi0tdTqfeI5Ft7WvHuqW0OC-t-RJFmKwr7uBjp1SZsE4CSjnHigB4NP1V544ES_DewEDlIKotejc3OuKFjz0y3TsyFqoRCQ0rDVl7K62UuV5xRtIylXPnvTok8nXOLleMQHoz4YiuwF2ufKqfIE3AWwGD_pRZYwU?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>TTC 2000, situé au 25 rue du Temple à Calais, est spécialisé dans la mercerie, la laine, les machines à coudre et les tissus variés. L'équipe compétente composée d'Annick, Marie Pierre, Trecy, Sylvie et Virginie propose un vaste choix. Grâce à des brodeuses perfectionnées, ils réalisent des broderies sur divers supports. De plus, TTC 2000 offre des services de confection, réparation de machines à coudre, retouches, et confectionne rideaux, voilages, housses, nappes, etc. Contactez-les pour toute demande particulière.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mercerie, laine, machine à coudre, tissu, broderie, confection, réparation, retouche, Calais </div><br><br>📍 25 Rue du Temple, 62100 Calais<br><br>📞 09 65 25 92 29<br><br>📞 03 21 34 73 39<br><br>📧 ttc2000calais@gmail.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://monshoppingcestcalais.fr/marketplace/seller/profile/ttc2000/view\">Mon Shopping C'est Calais - TTC 2000</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/ttc2000\">TTC 2000</a><br><br>🌐 Instagram : <a target=\"_new\" href=\"https://www.instagram.com/ttc.2000\">TTC.2000</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -817,7 +802,7 @@
             "properties": {
                 "name": "Point Services",
                 "logo": "",
-                "description": "<img src=\"https://doc-0s-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/4v2o8v9i3g5orjh2m97t4fkges/1708617036750/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8PisZBiUYOqyrwHOlNCon2azxPwNWHY7uLTRtnee4ecVDlxiIXcqK3Te42ehiZ7yJHKpn9cqkl3hCgVXkl0MTopAvzgcZpZKMX4jzVC-Q9-BFXxXB77NNqqlHG4Ze7B_Jg7IQw4iqgH4N3uKFPEeBgOPd4Ed0bAYSeTaKQtMssAIIzCYqCSvXW-HghgHr-J2FZTU0N8Ip9S2Uck27-nr4DLdJ3nkv8H03XrAg9BctOZ02_n0?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Point Services vous accueille pour divers services de réparation et de reproduction. Spécialisés dans la réparation de talon, la gravure sur support, la reproduction de clés minute, et la réparation de sacs et vêtements en cuir, nous offrons également des prestations variées telles que la confection de plaques d'immatriculation, la réalisation de tampons, et bien plus encore.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation de talon, gravure sur support, reproduction de clés minute, plaques d'immatriculation, tampons, réparation de sac en cuir, réparation de vêtement en cuir, cordonnerie artisanale, cordonnerie multiservice, cordonnerie serrurerie</div><br><br>📍 Adresse : Bât C, Ccal Auchan, avenue Roger Salengro, 62100 Calais<br><br>📞 03 21 19 68 21<br><br>🌐 Site Web: <a target=\"_new\" href=\"http://europeservices.fr/\">europeservices.fr</a>"
+                "description": "<img src=\"https://doc-14-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/a1r8og4dv5npue46f45alcugqo/jto61clf6nc6qudflnbdoln72c/1708693207000/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AHUGKgpzMu5t7wIrF4omkcIiZLhb17zQdJDGre4e6-xbs2qkFwbyHLobKE0DNaszjxWEG9Z-5umNKq7Lwgmqn6E1_qQf7GEqp3tGpaVml81oWGip8_kSGCiHe65n8vzNTHO6FC2_Ev4xXkDuer1RKX4x_oJMDxByfbrP_tBfVWpyc3lQ0LNMW7tvjd5Ep8-hhABLmTTLB5LG4ukDWAW4PYBbHltzdVMGcVAX3D77aZxTkiPTKnM?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Point Services vous accueille pour divers services de réparation et de reproduction. Spécialisés dans la réparation de talon, la gravure sur support, la reproduction de clés minute, et la réparation de sacs et vêtements en cuir, nous offrons également des prestations variées telles que la confection de plaques d'immatriculation, la réalisation de tampons, et bien plus encore.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation de talon, gravure sur support, reproduction de clés minute, plaques d'immatriculation, tampons, réparation de sac en cuir, réparation de vêtement en cuir, cordonnerie artisanale, cordonnerie multiservice, cordonnerie serrurerie</div><br><br>📍 Adresse : Bât C, Ccal Auchan, avenue Roger Salengro, 62100 Calais<br><br>📞 03 21 19 68 21<br><br>🌐 Site Web: <a target=\"_new\" href=\"http://europeservices.fr/\">europeservices.fr</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -1064,21 +1049,6 @@
                 "coordinates": [
                     1.809533,
                     50.932447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ô Ptit Poids",
-                "logo": "",
-                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Épicerie bio ambulante. Livraison possible en main propre sur le secteur du Calaisis à partir de 25€ d'achat.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Zéro déchet Épicerie en vrac Emballage réutilisable Consommation responsable Éco-responsabilité Circuit court Réduction des déchets Produits sans emballage Magasin écoresponsable Commerce en vrac </div><br><br>📅 Mercredi après-midi au Jardin Colibri<br><br>📍 1730 Rte de Saint-Inglevert, 62340 Pihen-lès-Guînes<br><br>📞 06 09 17 21 10<br><br>📧 optitpoids@gmail.com<br><br>🌐 https://www.facebook.com/%C3%94-Ptit-Poids-376989212934911/"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.761545,
-                    50.877363
                 ]
             }
         },
@@ -1640,7 +1610,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "LudoVélo",
+                "name": "Ludo Vélo",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Atelier de recyclage et de restauration de vélos. Vente de vélos d'occasion. Ateliers de réparation de vélos pour tous les niveaux.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Récupération de vélos Réutilisation Restauration de vélos Vélos d'occasion Pièces détachées Réparation de vélos Niveaux de compétences Ateliers communautaires Durabilité Mobilité verte</div><br><br>📍 68 Rue Narcisse Boulanger, 62340 Guînes<br><br>📞 07 82 12 46 32<br><br>📧 contact@ludovelo.fr<br><br>🌐 https://LudoVelo.fr/<br><br>🌐 https://www.facebook.com/assoludovelo/"
             },
@@ -1985,21 +1955,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nina Creas",
-                "logo": "",
-                "description": "Thème :<br>- Produits zéro déchet<br><br>Description :<br>Atelier français proposant des vêtements tendances et confortables pour bébés, conçus avec des textiles certifiés oeko-tex respectueux de l'environnement et de la santé de vos enfants. Les coutures et broderies sont réalisées à la main pour garantir une qualité optimale.<br><br>📍 Saint-Folquin<br><br>📞 joignables 24/24h et 7/7j par le biais des réseaux sociaux et adresse mail<br><br>📧 atelierninacreas@gmail.com<br><br>🌐 https://ninacreas.fr/<br><br>🌐 https://www.facebook.com/ninacreas?locale=fr_FR"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.1229326,
-                    50.9462913
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "L'atelier d'LN",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description : <br>L’atelier d’LN propose des animations et des activités artistiques pour recycler les déchets plastiques. Les déchets sont transformés en œuvres d'art ou en objets utiles, dans une approche ludique et créative.<br><br>📍 Oye-Plage<br><br>📞 06 12 93 74 18<br><br>📧 hellaunatzoe@gmail.com<br><br>🌐 https://www.facebook.com/animatricerecyclage"
@@ -2225,21 +2180,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "JP Tech Services",
-                "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>JP Tech Services propose des services de réparation et d'installation pour les équipements informatiques, électriques et électroménagers. En tant qu'électricien diplômé, il est également qualifié pour effectuer des réparations électriques.<br><br>📍 38 Rue Bitche, Résidence La Pinède, 62100 Calais<br><br>📞 07 83 07 75 22<br><br>📧 contact@jptechservice.fr<br><br>🌐 https://jptechservice.fr/<br><br>🌐 https://www.facebook.com/profile.php?id=100024269762755"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8736884,
-                    50.9623797
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Liberty Pc",
                 "logo": "",
                 "description": "Thème : Réemploi / Réparation<br><br>Description :<br>Liberty PC offre des services de dépannage informatique, de conseil et de maintenance, y compris la réparation d'ordinateurs et d'équipements périphériques. L'entreprise propose également des services de montage de PC, de nettoyage informatique et d'optimisation, ainsi que des conseils sur les logiciels libres.<br><br>📍 21 Rue d'Ajaccio, 62100 Calais<br><br>📞06 17 05 94 71 / 03 61 31 08 42"
@@ -2249,21 +2189,6 @@
                 "coordinates": [
                     1.8281396,
                     50.949805
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ms informatik",
-                "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>MS Informatik propose des services de dépannage et de coaching en informatique pour les particuliers et les professionnels. L'entreprise effectue la réparation et la remise à zéro d'équipements électroniques tels que les ordinateurs, tablettes et consoles de jeux vidéos. En plus de ses services de réparation, MS Informatik offre également des formations et une assistance administrative.<br><br>📍 59 Rue Chamberland, 62730 Marck<br><br>📞 06 68 72 56 19<br><br>📧 ms.1formatik@gmail.com"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9505493,
-                    50.9467018
                 ]
             }
         },
@@ -2392,7 +2317,7 @@
             "properties": {
                 "name": "Recup'store",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Récup'store est une entreprise spécialisée dans la rénovation, la récupération et le recyclage de meubles. Ils fabriquent également des lampes originales à partir d'objets récupérés. <br><br>📍 134 Rue de Souchez, 62100 Calais<br><br>📞 06 21 09 23 06<br><br>📧 yayarin@hotmail.fr<br><br>🌐 https://www.recupstore.business.site<br><br>🌐 https://www.facebook.com/Recup.Store/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Récup'store est une entreprise spécialisée dans la rénovation, la récupération et le recyclage de meubles. Ils fabriquent également des lampes originales à partir d'objets récupérés. <br><br>📍 134 Rue de Souchez, 62100 Calais<br><br>📞 06 21 09 23 06<br><br>📧 yayarin@hotmail.fr<br><br>🌐 https://www.facebook.com/Recup.Store/"
             },
             "geometry": {
                 "type": "Point",
@@ -2932,7 +2857,7 @@
             "properties": {
                 "name": "ZARA",
                 "logo": "",
-                "description": "<img src=\"https://doc-00-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/d4b3sen2o1vm9j6l695di3sa6c/m2hhcg8pb19vduf48p0rgt81v4/1708617036750/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AEQ8Piv6oJjbqW2v_uh5zvm_LLCwanxXS09P7NxIarEQkv1fV-9rimwTuLYPN7CbMDa25N1CLq05Tk0FDqUT4pE3OzCFjO-A-mw-TiJw_wH9JmHe53Qj3Wrl40f8-psx3nj08nldw5r3pmv9QvLVSnwiQ3uF09h_cjjZON1I5TXHnxFh12vBwvugJU2fdYQh49xJl1CYySzlhQt1O3Mfg6mlI41yqsQYCZPq_T_3GIwoSSIXjck?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>ZARA, la célèbre chaîne espagnole de mode, va au-delà de la tendance en proposant un service de réparation de vêtements. Située à Cité Europe, Coquelles, ZARA s'engage à prolonger la durée de vie de vos vêtements ZARA. .<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparation de vêtements, durabilité, ateliers labellisés, mode responsable, prolongation de vie, service en magasin, service en ligne, ZARA </div><br><br>📍 Cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 +33 801 84 13 91<br><br>🌐 Site : <a target=\"_new\" href=\"https://www.zara.com/fr/fr/preowned-repair-mkt5796.html?v1=2317175\">ZARA Réparation</a>"
+                "description": "<img src=\"https://doc-00-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/a1r8og4dv5npue46f45alcugqo/p0ag718jvk4f6u8o1gb26smlpg/1708693207000/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AHUGKgrulYpa3VLw6l-GZP89qrKXC9X83Y9HWWUoqomCL2sh-K4mSS4Plzfs4QpGhpZN6Gk6sNUXb6NxqAB57Ob5HJZeG82V3OgYokrjzzjzTNEkBK863lJUj2XhmFc8k0xs8r82VsWvAjQJkrRxe8BdzHj0AZY6BH0RRE3qvjaThFY0c_9hhGNvHcynQUuuzTqqACCnqd_yK6tRBSakjph0A-4F5JqkJX87-6AOL5_atTdmi8s?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>ZARA, la célèbre chaîne espagnole de mode, va au-delà de la tendance en proposant un service de réparation de vêtements. Située à Cité Europe, Coquelles, ZARA s'engage à prolonger la durée de vie de vos vêtements ZARA. .<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparation de vêtements, durabilité, ateliers labellisés, mode responsable, prolongation de vie, service en magasin, service en ligne, ZARA </div><br><br>📍 Cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 +33 801 84 13 91<br><br>🌐 Site : <a target=\"_new\" href=\"https://www.zara.com/fr/fr/preowned-repair-mkt5796.html?v1=2317175\">ZARA Réparation</a>"
             },
             "geometry": {
                 "type": "Point",
