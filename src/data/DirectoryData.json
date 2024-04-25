@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "10/04/2024, 15:00:08",
+    "update": "25/04/2024, 17:00:40",
     "features": [
         {
             "type": "Feature",
@@ -365,7 +365,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Emmaüs Les Attaques",
+                "name": "Emmaüs",
                 "logo": "",
                 "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Propose une multitude d’articles répondant aux besoins et aux attentes des petits budgets, étudiants, recycleurs/chineurs de produits dont on peut prolonger la vie, ou encore collectionneurs en tous genres.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> seconde main économie circulaire récupération solidarité magasin solidaire articles d'occasion réutilisation ressourcerie recyclage</div><br><br>📅 Mardi, jeudi et vendredi de 14h à 18h Mercredi et samedi de 10h à 12h et de 14h à 18h<br><br>📍 100 Av. Antoine de Saint-Exupéry, 62100 Calais<br><br>📞 09 63 69 03 11<br><br>📧 labelsaintomer@gmail.com<br>🌐 https://www.label-emmaus.co/fr/nos-boutiques/communaute-emmaus-saint-omer/"
             },
@@ -622,7 +622,7 @@
             "properties": {
                 "name": "TTC 2000",
                 "logo": "",
-                "description": "<img src=\"https://doc-0c-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/a1r8og4dv5npue46f45alcugqo/goca0bauqike0f9jvkb0gn2q30/1712753926000/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AHUGKgq7-FgFQA1XmLWBT8WKrUDCqHGaPeNCbKC-tQat-wYTk68G5NWyS9th4aGxXXWWL9cEHkrOHPRcVZjRwyLY3_1v4eD6g0WK_AuDDpxeCeWcxzNDdd6pQooQobnTik09uem32oN8w1hk0iIj8Yf18QPxHwbQq-cqezBxznnFwQkwBkBAIHtLfzqH9A8rkGpTdYF1USemUYqwQKBxVXDvyICplVClxEIEwryaXI_mJSwdE34?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>TTC 2000, situé au 25 rue du Temple à Calais, est spécialisé dans la mercerie, la laine, les machines à coudre et les tissus variés. L'équipe compétente composée d'Annick, Marie Pierre, Trecy, Sylvie et Virginie propose un vaste choix. Grâce à des brodeuses perfectionnées, ils réalisent des broderies sur divers supports. De plus, TTC 2000 offre des services de confection, réparation de machines à coudre, retouches, et confectionne rideaux, voilages, housses, nappes, etc. Contactez-les pour toute demande particulière.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mercerie, laine, machine à coudre, tissu, broderie, confection, réparation, retouche, Calais </div><br><br>📍 25 Rue du Temple, 62100 Calais<br><br>📞 09 65 25 92 29<br><br>📞 03 21 34 73 39<br><br>📧 ttc2000calais@gmail.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://monshoppingcestcalais.fr/marketplace/seller/profile/ttc2000/view\">Mon Shopping C'est Calais - TTC 2000</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/ttc2000\">TTC 2000</a><br><br>🌐 Instagram : <a target=\"_new\" href=\"https://www.instagram.com/ttc.2000\">TTC.2000</a>"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>TTC 2000, situé au 25 rue du Temple à Calais, est spécialisé dans la mercerie, la laine, les machines à coudre et les tissus variés. L'équipe compétente composée d'Annick, Marie Pierre, Trecy, Sylvie et Virginie propose un vaste choix. Grâce à des brodeuses perfectionnées, ils réalisent des broderies sur divers supports. De plus, TTC 2000 offre des services de confection, réparation de machines à coudre, retouches, et confectionne rideaux, voilages, housses, nappes, etc. Contactez-les pour toute demande particulière.<br><br><strong>Réparateur labellisé Refashion</strong><br><img src=\"https://refashion.fr/citoyen/sites/default/files/styles/desktop_2048/public/photo-texte/Capture%20d%E2%80%99e%CC%81cran%202023-11-05%20a%CC%80%2020.02.05.png\" width=\"90px\" alt=\"QualiRéparLogo\"> </img><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mercerie, laine, machine à coudre, tissu, broderie, confection, réparation, retouche, Calais, bonus </div><br><br>📍 25 Rue du Temple, 62100 Calais<br><br>📞 09 65 25 92 29<br><br>📞 03 21 34 73 39<br><br>📧 ttc2000calais@gmail.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://monshoppingcestcalais.fr/marketplace/seller/profile/ttc2000/view\">Mon Shopping C'est Calais - TTC 2000</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/ttc2000\">TTC 2000</a><br><br>🌐 Instagram : <a target=\"_new\" href=\"https://www.instagram.com/ttc.2000\">TTC.2000</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -802,7 +802,7 @@
             "properties": {
                 "name": "Point Services",
                 "logo": "",
-                "description": "<img src=\"https://doc-0k-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/a1r8og4dv5npue46f45alcugqo/70lq3e5uldkvn62a3vjmd35chc/1712753926000/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AHUGKgpX8sP5j-4wzWmpL5vbAzSXBFgkY9aORCIQohjW6VjGq1_E8Ug4HdPaPn6zBQ4BKDmRgOnCSFaxRBvMZwDjOfcnUoM6D716xLqSxAQLjeQ0S_4Kvk-ixYL-jWMOvOYB20ULjmEjhL4ODceUUffM3dOrhbgBCS2CkZ0A0XS5ARRBAlmgmo2qibzaQvSknXSkRw3GSkd98Pob9b-4r0b-32lPP9q79OGU7HJk1H55nal0vDo?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Point Services vous accueille pour divers services de réparation et de reproduction. Spécialisés dans la réparation de talon, la gravure sur support, la reproduction de clés minute, et la réparation de sacs et vêtements en cuir, nous offrons également des prestations variées telles que la confection de plaques d'immatriculation, la réalisation de tampons, et bien plus encore.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation de talon, gravure sur support, reproduction de clés minute, plaques d'immatriculation, tampons, réparation de sac en cuir, réparation de vêtement en cuir, cordonnerie artisanale, cordonnerie multiservice, cordonnerie serrurerie</div><br><br>📍 Adresse : Bât C, Ccal Auchan, avenue Roger Salengro, 62100 Calais<br><br>📞 03 21 19 68 21<br><br>🌐 Site Web: <a target=\"_new\" href=\"http://europeservices.fr/\">europeservices.fr</a>"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Point Services vous accueille pour divers services de réparation et de reproduction. Spécialisés dans la réparation de talon, la gravure sur support, la reproduction de clés minute, et la réparation de sacs et vêtements en cuir, nous offrons également des prestations variées telles que la confection de plaques d'immatriculation, la réalisation de tampons, et bien plus encore.<br><br><strong>Réparateur labellisé Refashion</strong><br><img src=\"https://refashion.fr/citoyen/sites/default/files/styles/desktop_2048/public/photo-texte/Capture%20d%E2%80%99e%CC%81cran%202023-11-05%20a%CC%80%2020.02.05.png\" width=\"90px\" alt=\"QualiRéparLogo\"> </img><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation de talon, gravure sur support, reproduction de clés minute, plaques d'immatriculation, tampons, réparation de sac en cuir, réparation de vêtement en cuir, cordonnerie artisanale, cordonnerie multiservice, cordonnerie serrurerie bonus </div><br><br>📍 Adresse : Bât C, Ccal Auchan, avenue Roger Salengro, 62100 Calais<br><br>📞 03 21 19 68 21<br><br>🌐 Site Web: <a target=\"_new\" href=\"http://europeservices.fr/\">europeservices.fr</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -1522,7 +1522,7 @@
             "properties": {
                 "name": "Péoux Services",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Péoux services est une entreprise spécialisée dans le dépannage et la réparation d'appareils électroménagers dans la région de Calais. Leur équipe se déplace rapidement chez vous pour réparer ou dépanner vos appareils, afin de prolonger leur durée de vie et réduire votre impact environnemental.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparateurs d'appareils électroménagers, dépanneur d'appareils électroménagers, prolongation de durée de vie, durabilité, service de réparation à domicile, réduction de l'impact environnemental, économie circulaire, récupération d'appareils, remise en état, maintenance. </div><br><br><strong>Labélisé QualiRépar</strong><br><img src=\"https://rapport2021.ecosystem.eco/wp-content/uploads/2022/06/qualirepar_noir_rvb1-300x151.png\" width=\"90px\" alt=\"QualiRéparLogo\"> </img><br><br>📍 49 Boulevard Léon Gambetta, Calais, 62100<br><br>📞 09 81 45 20 14<br><br>📧 dpeoux@gmail.com<br><br>🌐 www.peouxservices.fr"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Péoux services est une entreprise spécialisée dans le dépannage et la réparation d'appareils électroménagers dans la région de Calais. Leur équipe se déplace rapidement chez vous pour réparer ou dépanner vos appareils, afin de prolonger leur durée de vie et réduire votre impact environnemental.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparateurs d'appareils électroménagers, dépanneur d'appareils électroménagers, prolongation de durée de vie, durabilité, service de réparation à domicile, réduction de l'impact environnemental, économie circulaire, récupération d'appareils, remise en état, maintenance. bonus </div><br><br><strong>Labélisé QualiRépar</strong><br><img src=\"https://rapport2021.ecosystem.eco/wp-content/uploads/2022/06/qualirepar_noir_rvb1-300x151.png\" width=\"90px\" alt=\"QualiRéparLogo\"> </img><br><br>📍 49 Boulevard Léon Gambetta, Calais, 62100<br><br>📞 09 81 45 20 14<br><br>📧 dpeoux@gmail.com<br><br>🌐 www.peouxservices.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -1537,7 +1537,7 @@
             "properties": {
                 "name": "Ritaine SAV Dépannage",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Ritaine SAV Dépannage propose des services de dépannage en électroménager et électricité ainsi que la vente de produits reconditionnés dans le triangle Dunkerque, Boulogne-sur-Mer et Saint-Omer. L'entreprise s'engage à offrir des solutions durables et abordables pour répondre aux besoins de ses clients tout en préservant l'environnement.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparateurs d'appareils électroménagers, dépanneur d'appareils électroménagers, prolongation de durée de vie, durabilité, service de réparation à domicile, réduction de l'impact environnemental, économie circulaire, récupération d'appareils, remise en état, maintenance </div><br><br><strong>Labélisé QualiRépar</strong> <br><img src=\"https://rapport2021.ecosystem.eco/wp-content/uploads/2022/06/qualirepar_noir_rvb1-300x151.png\" width=\"90px\" alt=\"QualiRéparLogo\"> </img><br><br>📍 156 rue de la Nostraeten, 62370 Audruicq<br><br>📞 06 08 15 10 82<br><br>📧 ritaine.rsd@gmail.com<br><br>🌐 https://www.ritainesavdepannage.fr/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Ritaine SAV Dépannage propose des services de dépannage en électroménager et électricité ainsi que la vente de produits reconditionnés dans le triangle Dunkerque, Boulogne-sur-Mer et Saint-Omer. L'entreprise s'engage à offrir des solutions durables et abordables pour répondre aux besoins de ses clients tout en préservant l'environnement.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparateurs d'appareils électroménagers, dépanneur d'appareils électroménagers, prolongation de durée de vie, durabilité, service de réparation à domicile, réduction de l'impact environnemental, économie circulaire, récupération d'appareils, remise en état, maintenance bonus </div><br><br><strong>Labélisé QualiRépar</strong> <br><img src=\"https://rapport2021.ecosystem.eco/wp-content/uploads/2022/06/qualirepar_noir_rvb1-300x151.png\" width=\"90px\" alt=\"QualiRéparLogo\"> </img><br><br>📍 156 rue de la Nostraeten, 62370 Audruicq<br><br>📞 06 08 15 10 82<br><br>📧 ritaine.rsd@gmail.com<br><br>🌐 https://www.ritainesavdepannage.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -1805,21 +1805,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Urban Fairy",
-                "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Urban Fairy est une entreprise qui propose des patrons de couture ainsi que des tutoriels en ligne via leur chaîne YouTube \"Elsa Couture\". Leurs cours de qualité sont appréciés par près de 12 000 couturières. Urban Fairy encourage également la méthode d'upcycling pour éviter de gaspiller des tissus.<br><br>📍 Audruicq<br><br>📧 contact@urbanfairy.fr<br><br>🌐 urbanfairy.fr"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.0764638,
-                    50.8763182
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Pierre Informatique",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Pierre Informatique est une entreprise spécialisée dans la réparation d'ordinateurs, de smartphones et de tablettes. Ils proposent également des services de création d'ordinateurs personnalisés, d'amélioration des performances et de formation.<br><br>📍 303 Rue du Rivage, 62370 Ruminghem<br><br>📞 06 14 38 18 34<br><br>📧 schriffure.pierre@gmail.com<br><br>🌐 pierreinformatique.fr.gd<br><br>🌐 https://www.facebook.com/Pierreinformatique/?locale=fr_FR"
@@ -1942,7 +1927,7 @@
             "properties": {
                 "name": "Le ptit atelier d'angel",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Le Ptit Atelier d'Angel est une couturière professionnelle et expérimentée à Bouquehault. Elle propose ses services de création, de réparation et de confection de vêtements avec un travail rapide et soigné. Le tout dans une démarche de réemploi et de prolongation de la vie des vêtements.<br><br>📍 5 Rue de l'École, 62340 Bouquehault<br><br>📞 06 58 87 78 42<br><br>📧 petit.atelier.dangel@gmail.com<br><br>🌐 https://www.facebook.com/groups/220712371629256/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Propose des services de création, de réparation et de confection de vêtements avec un travail rapide et soigné. Le tout dans une démarche de réemploi et de prolongation de la vie des vêtements.<br><br>📍 5 Rue de l'École, 62340 Bouquehault<br><br>📞 06 58 87 78 42<br><br>📧 petit.atelier.dangel@gmail.com<br><br>🌐 https://www.facebook.com/groups/220712371629256/"
             },
             "geometry": {
                 "type": "Point",
@@ -2009,21 +1994,6 @@
                 "coordinates": [
                     1.874517,
                     50.868205
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Les mignonneries de Mimie",
-                "logo": "",
-                "description": "Thème : <br>- Produits zéro déchet<br><br>Description :<br>Créatrice française d'articles mignons cousus à la main dans son atelier. Propose des produits réutilisables comme des lingettes et serviettes lavable.<br><br>📍 Ardres, France<br><br>📧 lesmignonneriesdemimie@gmail.com<br><br>🌐 https://www.facebook.com/lesmignonneriesdeMimie/<br><br>🌐 https://www.instagram.com/lesmignonneriesdemimie_/?hl=fr"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.9754784,
-                    50.8760921
                 ]
             }
         },
@@ -2242,7 +2212,7 @@
             "properties": {
                 "name": "Niie et ses petites coutures",
                 "logo": "",
-                "description": "Thèmes :<br>- Produits zéro déchet<br>- Réemploi / Réparation<br><br>Description :<br>Créatrice couturière autodidacte passionnée. Elle crée des vêtements, des accessoires et des articles d'ameublement uniques.<br>Elle apprécie de faire des créations en favorisant le réemploi de tissus (Upcycling).<br> Son univers est à la fois vintage, coloré et moderne.<br><br>📍 46 Rue Dognin, 62100 Calais<br><br>📞 06 48 87 23 74<br><br>🌐https://niieetsespetitescoutures.com/"
+                "description": "Thèmes :<br>- Produits zéro déchet<br>- Réemploi / Réparation<br><br>Description :<br>Créatrice couturière autodidacte passionnée. Elle crée des vêtements, des accessoires et des articles d'ameublement uniques.<br>Elle apprécie de faire des créations en favorisant le réemploi de tissus (Upcycling).<br> Son univers est à la fois vintage, coloré et moderne.<br><br>📍 46 Rue Dognin, 62100 Calais<br><br>📞 06 48 87 23 74<br><br>🌐 https://niie-et-ses-petites-coutures.sumupstore.com"
             },
             "geometry": {
                 "type": "Point",
@@ -2317,7 +2287,7 @@
             "properties": {
                 "name": "Couture Des 2 Caps",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br><br>Description :<br>\"Couture Des 2 Caps\" est spécialisé dans la fabrication d'accessoires et d'articles de mode en tissu.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Fabrication artisanale Mode éthique Accessoires textiles Couture créative Réutilisation Matériaux durables Consommation responsable Économie circulaire</div><br><br>📍 62100 Calais<br><br>📞 06 09 52 52 76 <br><br>📧 couturedes2caps@gmail.com<br>🌐 https://www.facebook.com/couturedes2caps/<br>🌐 https://www.instagram.com/couturedes2caps/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br><br>Description :<br>Couture Des 2 Caps est spécialisé dans la fabrication d'accessoires et d'articles de mode en tissu.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Fabrication artisanale Mode éthique Accessoires textiles Couture créative Réutilisation Matériaux durables Consommation responsable Économie circulaire</div><br><br>📍 62100 Calais<br><br>📞 06 09 52 52 76 <br><br>📧 couturedes2caps@gmail.com<br>🌐 https://www.facebook.com/couturedes2caps/<br>🌐 https://www.instagram.com/couturedes2caps/"
             },
             "geometry": {
                 "type": "Point",
@@ -2812,7 +2782,7 @@
             "properties": {
                 "name": "ZARA",
                 "logo": "",
-                "description": "<img src=\"https://doc-14-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/a1r8og4dv5npue46f45alcugqo/n9u49sjpdkbrmqbvcrokfot0a0/1712753926000/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AHUGKgrHD0MvRNcAt_bca0wNd3mXS1C6rbNf4gx9bc1OhbMkjLVakckI0xxaoGk4Oh8Mw09rrz5mNvZDPsXcZ_ntiCPNsjKAQzkkvA3gGfQL7I4yTUNocEvw7bGoR6RWNe_zJrjBZ3dnUKiOTMRHh_iiGv3orT9N7ntttq_1-1AuPBph1lyIf251aIApeAXFwnZvMjGdohNca8BXHx7rQNtbtsLnim3rFF1rR_wFmL0XlFESYVs?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>ZARA, la célèbre chaîne espagnole de mode, va au-delà de la tendance en proposant un service de réparation de vêtements. Située à Cité Europe, Coquelles, ZARA s'engage à prolonger la durée de vie de vos vêtements ZARA. .<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparation de vêtements, durabilité, ateliers labellisés, mode responsable, prolongation de vie, service en magasin, service en ligne, ZARA </div><br><br>📍 Cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 +33 801 84 13 91<br><br>🌐 Site : <a target=\"_new\" href=\"https://www.zara.com/fr/fr/preowned-repair-mkt5796.html?v1=2317175\">ZARA Réparation</a>"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>ZARA, la célèbre chaîne espagnole de mode, va au-delà de la tendance en proposant un service de réparation de vêtements. Située à Cité Europe, Coquelles, ZARA s'engage à prolonger la durée de vie de vos vêtements ZARA. .<br><br><strong>Réparateur labellisé Refashion</strong><br><img src=\"https://refashion.fr/citoyen/sites/default/files/styles/desktop_2048/public/photo-texte/Capture%20d%E2%80%99e%CC%81cran%202023-11-05%20a%CC%80%2020.02.05.png\" width=\"90px\" alt=\"QualiRéparLogo\"> </img><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparation de vêtements, durabilité, ateliers labellisés, mode responsable, prolongation de vie, service en magasin, service en ligne, ZARA bonus </div><br><br>📍 Cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 +33 801 84 13 91<br><br>🌐 Site : <a target=\"_new\" href=\"https://www.zara.com/fr/fr/preowned-repair-mkt5796.html?v1=2317175\">ZARA Réparation</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -2857,7 +2827,7 @@
             "properties": {
                 "name": "Mondial Tissus",
                 "logo": "",
-                "description": "<img src=\"https://doc-14-28-mymaps.googleusercontent.com/untrusted/hostedimage/m/a1r8og4dv5npue46f45alcugqo/40kphnvn23ir1gpqgil16ksud8/1712753926000/tdJ-Fzmt7-GNl6V2jHCb4QX67kvrz39D/03656243016105540221/5AHUGKgqfJ_Kq2kuq_6X89tmdrvQz69Iih5DSutGXwdYleca4Bsdd5-NcN5D1fW07lTPZisCHtz027jmol2RSoKNZQqfpYdV7k4ShJQ-LfXbFffqeSDRBkDBBNxwGoWrDMTbvOs2Uy35M9f0aZMxgIcdFcNOQG4SBSAwngl1b0P1oNi3Dwq6SDPWFyrxNNLKKfTmvmzxO34snmdRtZmjF8qaGTkKefDG5w6VHxiyehPRkI6PrkqI?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Mondial Tissus est une entreprise de distribution spécialisée dans la commercialisation du tissu et de la mercerie. En plus de proposer une large gamme de produits, elle offre des services de réparation pour prolonger la durée de vie de vos articles textiles.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">distribution, tissu, mercerie, réparation, couture, horaires flexibles</div><br><br>📍 3A Av. Charles de Gaulle, 62231 Coquelles<br><br>📞 01 70 18 16 00<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://www.mondialtissus.fr/\">Mondial Tissus</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://fr-fr.facebook.com/MondialTissus/\">Mondial Tissus</a><br><br>🌐 Instagram : <a target=\"_new\" href=\"https://www.instagram.com/mondialtissus/\">Mondial Tissus</a>"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Mondial Tissus est une entreprise de distribution spécialisée dans la commercialisation du tissu et de la mercerie. En plus de proposer une large gamme de produits, elle offre des services de réparation pour prolonger la durée de vie de vos articles textiles.<br><br><strong>Réparateur labellisé Refashion</strong><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">distribution, tissu, mercerie, réparation, couture, bonus </div><br><img src=\"https://refashion.fr/citoyen/sites/default/files/styles/desktop_2048/public/photo-texte/Capture%20d%E2%80%99e%CC%81cran%202023-11-05%20a%CC%80%2020.02.05.png\" width=\"90px\" alt=\"QualiRéparLogo\"> </img><br><br>📍 3A Av. Charles de Gaulle, 62231 Coquelles<br><br>📞 01 70 18 16 00<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://www.mondialtissus.fr/\">Mondial Tissus</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://fr-fr.facebook.com/MondialTissus/\">Mondial Tissus</a><br><br>🌐 Instagram : <a target=\"_new\" href=\"https://www.instagram.com/mondialtissus/\">Mondial Tissus</a>"
             },
             "geometry": {
                 "type": "Point",
