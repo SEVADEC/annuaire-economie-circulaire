@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "16/05/2024, 15:05:26",
+    "update": "16/05/2024, 15:09:58",
     "features": [
         {
             "type": "Feature",
@@ -2872,7 +2872,7 @@
             "properties": {
                 "name": "Prest' aménagement",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Prest' Aménage vos Espaces de Travail et d'Accueil de Publics propose une solution écoresponsable en mobilier de bureau seconde vie collecté, nettoyé et réparé, offrant ainsi une alternative, presque comme du neuf. Aménagez vos espaces professionnels avec un large choix de mobilier : chaises, fauteuils, tables de réunion, bureaux, canapés, et bien plus encore.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mobilier de bureau, seconde vie, écoresponsable, réemploi, réparation, collecte, nettoyage, réduction des déchets, économique</div><br><br>📍  Rue des Oyats, 62100 CALAIS<br><br>📞 06 81 18 90 00<br><br>🌐 Site Web: <a target=\"_new\" href=\"https://www.prest.pro/\">Prest.pro</a>"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Prest' Aménage vos Espaces de Travail et d'Accueil de Publics propose une solution écoresponsable en mobilier de bureau seconde vie collecté, nettoyé et réparé, offrant ainsi une alternative, presque comme du neuf. Aménagez vos espaces professionnels avec un large choix de mobilier : chaises, fauteuils, tables de réunion, bureaux, canapés, et bien plus encore.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mobilier de bureau, seconde vie, écoresponsable, réemploi, réparation, collecte, nettoyage, réduction des déchets, économique</div><br><br>📍  Rue des Oyats, 62100 CALAIS<br><br>📞 06 81 18 90 00<br><br>🌐 Site Web: <a target=\"_new\" href=\"https://www.prest.pro/fr\">Prestpro</a>"
             },
             "geometry": {
                 "type": "Point",
