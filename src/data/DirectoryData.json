@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "16/05/2024, 15:09:58",
+    "update": "05/07/2024, 14:13:40",
     "features": [
         {
             "type": "Feature",
@@ -2879,6 +2879,36 @@
                 "coordinates": [
                     1.8903781,
                     50.9645273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Jolie Tribu",
+                "logo": "",
+                "description": "Thèmes :<br>- Éco-entreprise<br>- Produits zéro déchet<br><br>Description :<br>La Jolie Tribu est un concept store situé à Calais, proposant une large sélection de produits pour toute la famille et la maison. Priorisant des marques françaises et majoritairement made in France, la boutique incarne des valeurs environnementales, sociales et éthiques. Vous y trouverez des articles pour bébé, enfant, femme, homme, ainsi que de la décoration, des bijoux, de la papeterie et des cosmétiques naturels, alliant tendance et consommation responsable.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">concept store, marques françaises, made in France, valeurs environnementales, sociales et éthiques, produits pour la famille, décoration, bijoux, papeterie, cosmétiques naturels, consommation responsable</div><br>📍 40 rue Royale - 62100 CALAIS<br><br>📞 03 21 96 21 60<br><br>🌐 <a target=\"_new\" href=\"https://lajolietribu.fr/\">Site Web</a><br><br>🌐 <a target=\"_new\" href=\"https://monshoppingcestcalais.fr/marketplace/seller/profile/la-jolie-tribu/view\">monshoppingcestcalais</a><br><br>🌐 <a target=\"_new\" href=\"https://www.facebook.com/lajolietribu/\">Facebook</a><br><br>🌐 <a target=\"_new\" href=\"https://www.instagram.com/la_jolie_tribu/\">Instagram</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8496405,
+                    50.957642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guînes Frip'",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Guînes Frip' est une friperie située à Guînes, spécialisée dans la vente de vêtements de seconde main. En proposant une alternative durable à la mode rapide, elle permet de donner une seconde vie aux vêtements tout en réduisant les déchets textiles. Avec un large choix d'articles pour tous les goûts, Guînes Frip' s'engage à offrir des vêtements de qualité à des prix abordables, tout en soutenant une consommation responsable.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">friperie, vêtements de seconde main, alternative durable, mode rapide, réduction des déchets textiles, consommation responsable, vêtements de qualité, prix abordables</div><br><br>📍 21 rue Georges Clémenceau, Guînes, France, 62340<br><br>📞 06 24 04 01 65<br><br>📧 guines.frip@gmail.com<br><br>🌐 <a rel=\"noreferrer\" target=\"_new\" href=\"https://www.facebook.com/profile.php?id=61560484907012\">Facebook</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8695546,
+                    50.868484
                 ]
             }
         }
