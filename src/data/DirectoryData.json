@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "05/07/2024, 14:13:40",
+    "update": "13/08/2024 11:01:28",
     "features": [
         {
             "type": "Feature",
@@ -89,21 +89,6 @@
                 "coordinates": [
                     1.845811,
                     50.948265
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "So'Belle",
-                "logo": "",
-                "description": "Thèmes :<br>- Produits zéro déchet<br>- Éco-entreprise <br><br>Description :<br>Savonnerie artisanale travaillant en saponification à froid. Fabrication de cosmétiques naturels. Packaging réduit au maximum (compostable ou recyclable). Matières premières biosourcées avec le plus possible de produits locaux (huiles végétales et plantes issues de l'agriculture régionale). Partenariat avec des artisans locaux pour la conception d'articles zéro déchet.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Artisans locaux Zéro déchet Soins corporels Durabilité Fabrication artisanale </div><br><br>📍 15 Rue de l'Eau Courte, 62132 Hardinghen<br><br>📞 06 77 80 21 04<br><br>📧 sobelle.cosmetique@gmail.com<br>🌐 https://www.so-belle.fr/<br>🌐 www.facebook.com/SobelleCosmetique/"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.826465,
-                    50.787476
                 ]
             }
         },
@@ -1325,21 +1310,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Gourmi",
-                "logo": "",
-                "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>Produits locaux et dans une démarche durable, dans toute la mesure du possible.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Économie circulaire Circuit court Agriculture biologique Commerce équitable Consommation responsable Développement durable  Éthique Réduction de l'empreinte carbone Approvisionnement responsable </div><br><br>📍 26 ter, D940, 62231 Blériot Plage<br><br>📞 03 6 27 09 76 62<br><br>📧 https://www.gourmi.fr/index.php/contact/<br>🌐 https://www.gourmi.fr/"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8265634,
-                    50.9589351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Secours populaire",
                 "logo": "",
                 "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Réemploi / Réparation<br><br>Description :<br>Le Secours populaire est une association française à but non-lucratif qui vise à lutter contre la pauvreté et l'exclusion en France et à l'étranger. Le Secours populaire mène des actions dans les domaines de l'aide alimentaire, de l'hébergement et de l'accès au logement, de l'accès aux soins de santé, de la lutte contre l'isolement et l'exclusion sociale, de l'éducation et de la formation, du sport et du loisir, de la solidarité internationale et de l'aide humanitaire d'urgence. L'association s'appuie sur le bénévolat et sur les dons pour mener ses activités et a pour objectif de susciter l'engagement de chacun en faveur de la solidarité et de la citoyenneté.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Aide alimentaire  Bénévolat Dons </div><br><br>📍 269 Rte de Saint-Omer, 62100 Calais<br><br>📞 03 21 96 37 43<br><br>📧 https://www.secourspopulaire.fr/nous-contacter<br>🌐 www.secourspopulaire.fr"
@@ -2032,7 +2002,7 @@
             "properties": {
                 "name": "Beauty Phone",
                 "logo": "",
-                "description": "Thème : Réemploi/Réparation<br><br>Description :<br>Beauty Phone est un magasin de réparation de téléphones mobiles situé dans le Centre Commercial Cité Europe. Avec des techniciens qualifiés, ils réparent vos téléphones avec des pièces de qualité. Leur objectif est de prolonger la vie de votre appareil au lieu de le remplacer.<br><br>📍 Centre Commercial cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 09 80 83 03 46<br><br>🌐 https://beautyphonecite.business.site/<br><br>🌐 https://www.facebook.com/Beautyphonciteeurope"
+                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description :<br>Beauty Phone est un magasin de réparation de téléphones mobiles situé dans le Centre Commercial Cité Europe. Avec des techniciens qualifiés, ils réparent vos téléphones avec des pièces de qualité. Leur objectif est de prolonger la vie de votre appareil au lieu de le remplacer.<br><br>📍 Centre Commercial cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 09 80 83 03 46<br><br>🌐 https://beautyphonecite.business.site/<br><br>🌐 https://www.facebook.com/Beautyphonciteeurope"
             },
             "geometry": {
                 "type": "Point",
@@ -2909,6 +2879,36 @@
                 "coordinates": [
                     1.8695546,
                     50.868484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Il suffira d’un fil",
+                "logo": "",
+                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description : <br>Découvrez les talents de couturière de Sophie dans sa boutique. Elle vous propose ses créations mais aussi des broderies pour rendre vos pièces uniques.<br><br>📍 485 Route d'Audruicq, 62370 RUMINGHEM<br><br>📞 06 88 20 43 28<br><br>📧 ilsuffiradunfil@gmail.com<br><br>🌐 www.ilsuffiradunfil.fr/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1517728,
+                    50.8576736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phonetastik",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Phonetastik est un magasin de réparation de téléphones mobiles, tablettes, ordinateurs portables et de consoles de jeux. Vous pourrez également trouver des téléphones reconditionnés et des accessoires.  <br><br>📍 66 Boulevard Lafayette, 62100 CALAIS<br><br>📞 06 08 80 89 84<br><br>🌐 https://linktr.ee/phonetastik.calais<br><br>🌐 https://www.instagram.com/phonetastik"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8578576,
+                    50.9464289
                 ]
             }
         }
