@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "13/08/2024 11:01:28",
+    "update": "13/09/2024, 11:33:04",
     "features": [
         {
             "type": "Feature",
@@ -2707,7 +2707,7 @@
             "properties": {
                 "name": "Fripshop",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Boutique spécialisée dans la vente de vêtements et d’accessoires de seconde main.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"></div><br><br>📍 105 Bd Gambetta, 62100 Calais<br><br>📞 06 28 78 52 45<br><br>📧 frishop23@gmail.com<br><br>🌐 Instagram: <a target=\"_new\" href=\"https://www.instagram.com/fripshopcalais\">Frishop Calais</a><br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/people/Fripshop-Calais/pfbid02e3mhjgGh4un6wsb2FjG6AU4gMVPRPa9cXpcCsiSem517iAQfwkJvhH6JevPsoKBMl/\">Frishop Calais</a>"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Boutique spécialisée dans la vente de vêtements et d’accessoires de seconde main.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"></div><br><br>📍 105 Bd Gambetta, 62100 Calais<br><br>📞 06 28 78 52 45<br><br>📧 fripshop23@gmail.com<br><br>🌐 Instagram: <a target=\"_new\" href=\"https://www.instagram.com/fripshopcalais\">Fripshop Calais</a><br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/people/Fripshop-Calais/pfbid02e3mhjgGh4un6wsb2FjG6AU4gMVPRPa9cXpcCsiSem517iAQfwkJvhH6JevPsoKBMl/\">Fripshop Calais</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -2909,6 +2909,21 @@
                 "coordinates": [
                     1.8578576,
                     50.9464289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Signature F",
+                "logo": "",
+                "description": "Thèmes : <br>- Réemploi / Réparation<br>- Éco-entreprise<br><br>Description : <br><br>📍 822 Rue Rolls, 62231 SANGATTE <br><br>📞 06 64 30 49 14<br><br>🌐 https://signature-f.fr/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7690613,
+                    50.9476961
                 ]
             }
         }
