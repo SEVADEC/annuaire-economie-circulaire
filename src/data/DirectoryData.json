@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "13/09/2024, 11:33:04",
+    "update": "27/09/2024, 16:17:06",
     "features": [
         {
             "type": "Feature",
@@ -125,7 +125,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "SCIE SIDE",
+                "name": "Scie Side ",
                 "logo": "",
                 "description": "Thème : <br>- Produits zéro déchet<br>- Éco-entreprise<br><br>Description :<br>Artisan du bois et de l'esprit du bord de mer. De la décoration au mobilier, des pièces uniques et sur mesure.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Menuisier Ebéniste Décorateur Fabricant Créateur Personnalisation Unique Élaboration Confection Atelier</div><br><br>📍 10 Rue de Laubanie, 62231 Coquelles<br><br>📞 06 84 56 71 81<br><br>📧 benjamindassonval@orange.fr<br>🌐 www.scieside.com"
             },
@@ -404,21 +404,6 @@
                 "coordinates": [
                     1.809335,
                     50.944188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Dressing New Vintage",
-                "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Vêtements homme, femme ainsi qu’enfant de première et seconde main.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">seconde vie friperie vintage recyclage upcycling récupération seconde main chance<br>seconde main économie circulaire</div><br><br>📍 207 Bd la Fayette, 62100 Calais<br><br>📞 09 50 65 80 00<br><br>📧 wog.destock@gmail.com<br>🌐 https://www.facebook.com/wog.destock/?ref=page_internal"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.863847,
-                    50.945243
                 ]
             }
         },
@@ -762,8 +747,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.85619,
-                    50.948244
+                    1.856941,
+                    50.9483792
                 ]
             }
         },
@@ -1042,13 +1027,13 @@
             "properties": {
                 "name": "Maison du numérique et de l'Innovation du Calaisis",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>La Maison du Numérique et de l’Innovation est un lieu d’expérimentation, un lieu de rencontres et d’échanges, un lieu de découverte des nouvelles technologies.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Innovation technologique Coworking Ateliers numériques Accompagnement de projets FabLab Partenariats entreprises/start-ups Formation aux outils numériques Création de prototypes Incubateur de projets Développement économique local </div><br><br>📍 3 Rue Neuve, 62100 Calais<br><br>📞 03 66 62 50 00<br><br>📧 contact@mdnicalaisis.com<br><br>🌐 www.mdni-calaisis.com"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>La Maison du Numérique et de l’Innovation est un lieu d’expérimentation, un lieu de rencontres et d’échanges, un lieu de découverte des nouvelles technologies.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Innovation technologique Coworking Ateliers numériques Accompagnement de projets FabLab Partenariats entreprises/start-ups Formation aux outils numériques Création de prototypes Incubateur de projets Développement économique local </div><br><br>📍 Centre Commercial - Calais Coeur de Vie<br>    6 Bd Jacquard, 62100 Calais<br><br>📞 03 66 62 50 00<br><br>📧 contact@mdnicalaisis.com<br><br>🌐 www.mdni-calaisis.com"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.855575,
-                    50.948246
+                    1.8545987,
+                    50.9484454
                 ]
             }
         },
@@ -1152,8 +1137,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.854019,
-                    50.946034
+                    1.8647049,
+                    50.9414676
                 ]
             }
         },
@@ -1222,13 +1207,13 @@
             "properties": {
                 "name": "La boutique DÉFI",
                 "logo": "",
-                "description": "Thème :<br>- Économie Social et Solidaire<br><br>Description :<br>Une boutique solidaire à destination de ses bénéficiaires à Calais Cœur de Vie. L’objectif est d’avoir les bons vêtements pour passer un entretien mais aussi la tenue réglementaire pour des contrats courts.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">solidarité, insertion professionnelle, réinsertion sociale, vestiaire solidaire, travail temporaire, employabilité, coaching professionnel, formation professionnelle, habillement professionnel, accès à l'emploi </div><br><br>📍 Cœur de Vie, 8 Bd Jacquard,, 62100 Calais<br><br>📞 03 21 34 15 38<br><br>📧 oroussel@lafabriquedefi-calaisis.fr<br><br>🌐 https://lafabriquedefi-calaisis.org/"
+                "description": "Thème :<br>- Économie Social et Solidaire<br><br>Description :<br>Une boutique solidaire à destination de ses bénéficiaires à Calais Cœur de Vie. L’objectif est d’avoir les bons vêtements pour passer un entretien mais aussi la tenue réglementaire pour des contrats courts.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">solidarité, insertion professionnelle, réinsertion sociale, vestiaire solidaire, travail temporaire, employabilité, coaching professionnel, formation professionnelle, habillement professionnel, accès à l'emploi </div><br><br>📍 Centre Commercial - Calais Coeur de Vie<br>    6 Bd Jacquard, 62100 Calais<br><br>📞 03 21 34 15 38<br><br>📧 oroussel@lafabriquedefi-calaisis.fr<br><br>🌐 https://lafabriquedefi-calaisis.org/"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.856,
-                    50.948442
+                    1.8554206,
+                    50.9481953
                 ]
             }
         },
@@ -1340,7 +1325,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "BOCOLOCO",
+                "name": "Bocoloco",
                 "logo": "",
                 "description": "Thèmes :<br>- Réemploi / Réparation<br>- Vente en vrac<br><br>Description :<br>BOCOLOCO est une start-up \"FoodTech\" qui a lancé son activité en 2019. Elle se spécialise dans le réemploi et la consigne des emballages, en utilisant une technologie unique. La qualité de son travail a été reconnue par de nombreux prix. En tant que partenaire proche de CITEO, un éco-organisme et acteur français de la Responsabilité Élargie des Producteurs (R.E.P.), BOCOLOCO est au centre de l'écosystème du réemploi en France.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Circularité Emballages consignés Économie circulaire Consigne d'emballages Start-up Éco-conception Récupération d'emballages </div><br><br>📍 (Boutique en ligne)<br><br>📞 -<br><br>📧 contact@bocoloco.fr<br><br>🌐 https://www.bocoloco.fr/"
             },
@@ -1447,7 +1432,7 @@
             "properties": {
                 "name": "Pouxy Mode",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Pouxy Mode est un dépôt-vente de prêt-à-porter seconde main situé à Balinghem. La boutique propose une large sélection de vêtements, bijoux et accessoires pour tous, dans un esprit de réemploi et d'économie solidaire.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Friperie Upcycling Textile d'occasion Vêtements de seconde main Economie circulaire Récupération Don de vêtements Charity shop  seconde vie des vêtements </div><br><br>📍 932 Rue du Fort, Balinghem, France, 62610<br><br>📞 03 21 46 00 00<br><br>📧 creation@littoralhautsdefrance.cci.fr<br><br>🌐 https://www.facebook.com/Pouxymode"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Pouxy Mode est un dépôt-vente de prêt-à-porter seconde main situé à Balinghem. La boutique propose une large sélection de vêtements, bijoux et accessoires pour tous, dans un esprit de réemploi et d'économie solidaire.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Friperie Upcycling Textile d'occasion Vêtements de seconde main Economie circulaire Récupération Don de vêtements Charity shop  seconde vie des vêtements </div><br><br>📍 932 Rue du Fort, Balinghem, France, 62610<br><br>📞 03 21 46 00 00<br><br>📧 pouxynette@hotmail.fr<br><br>🌐 https://www.facebook.com/Pouxymode"
             },
             "geometry": {
                 "type": "Point",
@@ -1865,7 +1850,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "TATA P. Créations couture zéro déchet",
+                "name": "Tata P. Créations couture zéro déchet",
                 "logo": "",
                 "description": "Thème :<br>- Produits zéro déchet<br><br>Description :<br>TATA P. Créations couture zéro déchet propose des produits zéro déchet, réutilisables et lavables, fabriqués en coton oekotex et/ou doublé de micro éponge de coton bio, entièrement faits main en France.<br><br>📍 Sainte-Marie-Kerque<br><br>📞 06 47 76 19 61<br><br>📧 tatap.creationszd@gmail.com<br><br>🌐 https://www.facebook.com/TataPcreationsZD/"
             },
@@ -2750,7 +2735,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "ZARA",
+                "name": "Zara",
                 "logo": "",
                 "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>ZARA, la célèbre chaîne espagnole de mode, va au-delà de la tendance en proposant un service de réparation de vêtements. Située à Cité Europe, Coquelles, ZARA s'engage à prolonger la durée de vie de vos vêtements ZARA. .<br><br><strong>Réparateur labellisé Refashion</strong><br><img src=\"https://refashion.fr/citoyen/sites/default/files/styles/desktop_2048/public/photo-texte/Capture%20d%E2%80%99e%CC%81cran%202023-11-05%20a%CC%80%2020.02.05.png\" width=\"50%\" alt=\"QualiRéparLogo\"> </img><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">réparation de vêtements, durabilité, ateliers labellisés, mode responsable, prolongation de vie, service en magasin, service en ligne, ZARA bonus </div><br><br>📍 Cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 +33 801 84 13 91<br><br>🌐 Site : <a target=\"_new\" href=\"https://www.zara.com/fr/fr/preowned-repair-mkt5796.html?v1=2317175\">ZARA Réparation</a>"
             },
@@ -2827,13 +2812,13 @@
             "properties": {
                 "name": "Promod - Calais",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Promod - Calais 4 Boulevards offre une gamme tendance de prêt-à-porter et d'accessoires pour femmes, avec une sélection pour hommes dans certains magasins. En plus de proposer des articles neufs, ce magasin comprend un espace dédié à la seconde main et à la friperie, encourageant ainsi la réutilisation et la réduction des déchets.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">prêt-à-porter, accessoires, mode, femme, homme, seconde main, friperie, réutilisation, réduction des déchets, tendance, magasin, vêtements </div><br><br>📍 4 Boulevards Boulevard Jacquard, 62100 Calais<br><br>📞 03 74 61 03 00<br><br>🌐 Site Web: <a target=\"_new\" href=\"https://www.promod.fr/\">Promod</a><br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/Promod/\">Promod</a><br><br>🌐 Instagram: <a target=\"_new\" href=\"https://www.instagram.com/promod/\">Promod</a>"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Promod - Calais 4 Boulevards offre une gamme tendance de prêt-à-porter et d'accessoires pour femmes, avec une sélection pour hommes dans certains magasins. En plus de proposer des articles neufs, ce magasin comprend un espace dédié à la seconde main et à la friperie, encourageant ainsi la réutilisation et la réduction des déchets.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">prêt-à-porter, accessoires, mode, femme, homme, seconde main, friperie, réutilisation, réduction des déchets, tendance, magasin, vêtements </div><br><br>📍 Centre Commercial - Calais Coeur de Vie<br>    6 Bd Jacquard, 62100 Calais<br><br>📞 03 74 61 03 00<br><br>🌐 Site Web: <a target=\"_new\" href=\"https://www.promod.fr/\">Promod</a><br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/Promod/\">Promod</a><br><br>🌐 Instagram: <a target=\"_new\" href=\"https://www.instagram.com/promod/\">Promod</a>"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8543714,
-                    50.9478066
+                    1.8550526,
+                    50.9480263
                 ]
             }
         },
@@ -2924,6 +2909,36 @@
                 "coordinates": [
                     1.7690613,
                     50.9476961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "O.S.C.A.R.R.",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>O.S.C.A.R.R, votre expert en entretien et réparation de vélos à domicile dans l'agglomération Grand Calais Terres et Mers.<br><br>📞 06 62 84 38 69<br><br>📧 oscarr62100@gmail.com <br><br>🌐 https://www.facebook.com/profile.php?id=61560277469085 "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8612592,
+                    50.9516038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Freakxy",
+                "logo": "",
+                "description": "Boutique avec 50% de produits neufs et 50% de produits d'occasion reconditionnés.<br>Jeux vidéo, consoles, DVD, high tech (télévision, audio et informatique), un espace goodies avec des produits dérivés, vêtements et objets de collection. <br>Plus de 700 références.<br><br><br>📍 Centre Commercial - Calais Coeur de Vie<br>    6 Bd Jacquard, 62100 Calais<br><br>📞 01 89 70 60 37<br><br>🌐 https://www.freakxy.fr/<br>https://www.calaiscoeurdevie.com/boutiques/loisirs-telephonie-informatique/freakxy "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.854745,
+                    50.9481683
                 ]
             }
         }
