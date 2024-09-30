@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "27/09/2024, 16:17:06",
+    "update": "30/09/2024 10:26:55",
     "features": [
         {
             "type": "Feature",
@@ -1137,8 +1137,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8647049,
-                    50.9414676
+                    1.8639914,
+                    50.9413797
                 ]
             }
         },
@@ -2902,7 +2902,7 @@
             "properties": {
                 "name": "Signature F",
                 "logo": "",
-                "description": "Thèmes : <br>- Réemploi / Réparation<br>- Éco-entreprise<br><br>Description : <br><br>📍 822 Rue Rolls, 62231 SANGATTE <br><br>📞 06 64 30 49 14<br><br>🌐 https://signature-f.fr/"
+                "description": "Thèmes : <br>- Réemploi / Réparation<br>- Éco-entreprise<br><br>Description : <br>Signature F donne une seconde vie à vos vêtements grâce à l’Upcycling !<br><br>📍 822 Rue Rolls, 62231 SANGATTE <br><br>📞 06 64 30 49 14<br><br>🌐 https://signature-f.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -2917,7 +2917,7 @@
             "properties": {
                 "name": "O.S.C.A.R.R.",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>O.S.C.A.R.R, votre expert en entretien et réparation de vélos à domicile dans l'agglomération Grand Calais Terres et Mers.<br><br>📞 06 62 84 38 69<br><br>📧 oscarr62100@gmail.com <br><br>🌐 https://www.facebook.com/profile.php?id=61560277469085 "
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>O.S.C.A.R.R, votre expert en entretien et réparation de vélos à domicile dans l'agglomération Grand Calais Terres et Mers.<br><br>📞 06 62 84 38 69<br><br>📧 oscarr62100@gmail.com <br><br>🌐 https://www.facebook.com/profile.php?id=61560277469085 "
             },
             "geometry": {
                 "type": "Point",
@@ -2932,13 +2932,28 @@
             "properties": {
                 "name": "Freakxy",
                 "logo": "",
-                "description": "Boutique avec 50% de produits neufs et 50% de produits d'occasion reconditionnés.<br>Jeux vidéo, consoles, DVD, high tech (télévision, audio et informatique), un espace goodies avec des produits dérivés, vêtements et objets de collection. <br>Plus de 700 références.<br><br><br>📍 Centre Commercial - Calais Coeur de Vie<br>    6 Bd Jacquard, 62100 Calais<br><br>📞 01 89 70 60 37<br><br>🌐 https://www.freakxy.fr/<br>https://www.calaiscoeurdevie.com/boutiques/loisirs-telephonie-informatique/freakxy "
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Boutique avec 50% de produits neufs et 50% de produits d'occasion reconditionnés.<br>Jeux vidéo, consoles, DVD, high tech (télévision, audio et informatique), un espace goodies avec des produits dérivés, vêtements et objets de collection. <br>Plus de 700 références.<br><br><br>📍 Centre Commercial - Calais Coeur de Vie<br>    6 Bd Jacquard, 62100 Calais<br><br>📞 01 89 70 60 37<br><br>🌐 https://www.freakxy.fr/<br>https://www.calaiscoeurdevie.com/boutiques/loisirs-telephonie-informatique/freakxy "
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     1.854745,
                     50.9481683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bike Lover Family",
+                "logo": "",
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Réparation des vélos classiques, électriques et des trottinettes.<br><br>📍 15, rue Jean-Baptiste Corot<br>      62100 CALAIS<br><br>⏲ Tous les jours sauf le mardi<br>       9h - 12h et 14h - 19h<br><br>📞 06 04 01 94 60<br><br>📧 bikeloverfamily@gmail.com <br><br>🌐 https://www.facebook.com/profile.php?id=100095444861222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8950578,
+                    50.9477253
                 ]
             }
         }
