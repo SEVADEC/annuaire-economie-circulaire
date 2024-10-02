@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "30/09/2024 10:26:55",
+    "update": "02/10/2024, 11:18:01",
     "features": [
         {
             "type": "Feature",
@@ -777,8 +777,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.823099,
-                    50.944405
+                    1.8075958,
+                    50.9443644
                 ]
             }
         },
@@ -1987,7 +1987,7 @@
             "properties": {
                 "name": "Beauty Phone",
                 "logo": "",
-                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description :<br>Beauty Phone est un magasin de réparation de téléphones mobiles situé dans le Centre Commercial Cité Europe. Avec des techniciens qualifiés, ils réparent vos téléphones avec des pièces de qualité. Leur objectif est de prolonger la vie de votre appareil au lieu de le remplacer.<br><br>📍 Centre Commercial cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 09 80 83 03 46<br><br>🌐 https://beautyphonecite.business.site/<br><br>🌐 https://www.facebook.com/Beautyphonciteeurope"
+                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description :<br>Beauty Phone est un magasin de réparation de téléphones mobiles situé dans le Centre Commercial Cité Europe. Avec des techniciens qualifiés, ils réparent vos téléphones avec des pièces de qualité. Leur objectif est de prolonger la vie de votre appareil au lieu de le remplacer.<br><br><strong>Labélisé QualiRépar</strong><br><img src=\"https://rapport2021.ecosystem.eco/wp-content/uploads/2022/06/qualirepar_noir_rvb1-300x151.png\" width=\"50%\" alt=\"QualiRéparLogo\"> </img><br><br>📍 Centre Commercial cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 09 80 83 03 46<br><br>🌐 https://beautyphonecite.business.site/<br><br>🌐 https://www.facebook.com/Beautyphonciteeurope"
             },
             "geometry": {
                 "type": "Point",
