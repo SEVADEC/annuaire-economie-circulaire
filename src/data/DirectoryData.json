@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "23/10/2024, 10:19:07",
+    "update": "23/10/2024, 10:24:37",
     "features": [
         {
             "type": "Feature",
@@ -442,7 +442,7 @@
             "properties": {
                 "name": "Easy Cash Calais",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Magasin de produits d'occasion.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"><br>Seconde main Économie circulaire</div><br><div><br>📅<br><table><br> <tr><br> <td><strong>Lundi</strong></td><br> <td>10:00 - 12:00</td><br> <td>14:00 - 19:00</td><br> </tr><br> <tr><br> <td><strong>Mard</strong>i</td><br> <td>10:00 - 12:00</td><br> <td>14:00 - 19:00</td><br> </tr><br> <tr><br> <td><strong>Mercredi</strong></td><br> <td>10:00 - 12:00</td><br> <td>14:00 - 19:00</td><br> </tr><br> <tr><br> <td><strong>Jeudi</strong></td><br> <td>10:00 - 12:00</td><br> <td>14:00 - 19:00</td><br> </tr><br> <tr><br> <td><strong>Vendredi</strong></td><br> <td>10:00 - 12:00</td><br> <td>14:00 - 19:00</td><br> </tr><br> <tr><br> <td><strong>Samedi</strong></td><br> <td>10:00 - 12:30</td><br> <td>13:30 - 19:00</td><br> </tr><br> <tr><br> <td><strong>Dimanche</strong></td><br> <td>Fermé</td><br> </tr><br></table><br></div><br>📍 Rue de Bergnieulles ZA Auchan - Parc la Française, 62231 Coquelles<br><br>📞 03 21 85 32 76<br><br>🌐 magasins.easycash.fr"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Magasin de produits d'occasion.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"><br>Seconde main Économie circulaire</div><br><br>📅<table><tr><td><strong>Lundi</strong></td><td>10:00 - 12:00</td><td>14:00 - 19:00</td></tr><tr><td><strong>Mardi</strong></td><td>10:00 - 12:00</td><td>14:00 - 19:00</td></tr><tr><td><strong>Mercredi</strong></td><td>10:00 - 12:00</td><td>14:00 - 19:00</td></tr><tr><td><strong>Jeudi</strong></td><td>10:00 - 12:00</td><td>14:00 - 19:00</td></tr><tr><td><strong>Vendredi</strong></td><td>10:00 - 12:00</td><td>14:00 - 19:00</td></tr><tr><td><strong>Samedi</strong></td><td>10:00 - 12:30</td><td>13:30 - 19:00</td></tr><tr><td><strong>Dimanche</strong></td><td>Fermé</td></tr></table><br><br>📍 Rue de Bergnieulles ZA Auchan - Parc la Française, 62231 Coquelles<br><br>📞 03 21 85 32 76<br><br>🌐 magasins.easycash.fr"
             },
             "geometry": {
                 "type": "Point",
