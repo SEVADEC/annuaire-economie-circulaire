@@ -1,13 +1,13 @@
 {
     "type": "FeatureCollection",
-    "update": "23/10/2024, 10:24:37",
+    "update": "24/10/2024, 08:47:11",
     "features": [
         {
             "type": "Feature",
             "properties": {
                 "name": "SEVADEC",
                 "logo": "",
-                "description": "Thèmes : <br>- Recyclage<br>- Éco-entreprise<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Syndicat d'Élimination et de VAlorisation des DÉchets du Calaisis.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> Gestion Environnement Recyclage Tri Traitement </div><br><br>📍 Centre administratif, 583 Rue Jacques Monod, 62100 Calais <br><br>📞 03 21 19 58 30<br><br>📧 sevadec@wanadoo.fr<br>🌐 https://www.sevadec.fr/"
+                "description": "Thèmes : <br>- Recyclage<br>- Éco-entreprise<br>- Protection de la nature / Biodiversité<br><br>Description :<br>Syndicat d'Élimination et de VAlorisation des DÉchets du Calaisis.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> Gestion Environnement Recyclage Tri Traitement </div><br>📅<table><tr><td><strong>Du lundi au vendredi</strong></td><td>08:30 - 12:00<td></td><td>13:30 - 17:15</td></tr></table><br><br>📍 Centre administratif, 583 Rue Jacques Monod, 62100 Calais <br><br>📞 03 21 19 58 30<br><br>📧 sevadec@wanadoo.fr<br>🌐 https://www.sevadec.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -22,7 +22,7 @@
             "properties": {
                 "name": "Ateliers de la Citoyenneté",
                 "logo": "",
-                "description": "Thème : <br>- Économie Sociale et Solidaire<br><br>Description :<br>Les Ateliers de la Citoyenneté sont une association loi de 1901, agissant en tant qu'Atelier Chantier d’Insertion (ACI). Leur mission est d'accompagner 64 personnes en Contrat à Durée Déterminée d’Insertion (CDDI) vers une sortie positive dans un cadre professionnel. Ils favorisent le développement des compétences générales et techniques nécessaires à l'employabilité, tout en personnalisant les parcours professionnels des bénéficiaires. Les domaines de compétences comprennent le gros œuvre et second œuvre du bâtiment, la menuiserie ossature bois, la restauration hors foyer, ainsi que les métiers de l’image et de la communication.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Insertion professionnelle, accompagnement, employabilité, compétences, association loi 1901, ACI, CDDI, domaine du bâtiment, menuiserie, restauration, communication, Économie Sociale et Solidaire </div><br>📍 8 rue de Soupirants, 62100 Calais<br><br>📞 03 21 82 76 73<br><br>📧 contact@adlccalais.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://adlccalais.com/\">adlccalais.com</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/AteliersDeLaCitoyennete\">AteliersDeLaCitoyennete</a>"
+                "description": "Thème : <br>- Économie Sociale et Solidaire<br><br>Description :<br>Les Ateliers de la Citoyenneté sont une association loi de 1901, agissant en tant qu'Atelier Chantier d’Insertion (ACI). Leur mission est d'accompagner 64 personnes en Contrat à Durée Déterminée d’Insertion (CDDI) vers une sortie positive dans un cadre professionnel. Ils favorisent le développement des compétences générales et techniques nécessaires à l'employabilité, tout en personnalisant les parcours professionnels des bénéficiaires. Les domaines de compétences comprennent le gros œuvre et second œuvre du bâtiment, la menuiserie ossature bois, la restauration hors foyer, ainsi que les métiers de l’image et de la communication.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Insertion professionnelle, accompagnement, employabilité, compétences, association loi 1901, ACI, CDDI, domaine du bâtiment, menuiserie, restauration, communication, Économie Sociale et Solidaire </div><br>📅<table><tr><td><strong>Du lundi au vendredi</strong></td><td>10:00 - 12:00<td></td><td>14:00 - 17:00</td></tr></table><br><br>📍 8 rue de Soupirants, 62100 Calais<br><br>📞 03 21 82 76 73<br><br>📧 contact@adlccalais.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://adlccalais.com/\">adlccalais.com</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/AteliersDeLaCitoyennete\">AteliersDeLaCitoyennete</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -37,7 +37,7 @@
             "properties": {
                 "name": "Brokepoque",
                 "logo": "",
-                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description :<br>Brocanteur. Vente en ligne d'objets anciens, antiquités, brocante. Envoi réalisé uniquement avec des emballages de récupération.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Collectionneur,Patrimoine,Vintage,Réutilisation,Décoration,Économie circulaire,Chineur</div><br><br>📍 30 Rue du Capitaine de Frégate Marcel Bourgine, 62100 Calais<br><br>📞 06 65 50 96 69<br><br>📧 brokepoque@gmail.com<br>🌐 https://brokepoque.com"
+                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description :<br>Brocanteur. Vente en ligne d'objets anciens, antiquités, brocante. Envoi réalisé uniquement avec des emballages de récupération.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Collectionneur,Patrimoine,Vintage,Réutilisation,Décoration,Économie circulaire,Chineur</div><br><br>📍 30 Rue du Capitaine de Frégate Marcel Bourgine, 62100 Calais<br><br>📞 06 65 50 96 69<br><br>📧 brokepoque@gmail.com<br>🌐 https://brokepoque.com<br>🌐 https://www.facebook.com/Brokepoque/"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +82,7 @@
             "properties": {
                 "name": "Pickkmi",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br><br>Description :<br>Création d'accessoires à base de déchets textiles ou de réemploi de produits textiles usagés. Création d'une gamme \"zéro déchet\" de lingettes, mouchoirs et sacs à pain. Utilisation de déchets divers comme l'alimentaire pour pratiquer une teinture végétale. Ateliers participatifs de réparation de linge et de vêtements.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">upcycling, écologie, réparateur, recyclage</div><br><br>📍 120 Rue du Vauxhall, 62100 Calais<br><br>📞 06 72 70 94 76 <br><br>📧 pickkmicouture@gmail.com<br>🌐 https://www.instagram.com/ateliers.pickkmi/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br><br>Description :<br>Création d'accessoires à base de déchets textiles ou de réemploi de produits textiles usagés. Création d'une gamme \"zéro déchet\" de lingettes, mouchoirs et sacs à pain. Utilisation de déchets divers comme l'alimentaire pour pratiquer une teinture végétale. Ateliers participatifs de réparation de linge et de vêtements.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">upcycling, écologie, réparateur, recyclage</div><br><br>📍 120 Rue du Vauxhall, 62100 Calais<br><br>📞 06 72 70 94 76 <br><br>📧 pickkmicouture@gmail.com<br>🌐 https://www.instagram.com/ateliers.pickkmi/<br>🌐 https://www.facebook.com/Pickkmi/"
             },
             "geometry": {
                 "type": "Point",
@@ -112,7 +112,7 @@
             "properties": {
                 "name": "B comme Nature",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br>- Économie Sociale et Solidaire<br>- Éco-entreprise <br><br>Description :<br>Vente et conseils beauté bien-être 100% naturel. Huiles végétales, huiles essentielles, hydrolat. Ateliers création cosmétique.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Soins Plantes Écologique</div><br><br>📍 -<br><br>📞 06 98 50 68 76 <br><br>📧 barbara@bcommenature.com<br><br>🌐 facebook.com/BcommeNature<br><br>🌐 https://www.bcommenature.com/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Produits zéro déchet<br>- Économie Sociale et Solidaire<br>- Éco-entreprise <br><br>Description :<br>Vente et conseils beauté bien-être 100% naturel. Huiles végétales, huiles essentielles, hydrolat. Ateliers création cosmétique.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Soins Plantes Écologique</div><br><br>📍 Calais<br><br>📞 06 98 50 68 76 <br><br>📧 barbara@bcommenature.com<br><br>🌐 facebook.com/BcommeNature<br><br>🌐 https://www.bcommenature.com/"
             },
             "geometry": {
                 "type": "Point",
