@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "28/10/2024, 16:33:24",
+    "update": "28/10/2024, 17:21:20",
     "features": [
         {
             "type": "Feature",
@@ -1912,7 +1912,7 @@
             "properties": {
                 "name": "L'univers de julie couture",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Julie, autoentrepreneuse, propose des services de couture et de retouches, ainsi que la confection de vêtements sur mesure et de cosplay sur le Calaisis.<br><br>📍 36 Avenue de Verdun, 62340 Guines<br><br>📞 06 19 86 42 17<br><br>📧 daneljulie@gmail.com<br><br>🌐 facebook.com/atelierJuliecouture"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Julie, autoentrepreneuse, propose des services de couture et de retouches, ainsi que la confection de vêtements sur mesure et de cosplay sur le Calaisis.<br>📅<table><tr><td><strong>Du lundi au vendredi</strong></td><td>09:00 - 12:30</td><td>13:30 - 19:00</td></tr><tr><td><strong>samedi</strong></td><td>09:00 - 12:30</td></tr></table><br>📍 36 Avenue de Verdun, 62340 Guines<br><br>📞 06 19 86 42 17<br><br>📧 daneljulie@gmail.com<br><br>🌐 facebook.com/atelierJuliecouture"
             },
             "geometry": {
                 "type": "Point",
@@ -1927,7 +1927,7 @@
             "properties": {
                 "name": "Atelier Brigitte-couturière",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Couturière offrant des services de retouche et de réparation vêtements afin de prolonger leur durée de vie et d'éviter de les jeter prématurément. <br><br>📍 145 Avenue Paul Machy, 62215 Oye-Plage<br><br>📞 03 21 35 84 28"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Couturière offrant des services de retouche et de réparation vêtements afin de prolonger leur durée de vie et d'éviter de les jeter prématurément.<br>📅<table><tr><td><strong>mardi</strong></td><td>09:00 - 11:30</td><td>14:00 - 18:30</td></tr><tr><td><strong>jeudi</strong></td><td>09:00 - 11:30</td><td>14:00 - 18:30</td></tr><tr><td><strong>vendredi</strong></td><td>09:00 - 11:30</td><td>14:00 - 18:30</td></tr></table><br>📍 145 Avenue Paul Machy, 62215 Oye-Plage<br><br>📞 03 21 35 84 28"
             },
             "geometry": {
                 "type": "Point",
@@ -1942,7 +1942,7 @@
             "properties": {
                 "name": "WeFix",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>WeFix vous offre un service de réparation rapide pour vos smartphones et tablettes. Ils travaillent avec les plus grandes marques comme Apple, Samsung, Huawei et Oppo, et offrent des diagnostics gratuits en magasin. Ils utilisent des pièces d'origine ou de qualité constructeur pour toutes les réparations.<br><br>📍 1001 Boulevard du Kent, Centre Commercial Carrefour, Cité Europe, 62231 Coquelles<br><br>📞 01 76 50 76 50<br><br>🌐 https://boutique.wefix.net/23-wefix-coquelles-calais"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>WeFix vous offre un service de réparation rapide pour vos smartphones et tablettes. Ils travaillent avec les plus grandes marques comme Apple, Samsung, Huawei et Oppo, et offrent des diagnostics gratuits en magasin. Ils utilisent des pièces d'origine ou de qualité constructeur pour toutes les réparations.<br>📅<table><tr><td><strong>lundi</strong></td><td>10:00 - 20:00</td></tr><tr><td><strong>mardi</strong></td><td>10:00 - 14:00</td><td>15:00 - 20:00</td></tr><tr><td><strong>mercredi</strong></td><td>10:00 - 20:00</td></tr><tr><td><strong>Du jeudi au dimanche</strong></td><td>10:00 - 14:00</td><td>15:00 - 20:00</td></tr></table><br>📍 1001 Boulevard du Kent, Centre Commercial Carrefour, Cité Europe, 62231 Coquelles<br><br>📞 01 76 50 76 50<br><br>🌐 https://boutique.wefix.net/23-wefix-coquelles-calais"
             },
             "geometry": {
                 "type": "Point",
@@ -1957,7 +1957,7 @@
             "properties": {
                 "name": "Beauty Phone",
                 "logo": "",
-                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description :<br>Beauty Phone est un magasin de réparation de téléphones mobiles situé dans le Centre Commercial Cité Europe. Avec des techniciens qualifiés, ils réparent vos téléphones avec des pièces de qualité. Leur objectif est de prolonger la vie de votre appareil au lieu de le remplacer.<br><br><strong>Labélisé QualiRépar</strong><br><img src=\"https://rapport2021.ecosystem.eco/wp-content/uploads/2022/06/qualirepar_noir_rvb1-300x151.png\" width=\"50%\" alt=\"QualiRéparLogo\"> </img><br><br>📍 Centre Commercial cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 09 80 83 03 46<br><br>🌐 https://beautyphonecite.business.site/<br><br>🌐 https://www.facebook.com/Beautyphonciteeurope"
+                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description :<br>Beauty Phone est un magasin de réparation de téléphones mobiles situé dans le Centre Commercial Cité Europe. Avec des techniciens qualifiés, ils réparent vos téléphones avec des pièces de qualité. Leur objectif est de prolonger la vie de votre appareil au lieu de le remplacer.<br><br><strong>Labélisé QualiRépar</strong><br><img src=\"https://rapport2021.ecosystem.eco/wp-content/uploads/2022/06/qualirepar_noir_rvb1-300x151.png\" width=\"50%\" alt=\"QualiRéparLogo\"> </img><br>📅<table><tr><td><strong>Du lundi au samedi</strong></td><td>10:00 - 20:00</td></tr></table><br>📍 Centre Commercial cité Europe, 1001 Bd du Kent, 62231 Coquelles<br><br>📞 09 80 83 03 46<br><br>🌐 https://beautyphonecite.business.site/<br><br>🌐 https://www.facebook.com/Beautyphonciteeurope"
             },
             "geometry": {
                 "type": "Point",
@@ -1972,7 +1972,7 @@
             "properties": {
                 "name": "High tech reboot",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>High-Tech Reboot est spécialisé dans la réparation et la vente de pièces détachées pour smartphones, tablettes et consoles de jeux.<br><br>📍 84 Rue Henri Guillaumet, 62100 Calais<br><br>📞 07 69 61 66 71<br><br>🌐 https://www.facebook.com/profile.php?id=100057636271700"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>High-Tech Reboot est spécialisé dans la réparation et la vente de pièces détachées pour smartphones, tablettes et consoles de jeux.<br><br>📍 84 Rue Henri Guillaumet, 62100 Calais<br><br>📞 07 69 61 66 71<br>"
             },
             "geometry": {
                 "type": "Point",
@@ -1987,7 +1987,7 @@
             "properties": {
                 "name": "Doc'Mobiles",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Doc'mobiles propose des services de réparation et de vente de smartphones et tablettes. Le fondateur, passionné de technologie, met son expérience à votre disposition pour allonger la durée de vie de vos appareils. L'entreprise a également choisi de s'engager pour l'environnement en partenariat avec l'association \"Pour la vie\" pour la valorisation des anciens smartphones et tablettes.<br><br>📍 500 Route Bonningues, Pihen-lès-Guînes<br><br>📞 06 63 19 43 06<br><br>📧 docmobiles62@gmail.com<br><br>🌐 https://www.docmobiles62.fr<br><br>🌐 https://www.facebook.com/Docmobiles62/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Doc'mobiles propose des services de réparation et de vente de smartphones et tablettes. Le fondateur, passionné de technologie, met son expérience à votre disposition pour allonger la durée de vie de vos appareils. L'entreprise a également choisi de s'engager pour l'environnement en partenariat avec l'association \"Pour la vie\" pour la valorisation des anciens smartphones et tablettes.<br>📅<table><tr><td><strong>Du lundi au samedi</strong></td><td>09:00 - 18:00</td></tr></table><br>📍 500 Route Bonningues, Pihen-lès-Guînes<br><br>📞 06 63 19 43 06<br><br>📧 docmobiles62@gmail.com<br><br>🌐 https://www.docmobiles62.fr<br><br>🌐 https://www.facebook.com/Docmobiles62/"
             },
             "geometry": {
                 "type": "Point",
@@ -2017,7 +2017,7 @@
             "properties": {
                 "name": "Verhaeghe dépannage informatique",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Verhaeghe Dépannage Informatique est spécialisé dans la réparation et le dépannage d'ordinateurs.<br><br>📍 36 Rue Alfred Delcluze, 62100 Calais<br><br>📞 06 29 62 99 24<br><br>📧 verhaegheflorentin@live.fr<br><br>🌐 https://verhaeghe-depannage-informatique.business.site/?utm_source=gmb&utm_medium=referral<br><br>🌐 https://www.facebook.com/groups/1757641004435423"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Verhaeghe Dépannage Informatique est spécialisé dans la réparation et le dépannage d'ordinateurs.<br>📅<table><tr><td><strong>Du lundi au samedi</strong></td><td>10:00 - 19:00</td></tr></table><br>📍 36 Rue Alfred Delcluze, 62100 Calais<br><br>📞 06 29 62 99 24<br><br>📧 verhaegheflorentin@live.fr<br><br>🌐 https://verhaeghe-depannage-informatique.business.site/?utm_source=gmb&utm_medium=referral<br><br>🌐 https://www.facebook.com/groups/1757641004435423"
             },
             "geometry": {
                 "type": "Point",
@@ -2032,7 +2032,7 @@
             "properties": {
                 "name": "Comeca",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Comeca est une entreprise qui offre des services de réparation et de maintenance pour les parcs informatiques professionnels qui peut aider les entreprises à réduire leur impact environnemental en prolongeant la durée de vie de leur matériel informatique.<br><br>📍 405 Rue Marcel Dassault, 62100 Calais<br><br>📞 03 21 36 43 101<br><br>📧 contact@sas-comeca.fr<br><br>🌐 https://sas-comeca.fr/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Comeca est une entreprise qui offre des services de réparation et de maintenance pour les parcs informatiques professionnels qui peut aider les entreprises à réduire leur impact environnemental en prolongeant la durée de vie de leur matériel informatique.<br>📅<table><tr><td><strong>Du lundi au vendredi</strong></td><td>08:30 - 12:00</td><td>14:00 - 17:30</td></tr></table><br>📍 405 Rue Marcel Dassault, 62100 Calais<br><br>📞 03 21 36 43 101<br><br>📧 contact@sas-comeca.fr<br><br>🌐 https://sas-comeca.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -2092,28 +2092,13 @@
             "properties": {
                 "name": "L’Atelier de broderie de Virginie",
                 "logo": "",
-                "description": "Thème : <br>- Produits zéro déchet<br><br>Description : <br>L'Atelier de broderie de Virginie propose des cadeaux personnalisés pour différentes occasions, tels que les naissances, baptêmes et anniversaires, réalisés avec des techniques de broderie et de couture faites à la main. Les produits sont conçus dans une optique de zéro déchet.<br><br>📍 159 Boulevard Lafayette, 62100 Calais<br><br>📞 06 50 49 19 79<br><br>🌐 https://www.facebook.com/groups/2314215438861865"
+                "description": "Thème : <br>- Produits zéro déchet<br><br>Description : <br>L'Atelier de broderie de Virginie propose des cadeaux personnalisés pour différentes occasions, tels que les naissances, baptêmes et anniversaires, réalisés avec des techniques de broderie et de couture faites à la main. Les produits sont conçus dans une optique de zéro déchet.<br>📅<table><tr><td><strong>mardi</strong></td><td>09:30 - 12:00</td><td>14:00 - 18:30</td></tr><tr><td><strong>mercredi</strong></td><td>09:30 - 12:00</td><td>14:00 - 18:00</td></tr><tr><td><strong>jeudi et vendredi</strong></td><td>09:30 - 12:00</td><td>14:00 - 18:30</td></tr><tr><td><strong>samedi</strong></td><td>09:30 - 12:00</td><td>14:00 - 18:00</td></tr></table><br>📍 159 Boulevard Lafayette, 62100 Calais<br><br>📞 06 50 49 19 79<br><br>🌐 https://www.facebook.com/groups/2314215438861865"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     1.86188,
                     50.94573
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Le Fil de Léa",
-                "logo": "",
-                "description": "Thème :<br>- Produit zéro déchet<br><br>Description :<br>Le Fil de Léa est une créatrice artisanale de couture spécialisée dans les articles pour bébés, enfants et femmes, avec une approche éco-responsable et \"Zéro déchet\". <br><br>📍 500 Rue du Coupevent, 62162 Vieille-Église<br><br>🌐 https://www.etsy.com/fr/shop/lefildelea"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.069962,
-                    50.942644
                 ]
             }
         },
@@ -2167,7 +2152,7 @@
             "properties": {
                 "name": "Mr&Parions",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Atelier de réparation de téléphones mobiles.<br><br>📍 37 Rue Henri Matisse, 62100 Calais<br><br>📞 06 51 16 80 05"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Atelier de réparation de téléphones mobiles.<br>📅<table><tr><td><strong>Du mardi au dimanche</strong></td><td>09:00 - 19:00</td></tr></table><br>📍 37 Rue Henri Matisse, 62100 Calais<br><br>📞 06 51 16 80 05"
             },
             "geometry": {
                 "type": "Point",
@@ -2227,7 +2212,7 @@
             "properties": {
                 "name": "Opale Environnement",
                 "logo": "",
-                "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>Opale Environnement valorise et traite les déchets des particuliers, collectivités et entreprises depuis 35 ans. L'entreprise s'engage à produire des ressources et de l'énergie verte tout en gérant les déchets non valorisables en toute sécurité.<br><br>📍 52 Rue Clément Ader, 62100 Calais<br><br>📞 03 21 34 70 70<br><br>🌐 www.seche-opale-environnement.com"
+                "description": "Thème :<br>- Éco-entreprise<br><br>Description :<br>Opale Environnement valorise et traite les déchets des particuliers, collectivités et entreprises depuis 35 ans. L'entreprise s'engage à produire des ressources et de l'énergie verte tout en gérant les déchets non valorisables en toute sécurité.<br>📅<table><tr><td><strong>Du lundi au jeudi</strong></td><td>08:00 - 12:30</td><td>13:30 - 18:00</td></tr><tr><td><strong>vendredi</strong></td><td>08:00 - 12:30</td><td>13:30 - 17:30</td></tr></table><br>📍 52 Rue Clément Ader, 62100 Calais<br><br>📞 03 21 34 70 70<br><br>🌐 www.seche-opale-environnement.com"
             },
             "geometry": {
                 "type": "Point",
@@ -2257,7 +2242,7 @@
             "properties": {
                 "name": "Natur Pom",
                 "logo": "",
-                "description": "Thème :<br>- Produits zéro déchet<br><br>Description :<br>Natur Pom transforme les pommes et fruits de leur verger en jus de pomme, cocktails, cidre et vinaigre de cidre aux propriétés exceptionnelles. Leur production utilise des méthodes durables et respectueuses de l'environnement pour créer des produits zéro déchet.<br><br>📍 9 Rue de la chapelle, 62370 Nortkerque<br><br>📞 03 21 35 38 86<br><br>📧 naturpom@naturpom.com<br><br>🌐 https://naturpom.fr/"
+                "description": "Thème :<br>- Produits zéro déchet<br><br>Description :<br>Natur Pom transforme les pommes et fruits de leur verger en jus de pomme, cocktails, cidre et vinaigre de cidre aux propriétés exceptionnelles. Leur production utilise des méthodes durables et respectueuses de l'environnement pour créer des produits zéro déchet.<br>📅<table><tr><td><strong>Du lundi au jeudi</strong></td><td>08:00 - 12:00</td><td>14:00 - 17:30</td></tr><tr><td><strong>samedi</strong></td><td>08:00 - 12:00</td><td>14:00 - 17:30</td></tr></table><br>📍 9 Rue de la chapelle, 62370 Nortkerque<br><br>📞 03 21 35 38 86<br><br>📧 naturpom@naturpom.com<br><br>🌐 https://naturpom.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -2302,7 +2287,7 @@
             "properties": {
                 "name": "Charlotte aux Fripes",
                 "logo": "",
-                "description": "Thème:<br>- Réemploi / Réparation<br><br>Description:<br>Charlotte aux Fripes est une boutique de seconde main qui propose des vêtements et des accessoires, de grandes marques ou non, à petits prix. Les clientes sont accueillies sur rendez-vous et ont le loisir d'essayer les articles seules, dans un espace convivial.<br><br>📍 25 Rue de la Marivoort, 62890 Recques-sur-Hem<br><br>📧 charlotteauxfripes@gmail.com<br><br>🌐 https://www.facebook.com/charlotteauxfripes/"
+                "description": "Thème:<br>- Réemploi / Réparation<br><br>Description:<br>Charlotte aux Fripes est une boutique de seconde main qui propose des vêtements et des accessoires, de grandes marques ou non, à petits prix. Les clientes sont accueillies sur rendez-vous et ont le loisir d'essayer les articles seules, dans un espace convivial.<br>📅 Retrouvez les horaires de la semaine sur facebook<br>📍 25 Rue de la Marivoort, 62890 Recques-sur-Hem<br><br>📧 charlotteauxfripes@gmail.com<br><br>🌐 https://www.facebook.com/charlotteauxfripes/"
             },
             "geometry": {
                 "type": "Point",
@@ -2332,7 +2317,7 @@
             "properties": {
                 "name": "Ludothèque Pays d'Opale Hardinghen",
                 "logo": "",
-                "description": "Thème :<br>- Location / Partage<br><br>Description :<br>La Ludothèque Pays d'Opale Hardinghen propose des jeux sur place ainsi que le prêt de jeux et jouets pour tous les âges.<br><br>📍 Rue Maurice Broutta, 62132 Hardinghen<br><br>📞 03 21 19 27 27<br><br>📧 ludotheque-hardinghen@cc-paysdopale.fr<br><br>🌐 https://cc-paysdopale.fr/fr/rb/487580/les-ludotheques"
+                "description": "Thème :<br>- Location / Partage<br><br>Description :<br>La Ludothèque Pays d'Opale Hardinghen propose des jeux sur place ainsi que le prêt de jeux et jouets pour tous les âges.<br>📅<table><tr><td><strong>mercredi</strong></td><td>09:00 - 12:00</td><td>14:00 - 17:00</td></tr></table><br>📍 Rue Maurice Broutta, 62132 Hardinghen<br><br>📞 03 21 19 27 27<br><br>📧 ludotheque-hardinghen@cc-paysdopale.fr<br><br>🌐 https://cc-paysdopale.fr/fr/rb/487580/les-ludotheques"
             },
             "geometry": {
                 "type": "Point",
@@ -2347,7 +2332,7 @@
             "properties": {
                 "name": "Ludothèque Pays d'Opale Ardres",
                 "logo": "",
-                "description": "Thème :<br>- Location / Partage<br><br>Description :<br>La Ludothèque Pays d'Opale Ardres propose des jeux sur place ainsi que le prêt de jeux et jouets pour tous les âges.<br><br>📍 Avenue Fernand Buscot, 62610 Ardres<br><br>📞 03 21 00 72 03<br><br>📧 ludotheque-ardres@cc-paysdopale.fr<br><br>🌐 https://www.facebook.com/ludotheque.ardres.5<br><br>🌐 https://cc-paysdopale.fr/fr/rb/487580/les-ludotheques"
+                "description": "Thème :<br>- Location / Partage<br><br>Description :<br>La Ludothèque Pays d'Opale Ardres propose des jeux sur place ainsi que le prêt de jeux et jouets pour tous les âges.<br>📅<table><tr><td><strong>mercredi</strong></td><td>09:00 - 12:00</td><td>14:00 - 17:00</td></tr></table><br><table><tr><td><strong>Périodes vacances</strong></td></tr><tr><td><strong>lundi</strong></td><td>14:00 - 17:00</td></tr><tr><td><strong>mercredi</strong></td><td>09:00 - 12:00</td><td>14:00 - 17:00</td></tr><tr><td><strong>Du mardi au vendredi</strong></td><td>14:00 - 17:00</td></tr></table><br>📍 Avenue Fernand Buscot, 62610 Ardres<br><br>📞 03 21 00 72 03<br><br>📧 ludotheque-ardres@cc-paysdopale.fr<br><br>🌐 https://www.facebook.com/ludotheque.ardres.5<br><br>🌐 https://cc-paysdopale.fr/fr/rb/487580/les-ludotheques"
             },
             "geometry": {
                 "type": "Point",
