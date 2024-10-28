@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "28/10/2024, 15:49:43",
+    "update": "28/10/2024, 16:06:04",
     "features": [
         {
             "type": "Feature",
@@ -1432,7 +1432,7 @@
             "properties": {
                 "name": "Terre d'Opale",
                 "logo": "",
-                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Terre d'Opale propose des paniers hebdomadaires de produits bio locaux, ainsi qu'une épicerie en ligne, avec un dépôt des produits sur 80 points relais pour se rapprocher des lieux de vie et de travail.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Agriculture biologique Circuit-court Produits locaux  Épicerie en ligne Distribution alternative Commerce équitable Consommation responsable Agriculture durable Alimentation saine </div><br>📅<table ><tr><td><strong>Du lundi au mercredi</strong></td><td><td>09:00 - 12:00</td></tr><td></td><td>14:00 - 17:00</td></tr><tr><td><strong>jeudi</strong></td><td><td>09:00 - 12:00</td></tr><td></td><td>14:00 - 18:00</td></tr><tr><td><strong>vendredi</strong></td><td><td>09:00 - 12:00</td></tr><td></td><td>14:00 - 17:00</td></tr></table><br><br>📍 800 Rue du Pont D'Oye, 62162 Vieille-Église<br><br>📞 03 21 34 08 42<br><br>📧 abonnes@angesgardins.fr<br><br>🌐 https://terres-opale-gohelle.cocagnebio.fr/le-jardin"
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Terre d'Opale propose des paniers hebdomadaires de produits bio locaux, ainsi qu'une épicerie en ligne, avec un dépôt des produits sur 80 points relais pour se rapprocher des lieux de vie et de travail.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Agriculture biologique Circuit-court Produits locaux  Épicerie en ligne Distribution alternative Commerce équitable Consommation responsable Agriculture durable Alimentation saine </div><br>📅<table><tr><td><strong>Du lundi au mercredi</strong></td><td>09:00 - 12:00</td><td>14:00 - 17:00</td></tr><tr><td><strong>jeudi</strong></td><td>09:00 - 12:00</td><td>14:00 - 18:00</td></tr><tr><td><strong>vendredi</strong></td><td>09:00 - 12:00</td><td>14:00 - 17:00</td></tr></table>📍 800 Rue du Pont D'Oye, 62162 Vieille-Église<br><br>📞 03 21 34 08 42<br><br>📧 abonnes@angesgardins.fr<br><br>🌐 https://terres-opale-gohelle.cocagnebio.fr/le-jardin"
             },
             "geometry": {
                 "type": "Point",
