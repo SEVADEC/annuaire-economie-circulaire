@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "28/10/2024, 09:01:12",
+    "update": "28/10/2024, 09:14:54",
     "features": [
         {
             "type": "Feature",
@@ -607,7 +607,7 @@
             "properties": {
                 "name": "Lefebvre Catherine",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Mercerie : fil, fermeture éclair, laine à tricoter, bouton, galon, élastique, boite à couture, aiguille. Réparation d'articles domestiques.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Artisanat Fournitures de couture Boutonnerie Galonnerie Mercerie traditionnelle Retouche Accessoires de couture Aiguille à coudre Élastique à coudre Réparateurs</div><br>📅<table><tr><td><strong>lundi, mardi, jeudi, vendredi, samedi</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 19:00</td></tr></table><br><br>📍 81 Rue Mollien, 62100 Calais<br><br>📞 03 21 96 90 29"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Mercerie : fil, fermeture éclair, laine à tricoter, bouton, galon, élastique, boite à couture, aiguille. Réparation d'articles domestiques.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Artisanat Fournitures de couture Boutonnerie Galonnerie Mercerie traditionnelle Retouche Accessoires de couture Aiguille à coudre Élastique à coudre Réparateurs</div><br>📅<table><tr><td><strong>Du lundi au samedi (sauf mercredi)</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 19:00</td></tr><tr><td><strong>(sauf mercredi)</strong></td></td></table><br><br>📍 81 Rue Mollien, 62100 Calais<br><br>📞 03 21 96 90 29"
             },
             "geometry": {
                 "type": "Point",
@@ -622,7 +622,7 @@
             "properties": {
                 "name": "Pique & Retouche",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Service de retouche de vêtements.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Couture Confection sur mesure Personnalisation de vêtements Réparations textiles Retouches vestimentaires Création de vêtements Réalisation Broderie Réparateurs</div><br><br>📍 63 Rue des Fontinettes, 62100 Calais<br><br>📞 03 21 46 67 59"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Service de retouche de vêtements.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Couture Confection sur mesure Personnalisation de vêtements Réparations textiles Retouches vestimentaires Création de vêtements Réalisation Broderie Réparateurs</div><br>📅<table><tr><td><strong>mardi</strong></td><td>13:30 - 17:30<td></td><tr><td><strong>mercredi</strong></td><td>09:00 - 12:00<td></td><tr><td><strong>jeudi et vendredi</strong></td><td>13:30 - 17:30<td></td><tr><td><strong>samedi</strong></td><td>09:30 - 12:00<td></td></table><br><br>📍 63 Rue des Fontinettes, 62100 Calais<br><br>📞 03 21 46 67 59"
             },
             "geometry": {
                 "type": "Point",
@@ -637,7 +637,7 @@
             "properties": {
                 "name": "Retouche à Tout",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Service de retouche de vêtements.<br>Répare tout type de textile lourd, PVC, voiles de bateau, tonnelles, auvents et vêtements.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Service de couture Atelier de retouche Réparation de textiles Rénovation de vêtements Couturière Retouche de tissus épais Réparation de bâches Restauration de voiles Atelier de réparation de textiles Service de couture sur mesure Réparateurs</div><br><br>📍 11 Rue du Commandant Bonningue, 62100 Calais<br><br>📞 06 64 63 90 24"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Service de retouche de vêtements.<br>Répare tout type de textile lourd, PVC, voiles de bateau, tonnelles, auvents et vêtements.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Service de couture Atelier de retouche Réparation de textiles Rénovation de vêtements Couturière Retouche de tissus épais Réparation de bâches Restauration de voiles Atelier de réparation de textiles Service de couture sur mesure Réparateurs</div><br>📅<table><tr><td><strong>samedi</strong></td><td>09:00 - 12:00<td></td></table><br><br>📍 11 Rue du Commandant Bonningue, 62100 Calais<br><br>📞 06 64 63 90 24"
             },
             "geometry": {
                 "type": "Point",
@@ -652,7 +652,7 @@
             "properties": {
                 "name": "Caron Informatique",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Réparation d'ordinateurs et d'équipements périphériques.<br><br>Vente de composants, périphériques, configurations PC sur-mesure / serveur, PC sur-mesure, PC portable - netbook - tablette - ultrabook, produits gamers, réseau, logiciels, consommables, câbles & adaptateurs, consoles, Image & Son, téléphonie, professionnel.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Dépannage informatique Maintenance informatique Vente de matériel informatique Assemblage de PC sur mesure Installation de réseau Produits gamers Vente de logiciels Consommables informatiques Téléphonie mobile Service professionnel Réparateurs</div><br><br>📍 8 Boulevard Leon Gambetta, 62100 Calais<br><br>📞 07 83 52 68 94<br><br>📧 contact@caron-informatique.fr<br>🌐 www.caron-informatique.fr"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Réparation d'ordinateurs et d'équipements périphériques.<br><br>Vente de composants, périphériques, configurations PC sur-mesure / serveur, PC sur-mesure, PC portable - netbook - tablette - ultrabook, produits gamers, réseau, logiciels, consommables, câbles & adaptateurs, consoles, Image & Son, téléphonie, professionnel.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Dépannage informatique Maintenance informatique Vente de matériel informatique Assemblage de PC sur mesure Installation de réseau Produits gamers Vente de logiciels Consommables informatiques Téléphonie mobile Service professionnel Réparateurs</div><br>📅<table><tr><td><strong>lundi</strong></td><td>15:00 - 18:00<td></td><tr><td><strong>Du mardi au samedi</strong></td><td>10:00 - 12:00<td></td><td>15:00 - 18:00</td></tr></table><br><br>📍 8 Boulevard Leon Gambetta, 62100 Calais<br><br>📞 07 83 52 68 94<br><br>📧 contact@caron-informatique.fr<br>🌐 www.caron-informatique.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +667,7 @@
             "properties": {
                 "name": "INFO-ZEN informatique",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Réparation d'ordinateurs et d'équipements périphériques.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Dépannage informatique Assistance technique Maintenance informatique Nettoyage informatique Récupération de données Sécurité informatique Installation de logiciels Configuration système Développement web Formation informatique Réparateurs</div><br><br>📍 9 Boulevard Victor Hugo, 62100 Calais<br><br>📞 06 22 10 84 96<br><br>📧 info-zen@hotmail.fr<br>🌐 http://info-zen.org/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Réparation d'ordinateurs et d'équipements périphériques.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Dépannage informatique Assistance technique Maintenance informatique Nettoyage informatique Récupération de données Sécurité informatique Installation de logiciels Configuration système Développement web Formation informatique Réparateurs</div><br>📅<table><tr><td><strong>lundi</strong></td><td>15:00 - 18:00<td></td><tr><td><strong>Du mardi au vendredi</strong></td><td>10:00 - 12:00<td></td><td>14:00 - 19:00</td></tr><tr><td><strong>samedi</strong></td><td>10:00 - 12:00<td></td><td>14:00 - 17:00</td></tr></table><br><br>📍 9 Boulevard Victor Hugo, 62100 Calais<br><br>📞 06 22 10 84 96<br><br>📧 info-zen@hotmail.fr<br>🌐 http://info-zen.org/"
             },
             "geometry": {
                 "type": "Point",
@@ -682,7 +682,7 @@
             "properties": {
                 "name": "EZMICRO",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Prestataire de service informatique, vente, intégration, maintenance et dépannage de toutes les marques.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Services informatiques Dépannage informatique Intégration de systèmes Technologie Assistance informatique Logiciel<br>Réseau Support technique Réparateurs</div><br><br>📍 Bâtiment E 276 rue Henri Matisse, 62100 Calais<br><br>📞 06 09 27 00 83<br><br>📧 contact@ezmicro.fr<br>🌐 www.ezmicro.fr"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Prestataire de service informatique, vente, intégration, maintenance et dépannage de toutes les marques.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Services informatiques Dépannage informatique Intégration de systèmes Technologie Assistance informatique Logiciel<br>Réseau Support technique Réparateurs</div><br>📅<table><tr><td><strong>Du lundi au vendredi</strong></td><td>10:00 - 18:00<td></td><tr><td><strong>samedi</strong></td><td>10:00 - 13:00<td></td></table><br><br>📍 Bâtiment E 276 rue Henri Matisse, 62100 Calais<br><br>📞 06 09 27 00 83<br><br>📧 contact@ezmicro.fr<br>🌐 www.ezmicro.fr"
             },
             "geometry": {
                 "type": "Point",
