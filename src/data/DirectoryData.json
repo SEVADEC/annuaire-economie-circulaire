@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "28/10/2024, 09:14:54",
+    "update": "28/10/2024, 09:43:16",
     "features": [
         {
             "type": "Feature",
@@ -607,7 +607,7 @@
             "properties": {
                 "name": "Lefebvre Catherine",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Mercerie : fil, fermeture éclair, laine à tricoter, bouton, galon, élastique, boite à couture, aiguille. Réparation d'articles domestiques.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Artisanat Fournitures de couture Boutonnerie Galonnerie Mercerie traditionnelle Retouche Accessoires de couture Aiguille à coudre Élastique à coudre Réparateurs</div><br>📅<table><tr><td><strong>Du lundi au samedi (sauf mercredi)</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 19:00</td></tr><tr><td><strong>(sauf mercredi)</strong></td></td></table><br><br>📍 81 Rue Mollien, 62100 Calais<br><br>📞 03 21 96 90 29"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Mercerie : fil, fermeture éclair, laine à tricoter, bouton, galon, élastique, boite à couture, aiguille. Réparation d'articles domestiques.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Artisanat Fournitures de couture Boutonnerie Galonnerie Mercerie traditionnelle Retouche Accessoires de couture Aiguille à coudre Élastique à coudre Réparateurs</div><br>📅<table><tr><td><strong>Du lundi au samedi</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 19:00</td></tr><tr><td><strong>(sauf mercredi)</strong></td></td></table><br><br>📍 81 Rue Mollien, 62100 Calais<br><br>📞 03 21 96 90 29"
             },
             "geometry": {
                 "type": "Point",
@@ -742,7 +742,7 @@
             "properties": {
                 "name": "La Trompe d'Eustache",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Réparateur d'instruments.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Luthier Atelier de réparation d'instruments de musique Restauration d'instruments anciens<br>Entretien d'instruments Réparateurs de guitares Artisan facteur d'instruments à cordes Réparateur de pianos Restauration d'instruments à cordes Artisan luthier </div><br><br>📍 Coeur de Vie, 6 Boulevard Jacquard, 62100 Calais<br><br>📞 03 74 73 92 95<br><br>📧 latrompedeustache62@gmail.com<br>🌐 https://www.facebook.com/p/La-trompe-d-Eustache-100057501277898/<br>🌐 https://monshoppingcestcalais.fr/marketplace/seller/profile/LaTrompedEustache/view "
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Réparateur d'instruments.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Luthier Atelier de réparation d'instruments de musique Restauration d'instruments anciens<br>Entretien d'instruments Réparateurs de guitares Artisan facteur d'instruments à cordes Réparateur de pianos Restauration d'instruments à cordes Artisan luthier </div><br>📅<table><tr><td><strong>Du lundi au samedi (sauf mercredi)</strong></td><td>10:00 - 12:30<td></td><td>14:00 - 18:00</td></tr></table><br><br>📍 Coeur de Vie, 6 Boulevard Jacquard, 62100 Calais<br><br>📞 03 74 73 92 95<br><br>📧 latrompedeustache62@gmail.com<br>🌐 https://www.facebook.com/p/La-trompe-d-Eustache-100057501277898/<br>🌐 https://monshoppingcestcalais.fr/marketplace/seller/profile/LaTrompedEustache/view "
             },
             "geometry": {
                 "type": "Point",
@@ -757,7 +757,7 @@
             "properties": {
                 "name": "Espace Cuir",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Espace Cuir est à votre disposition pour la réparation de vos chaussures (changement de semelles en cuir, patins de protection, fermetures, etc).<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Maroquinerie Sellerie Travail du cuir Réparation de sacs Entretien de chaussures Restauration de cuir Renforcement de talon Réparation de bottes Rénovation</div><br><br>📍 7 Rue du Four à Chaux, 62100 Calais<br><br>📞 03 21 36 43 83<br><br>📧 espace_cuir_calais@hotmail.fr<br>🌐 https://www.facebook.com/cordonnerie.cuir.calais/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Espace Cuir est à votre disposition pour la réparation de vos chaussures (changement de semelles en cuir, patins de protection, fermetures, etc).<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Maroquinerie Sellerie Travail du cuir Réparation de sacs Entretien de chaussures Restauration de cuir Renforcement de talon Réparation de bottes Rénovation</div><br>📅<table><tr><td><strong>Du lundi au vendredi</strong></td><td>09:00 - 12:30<td></td><td>14:00 - 19:00</td></tr><tr><td><strong>samedi</strong></td><td>09:00 - 12:30<td></td></table><br><br>📍 7 Rue du Four à Chaux, 62100 Calais<br><br>📞 03 21 36 43 83<br><br>📧 espace_cuir_calais@hotmail.fr<br>🌐 https://www.facebook.com/cordonnerie.cuir.calais/"
             },
             "geometry": {
                 "type": "Point",
@@ -772,7 +772,7 @@
             "properties": {
                 "name": "Point Services",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Point Services vous accueille pour divers services de réparation et de reproduction. Spécialisés dans la réparation de talon, la gravure sur support, la reproduction de clés minute, et la réparation de sacs et vêtements en cuir, nous offrons également des prestations variées telles que la confection de plaques d'immatriculation, la réalisation de tampons, et bien plus encore.<br><br><strong>Réparateur labellisé Refashion</strong><br><img src=\"https://refashion.fr/citoyen/sites/default/files/styles/desktop_2048/public/photo-texte/Capture%20d%E2%80%99e%CC%81cran%202023-11-05%20a%CC%80%2020.02.05.png\" width=\"50%\" alt=\"QualiRéparLogo\"> </img><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation de talon, gravure sur support, reproduction de clés minute, plaques d'immatriculation, tampons, réparation de sac en cuir, réparation de vêtement en cuir, cordonnerie artisanale, cordonnerie multiservice, cordonnerie serrurerie bonus </div><br><br>📍 Bâtiment C, Centre commercial Auchan, avenue Roger Salengro, 62100 Calais<br><br>📞 03 21 19 68 21<br><br>🌐 Site Web: <a target=\"_new\" href=\"http://europeservices.fr/\">europeservices.fr</a>"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Point Services vous accueille pour divers services de réparation et de reproduction. Spécialisés dans la réparation de talon, la gravure sur support, la reproduction de clés minute, et la réparation de sacs et vêtements en cuir, nous offrons également des prestations variées telles que la confection de plaques d'immatriculation, la réalisation de tampons, et bien plus encore.<br>📅<table><tr><td><strong>Du lundi au samedi</strong></td><td>09:00 - 19:00<td></td><tr><td><strong>samedi</strong></td><td>09:00 - 12:30<td></td></table><br><br><strong>Réparateur labellisé Refashion</strong><br><img src=\"https://refashion.fr/citoyen/sites/default/files/styles/desktop_2048/public/photo-texte/Capture%20d%E2%80%99e%CC%81cran%202023-11-05%20a%CC%80%2020.02.05.png\" width=\"50%\" alt=\"QualiRéparLogo\"> </img><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation de talon, gravure sur support, reproduction de clés minute, plaques d'immatriculation, tampons, réparation de sac en cuir, réparation de vêtement en cuir, cordonnerie artisanale, cordonnerie multiservice, cordonnerie serrurerie bonus </div><br><br>📍 Bâtiment C, Centre commercial Auchan, avenue Roger Salengro, 62100 Calais<br><br>📞 03 21 19 68 21<br><br>🌐 Site Web: <a target=\"_new\" href=\"http://europeservices.fr/\">europeservices.fr</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -787,7 +787,7 @@
             "properties": {
                 "name": "Ardres couture broderie",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Couture et retouches.<br> <div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Broderie Personnalisation Création Tissus Confection Mercerie Couturier Atelier Réalisation Sur-mesure </div><br><br>📍 10 Rue des Lombards, 62610 Ardres<br><br>📞 03 21 34 17 05<br><br>📧 ardrescouture62@gmail.com<br><br>🌐 https://www.facebook.com/ardrescouturebroderie"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Couture et retouches.<br> <div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Broderie Personnalisation Création Tissus Confection Mercerie Couturier Atelier Réalisation Sur-mesure </div><br>📅<table><tr><td><strong>Du mardi au vendredi</strong></td><td>10:00 - 12:00<td></td><td>14:00 - 18:00</td></tr></table><br><br>📍 10 Rue des Lombards, 62610 Ardres<br><br>📞 03 21 34 17 05<br><br>📧 ardrescouture62@gmail.com<br><br>🌐 https://www.facebook.com/ardrescouturebroderie"
             },
             "geometry": {
                 "type": "Point",
@@ -802,7 +802,7 @@
             "properties": {
                 "name": "Eurl Wallet",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Installation et dépannage de plomberie et chauffage.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Sanitaire Robinetterie Canalisation Évacuation Traitement de l'eau </div><br><br>📍 232 Rue Mollien, 62100 Calais<br><br>📞 03 59 28 14 50<br><br>🌐 http://chauffagiste-plomberie-calais.fr"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Installation et dépannage de plomberie et chauffage.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Sanitaire Robinetterie Canalisation Évacuation Traitement de l'eau </div><br>📅<table><tr><td><strong>Du lundi au vendredi</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 18:00</td></tr></table><br><br>📍 232 Rue Mollien, 62100 Calais<br><br>📞 03 59 28 14 50<br><br>🌐 http://chauffagiste-plomberie-calais.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -862,7 +862,7 @@
             "properties": {
                 "name": "Association Opale tour",
                 "logo": "",
-                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Cette association propose des visites accompagnées de plusieurs sites de la ville. Le personnel recruté est formé sur place pour devenir accompagnateur touristique.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Visites guidées Tourisme solidaire Accompagnement touristique Guides locaux Découverte du patrimoine Sensibilisation  touristique Animation culturelle Circuit  touristique Agence de voyage sociale Tourisme responsable</div><br><br>📍 3-1 Place Henri Barbusse, 62100 Calais<br><br>📞 03 21 34 33 34<br><br>📧 contact@pharedecalais.com<br>🌐 https://www.pharedecalais.com/"
+                "description": "Thème :<br>- Économie Sociale et Solidaire<br><br>Description :<br>Cette association propose des visites accompagnées de plusieurs sites de la ville. Le personnel recruté est formé sur place pour devenir accompagnateur touristique.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Visites guidées Tourisme solidaire Accompagnement touristique Guides locaux Découverte du patrimoine Sensibilisation  touristique Animation culturelle Circuit  touristique Agence de voyage sociale Tourisme responsable</div><br>📅<table><tr><td><strong>juin, juillet, août</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 18:00</td></tr><tr><td><strong>Vacances scolaire (zone B)</strong></td><td><td></td></table><br><br><table><tr><td><strong>Le reste de l'année</strong></td><td><td></td><tr><td><strong>mercredi</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 18:00</td></tr><tr><td><strong>samedi</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 18:00</td></tr><tr><td><strong>dimanche</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 18:00</td></tr></table><br><br><br><br>📍 3-1 Place Henri Barbusse, 62100 Calais<br><br>📞 03 21 34 33 34<br><br>📧 contact@pharedecalais.com<br>🌐 https://www.pharedecalais.com/"
             },
             "geometry": {
                 "type": "Point",
