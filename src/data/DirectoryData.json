@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "28/10/2024, 16:06:04",
+    "update": "28/10/2024, 16:33:24",
     "features": [
         {
             "type": "Feature",
@@ -1657,7 +1657,7 @@
             "properties": {
                 "name": "L'atelier de Lulu Couture",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Service de réparation et retouche de vêtements, confections et ameublements proposés par l'atelier de Lulu Couture.<br>📅<table><tr><td><strong>mardi et mercredi</strong></td><td><td>09:30 - 12:30</td></tr><td></td><td>14:30 - 18:00</td></tr><tr><td><strong>jeudi</strong></td><td><td>14:30 - 18:00</td></tr><td></td><tr><td><strong>vendredi et samedi</strong></td><td><td>14:30 - 19:00</td></tr><td></td></table><br>📍 178 Rue d'Ardres, 62370 Audruicq<br><br>📞 06 73 01 26 10<br><br>🌐 https://www.facebook.com/latelierdelulucouture/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Service de réparation et retouche de vêtements, confections et ameublements proposés par l'atelier de Lulu Couture.<br>📅<table><tr><td><strong>mardi et mercredi</strong></td><td>09:30 - 12:30</td><td>14:30 - 18:00</td></tr><tr><td><strong>jeudi</strong></td><td>14:30 - 18:00</td></tr><tr><td><strong>vendredi et samedi</strong></td><td>14:30 - 19:00</td></tr></table><br>📍 178 Rue d'Ardres, 62370 Audruicq<br><br>📞 06 73 01 26 10<br><br>🌐 https://www.facebook.com/latelierdelulucouture/"
             },
             "geometry": {
                 "type": "Point",
@@ -1672,7 +1672,7 @@
             "properties": {
                 "name": "Atelier Couture de Christine | Mer-Sea",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Christine est spécialisé dans la couture et propose des services de retouches, ourlets, et réparations pour prolonger la durée de vie de vos vêtements et accessoires. <br><br>Elle confectionne également des sacs \"Mer-Sea\" fabriqués à partir d'ailes de kitesurf récupérées, offrant ainsi une seconde vie à ces matériaux marins. <br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">atelier couture, réemploi, sacs en voile de bateaux, sacs portefeuille, ailes de kitesurf, retouches, ourlets, réparations, durabilité</div><br><br>📍 65 Rue de Calais, 62370 Saint-Folquin<br><br>📞 03 21 82 15 42<br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/christine.obry.75\">Christine Obry - Mer-Sea</a>"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Christine est spécialisé dans la couture et propose des services de retouches, ourlets, et réparations pour prolonger la durée de vie de vos vêtements et accessoires. <br><br>Elle confectionne également des sacs \"Mer-Sea\" fabriqués à partir d'ailes de kitesurf récupérées, offrant ainsi une seconde vie à ces matériaux marins. <br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">atelier couture, réemploi, sacs en voile de bateaux, sacs portefeuille, ailes de kitesurf, retouches, ourlets, réparations, durabilité</div><br>📅<table><tr><td><strong>jeudi</strong></td><td>14:00 - 19:00</td></tr><tr><td><strong>vendredi</strong></td><td>09:00 - 12:00</td></tr></table>📍 65 Rue de Calais, 62370 Saint-Folquin<br><br>📞 03 21 82 15 42<br><br>🌐 Facebook: <a target=\"_new\" href=\"https://www.facebook.com/christine.obry.75\">Christine Obry - Mer-Sea</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -1687,7 +1687,7 @@
             "properties": {
                 "name": "alloPCsecours",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>AlloPCsecours est une entreprise labellisée Répar'acteur, qui se consacre à la réparation de matériels informatiques pour prolonger leur durée de vie et réduire les déchets électroniques. La société s'engage ainsi à contribuer à la préservation de l'environnement en offrant des solutions de réparation efficaces et durables.<br><br>📍 4230 Route de Gravelines, 62370 Saint-Folquin<br><br>📞 0⑹ ⓹1 70 4⓹ 76 (anti-spam)<br><br>📧 gcaprara@allopcsecours.fr<br><br>🌐 https://www.allopcsecours.fr<br><br>🌐 https://www.facebook.com/allopcsecours/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>AlloPCsecours est une entreprise labellisée Répar'acteur, qui se consacre à la réparation de matériels informatiques pour prolonger leur durée de vie et réduire les déchets électroniques. La société s'engage ainsi à contribuer à la préservation de l'environnement en offrant des solutions de réparation efficaces et durables.<br>📅<table><tr><td><strong>Du lundi au samedi</strong></td><td>09:00 - 20:00</td></tr></table><br>📍 4230 Route de Gravelines, 62370 Saint-Folquin<br><br>📞 0⑹ ⓹1 70 4⓹ 76 (anti-spam)<br><br>📧 gcaprara@allopcsecours.fr<br><br>🌐 https://www.allopcsecours.fr<br><br>🌐 https://www.facebook.com/allopcsecours/"
             },
             "geometry": {
                 "type": "Point",
@@ -1702,7 +1702,7 @@
             "properties": {
                 "name": "Zeus Informatique",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Zeus-Informatique est une entreprise spécialisée dans la réparation et la maintenance d'ordinateurs portables et de bureau. Leur objectif est de prolonger la durée de vie des équipements informatiques pour réduire les déchets électroniques. Ils offrent des services de qualité pour assurer une utilisation optimale de vos appareils.<br><br>📍 35 Rue François 1er, 62610 Ardres<br><br>📞 06 58 96 23 54<br><br>📧 ZEUS-INFORMATIQUE@PROTONMAIL.COM<br><br>🌐 https://www.zeus-informatique.com/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Zeus-Informatique est une entreprise spécialisée dans la réparation et la maintenance d'ordinateurs portables et de bureau. Leur objectif est de prolonger la durée de vie des équipements informatiques pour réduire les déchets électroniques. Ils offrent des services de qualité pour assurer une utilisation optimale de vos appareils.<br>📅<table><tr><td><strong>Du lundi au vendredi</strong></td><td>14:00 - 19:00</td></tr><tr><td><strong>samedi et dimanche</strong></td><td>13:00 - 18:00</td></tr></table><br>📍 35 Rue François 1er, 62610 Ardres<br><br>📞 06 58 96 23 54<br><br>📧 ZEUS-INFORMATIQUE@PROTONMAIL.COM<br><br>🌐 https://www.zeus-informatique.com/"
             },
             "geometry": {
                 "type": "Point",
@@ -1717,7 +1717,7 @@
             "properties": {
                 "name": "L'atelier d'Annie",
                 "logo": "",
-                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description : <br>L'Atelier d'Annie offre un service de retouche et couture pour une variété de vêtements, tels que les jupes, les robes, les pantalons, les vestes, les chemises, ainsi que pour les rideaux. <br><br>📍 124 Rue du Calaisis, 62370 Audruicq<br><br>📞 07 82 24 04 15<br><br>📧 fredericannie@free.fr<br><br>🌐 https://www.facebook.com/profile.php?id=100057332984520"
+                "description": "Thème : <br>- Réemploi / Réparation<br><br>Description : <br>L'Atelier d'Annie offre un service de retouche et couture pour une variété de vêtements, tels que les jupes, les robes, les pantalons, les vestes, les chemises, ainsi que pour les rideaux.<br>📅<table><tr><td><strong>Du lundi au jeudi</strong></td><td>14:00 - 18:00</td></tr></table><br>📍 124 Rue du Calaisis, 62370 Audruicq<br><br>📞 07 82 24 04 15<br><br>📧 fredericannie@free.fr<br><br>🌐 https://www.facebook.com/profile.php?id=100057332984520"
             },
             "geometry": {
                 "type": "Point",
@@ -1732,7 +1732,7 @@
             "properties": {
                 "name": "Pierre Informatique",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Pierre Informatique est une entreprise spécialisée dans la réparation d'ordinateurs, de smartphones et de tablettes. Ils proposent également des services de création d'ordinateurs personnalisés, d'amélioration des performances et de formation.<br><br>📍 303 Rue du Rivage, 62370 Ruminghem<br><br>📞 06 14 38 18 34<br><br>📧 schriffure.pierre@gmail.com<br><br>🌐 pierreinformatique.fr.gd<br><br>🌐 https://www.facebook.com/Pierreinformatique/?locale=fr_FR"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Pierre Informatique est une entreprise spécialisée dans la réparation d'ordinateurs, de smartphones et de tablettes. Ils proposent également des services de création d'ordinateurs personnalisés, d'amélioration des performances et de formation.<br>📅<table><tr><td><strong>Du lundi au vendredi</strong></td><td>09:00 - 19:00</td></tr><tr><td><strong>samedi</strong></td><td>09:00 - 12:30</td></tr></table><br>📍 303 Rue du Rivage, 62370 Ruminghem<br><br>📞 06 14 38 18 34<br><br>📧 schriffure.pierre@gmail.com<br><br>🌐 pierreinformatique.fr.gd<br><br>🌐 https://www.facebook.com/Pierreinformatique/?locale=fr_FR"
             },
             "geometry": {
                 "type": "Point",
@@ -1792,7 +1792,7 @@
             "properties": {
                 "name": "Chaussures Buissart",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Chaussures Buissart propose des services de réparation de chaussures, de maroquinerie et de couture.<br><br>📍 97 Boulevard la Fayette, 62100 Calais<br><br>📞 03 21 97 05 84<br><br>🌐 https://www.chaussures-buissart.fr/<br><br>🌐 https://www.facebook.com/profile.php?id=100057519668795"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>La cordonnerie Chaussures Buissart propose des services de réparation de chaussures, de maroquinerie et de couture.<br>📅<table><tr><td><strong>lundi</strong></td><td>14:00 - 19:00</td></tr><tr><td><strong>Du mardi au samedi</strong></td><td>09:30 - 12:00</td><td>14:00 - 19:00</td></tr></table><br>📍 97 Boulevard la Fayette, 62100 Calais<br><br>📞 03 21 97 05 84<br><br>🌐 https://www.chaussures-buissart.fr/<br><br>🌐 https://www.facebook.com/profile.php?id=100057519668795"
             },
             "geometry": {
                 "type": "Point",
@@ -1897,7 +1897,7 @@
             "properties": {
                 "name": "Atelier Retouches Desombre",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>L'Atelier offre des services de couture et de retouches pour les vêtements sur le Calaisis, avec des déplacements inclus. Au lieu de jeter les vêtements abîmés, l'atelier les répare pour leur donner une seconde vie.<br><br>📍 150 Rue des hauts champs, 62137 Coulogne<br><br>📞 06 16 33 53 04<br><br>📧 atelier.retouches@sfr.fr<br><br>🌐 https://www.facebook.com/people/Atelier-Retouches-Desombre/100063568747948 "
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>L'Atelier offre des services de couture et de retouches pour les vêtements sur le Calaisis, avec des déplacements inclus. Au lieu de jeter les vêtements abîmés, l'atelier les répare pour leur donner une seconde vie.<br>📅<table><tr><td><strong>mardi et mercredi</strong></td><td>08:00 - 19:00</td></tr><tr><td><strong>vendredi</strong></td><td>08:00 - 19:00</td></tr><tr><td><strong>lundi et jeudi</strong></td><td>déplacement à domicile</td></tr></table><br>📍 150 Rue des hauts champs, 62137 Coulogne<br><br>📞 06 16 33 53 04<br><br>📧 atelier.retouches@sfr.fr<br><br>🌐 https://www.facebook.com/people/Atelier-Retouches-Desombre/100063568747948 "
             },
             "geometry": {
                 "type": "Point",
