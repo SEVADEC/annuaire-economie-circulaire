@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "25/10/2024, 14:23:43",
+    "update": "28/10/2024, 09:01:12",
     "features": [
         {
             "type": "Feature",
@@ -22,7 +22,7 @@
             "properties": {
                 "name": "Ateliers de la Citoyenneté",
                 "logo": "",
-                "description": "Thème : <br>- Économie Sociale et Solidaire<br><br>Description :<br>Les Ateliers de la Citoyenneté sont une association loi de 1901, agissant en tant qu'Atelier Chantier d’Insertion (ACI). Leur mission est d'accompagner 64 personnes en Contrat à Durée Déterminée d’Insertion (CDDI) vers une sortie positive dans un cadre professionnel. Ils favorisent le développement des compétences générales et techniques nécessaires à l'employabilité, tout en personnalisant les parcours professionnels des bénéficiaires. Les domaines de compétences comprennent le gros œuvre et second œuvre du bâtiment, la menuiserie ossature bois, la restauration hors foyer, ainsi que les métiers de l’image et de la communication.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Insertion professionnelle, accompagnement, employabilité, compétences, association loi 1901, ACI, CDDI, domaine du bâtiment, menuiserie, restauration, communication, Économie Sociale et Solidaire </div><br><table><tr><td><strong>📅 Du lundi au vendredi</strong></td><td>10:00 - 12:00<td></td><td>14:00 - 17:00</td></tr></table><br><br>📍 8 rue de Soupirants, 62100 Calais<br><br>📞 03 21 82 76 73<br><br>📧 contact@adlccalais.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://adlccalais.com/\">adlccalais.com</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/AteliersDeLaCitoyennete\">AteliersDeLaCitoyennete</a>"
+                "description": "Thème : <br>- Économie Sociale et Solidaire<br><br>Description :<br>Les Ateliers de la Citoyenneté sont une association loi de 1901, agissant en tant qu'Atelier Chantier d’Insertion (ACI). Leur mission est d'accompagner 64 personnes en Contrat à Durée Déterminée d’Insertion (CDDI) vers une sortie positive dans un cadre professionnel. Ils favorisent le développement des compétences générales et techniques nécessaires à l'employabilité, tout en personnalisant les parcours professionnels des bénéficiaires. Les domaines de compétences comprennent le gros œuvre et second œuvre du bâtiment, la menuiserie ossature bois, la restauration hors foyer, ainsi que les métiers de l’image et de la communication.<br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Insertion professionnelle, accompagnement, employabilité, compétences, association loi 1901, ACI, CDDI, domaine du bâtiment, menuiserie, restauration, communication, Économie Sociale et Solidaire </div><br>📅<table><tr><td><strong>Du lundi au vendredi</strong></td><td>10:00 - 12:00<td></td><td>14:00 - 17:00</td></tr></table><br><br>📍 8 rue de Soupirants, 62100 Calais<br><br>📞 03 21 82 76 73<br><br>📧 contact@adlccalais.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://adlccalais.com/\">adlccalais.com</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/AteliersDeLaCitoyennete\">AteliersDeLaCitoyennete</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -247,7 +247,7 @@
             "properties": {
                 "name": "Repair Café Calais Constantine",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Redonne une seconde chance à votre matériel en panne avec l'aide de réparateurs bénévoles.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation Matériel Bénévoles Seconde vie Dépannage Restauration Réutilisation Réemploi Remise en état Sauvetage </div><br><br>📅 mercredi : 14:00 - 18:00<br><br>📍 75 Rue de Constantine, 62100 Calais<br><br>📞 06 21 45 26 24<br><br>📧 regiedequartierdecalais@rqcalais.fr<br>🌐 https://repaircafe.org/fr<br>🌐 https://www.facebook.com/RepairCafeCalais/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Redonne une seconde chance à votre matériel en panne avec l'aide de réparateurs bénévoles.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation Matériel Bénévoles Seconde vie Dépannage Restauration Réutilisation Réemploi Remise en état Sauvetage </div><br>📅<table><tr><td><strong>mercredi</strong></td><td>14:00 - 18:00<td></td></table><br><br>📍 75 Rue de Constantine, 62100 Calais<br><br>📞 06 21 45 26 24<br><br>📧 regiedequartierdecalais@rqcalais.fr<br>🌐 https://repaircafe.org/fr<br>🌐 https://www.facebook.com/RepairCafeCalais/"
             },
             "geometry": {
                 "type": "Point",
@@ -262,7 +262,7 @@
             "properties": {
                 "name": "Repair café de Marck",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Redonne une seconde chance à votre matériel en panne avec l'aide de réparateurs bénévoles.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation Matériel Bénévoles Seconde vie Dépannage Restauration Réutilisation Réemploi Remise en état Sauvetage </div><br><br>📅 lundi :15:00 - 18:15<br><br>📍 53 Chemin de l'Ecole, 62730 Marck<br><br>📞 03 21 00 72 00<br><br>🌐 https://www.facebook.com/Repair-Caf%C3%A9-MARCK-1731427976975323/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Redonne une seconde chance à votre matériel en panne avec l'aide de réparateurs bénévoles.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Réparation Matériel Bénévoles Seconde vie Dépannage Restauration Réutilisation Réemploi Remise en état Sauvetage </div><br>📅<table><tr><td><strong>lundi</strong></td><td>15:00 - 18:15<td></td></table><br><br>📍 53 Chemin de l'Ecole, 62730 Marck<br><br>📞 03 21 00 72 00<br><br>🌐 https://www.facebook.com/Repair-Caf%C3%A9-MARCK-1731427976975323/"
             },
             "geometry": {
                 "type": "Point",
@@ -352,7 +352,7 @@
             "properties": {
                 "name": "Emmaüs",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Propose une multitude d’articles répondant aux besoins et aux attentes des petits budgets, étudiants, recycleurs/chineurs de produits dont on peut prolonger la vie, ou encore collectionneurs en tous genres.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> seconde main économie circulaire récupération solidarité magasin solidaire articles d'occasion réutilisation ressourcerie recyclage</div><br>📅<table><tr><td><strong>Du mardi au samedi</strong></td><td>14:00 - 17:00<td></td></table>h<br><br>📍 100 Avenue Antoine de Saint-Exupéry, 62100 Calais<br><br>📞 09 63 69 03 11<br><br>📧 labelsaintomer@gmail.com<br>🌐 https://www.label-emmaus.co/fr/nos-boutiques/communaute-emmaus-saint-omer/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Propose une multitude d’articles répondant aux besoins et aux attentes des petits budgets, étudiants, recycleurs/chineurs de produits dont on peut prolonger la vie, ou encore collectionneurs en tous genres.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> seconde main économie circulaire récupération solidarité magasin solidaire articles d'occasion réutilisation ressourcerie recyclage</div><br>📅<table><tr><td><strong>Du mardi au samedi</strong></td><td>14:00 - 17:00<td></td></table><br><br>📍 100 Avenue Antoine de Saint-Exupéry, 62100 Calais<br><br>📞 09 63 69 03 11<br><br>📧 labelsaintomer@gmail.com<br>🌐 https://www.label-emmaus.co/fr/nos-boutiques/communaute-emmaus-saint-omer/"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +367,7 @@
             "properties": {
                 "name": "Cash & You",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>L'enseigne Cash and You est spécialisée dans l'achat et la vente de produits multimédias et culturels d'occasion auprès des particuliers.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">seconde main économie circulaire renouvellement de produits réutilisation de produits récupération de produits valorisation </div><br><br>📍 30 Boulevard la Fayette, 62100 Calais<br><br>📞 09 81 21 90 90<br><br>📧 contact@cashandyou.fr<br>🌐 https://www.cashandyou.fr/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>L'enseigne Cash and You est spécialisée dans l'achat et la vente de produits multimédias et culturels d'occasion auprès des particuliers.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">seconde main économie circulaire renouvellement de produits réutilisation de produits récupération de produits valorisation </div><br>📅<table><tr><td><strong>Du mercredi au samedi</strong></td><td>10:00 - 12:00<td></td><td>14:00 - 18:30</td></tr></table><br><br>📍 30 Boulevard la Fayette, 62100 Calais<br><br>📞 09 81 21 90 90<br><br>📧 contact@cashandyou.fr<br>🌐 https://www.cashandyou.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -382,7 +382,7 @@
             "properties": {
                 "name": "Cap Texti",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Friperie associative dont l'objectif est de créer des emplois en respectant les valeurs sociales et environnementales.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">seconde main économie circulaire vêtements d'occasion fripes revalorisation recyclage textile insertion professionnelle commerce équitable consommation responsable slow fashion </div><br><br>📍 Rue de Bergnieulles, 62231 Coquelles<br><br>📞 03 21 35 52 19<br><br>🌐 https://www.facebook.com/CapTexti/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Friperie associative dont l'objectif est de créer des emplois en respectant les valeurs sociales et environnementales.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">seconde main économie circulaire vêtements d'occasion fripes revalorisation recyclage textile insertion professionnelle commerce équitable consommation responsable slow fashion </div><br>📅<table><tr><td><strong>Du mercredi au samedi</strong></td><td>10:00 - 19:00<td></td></table><br><br>📍 Rue de Bergnieulles, 62231 Coquelles<br><br>📞 03 21 35 52 19<br><br>🌐 https://www.facebook.com/CapTexti/"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +397,7 @@
             "properties": {
                 "name": "Ding Fring",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Friperie solidaire, vêtements de marque, vintage, rétro, streetwear, mais aussi costumes, tailleurs.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">seconde main upcycling écologie développement durable récupération économie circulaire seconde vie </div><br><br>📍 Centre commercial Auchan, 62100 Calais<br><br>📞 03 21 82 78 49<br><br>🌐 https://www.lerelais.org/aussi.php?page=ding_fring<br>🌐 https://www.facebook.com/groups/53022762941/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Friperie solidaire, vêtements de marque, vintage, rétro, streetwear, mais aussi costumes, tailleurs.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">seconde main upcycling écologie développement durable récupération économie circulaire seconde vie </div><br>📅<table><tr><td><strong>Du lundi au samedi</strong></td><td>09:30 - 19:30<td></td></table><br><br>📍 Centre commercial Auchan, 62100 Calais<br><br>📞 03 21 82 78 49<br><br>🌐 https://www.lerelais.org/aussi.php?page=ding_fring<br>🌐 https://www.facebook.com/groups/53022762941/"
             },
             "geometry": {
                 "type": "Point",
@@ -412,7 +412,7 @@
             "properties": {
                 "name": "La Chiffonnerie d'Emmaüs",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>La Chiffonnerie d'Emmaüs est une boutique qui propose des articles divers, à petits prix, issus des dons faits à l'association Emmaüs.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Boutique solidaire Articles de seconde main Donnés Récupération Solidarité Économie circulaire Bons plans Associations caritatives Déstockage </div><br><br>📍 100 Avenue Antoine de Saint-Exupéry, 62100 Calais<br><br>📧 emmauscalais@wanadoo.fr<br>🌐 https://www.facebook.com/chiffonnerie.d.emmaus.calais"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>La Chiffonnerie d'Emmaüs est une boutique qui propose des articles divers, à petits prix, issus des dons faits à l'association Emmaüs.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Boutique solidaire Articles de seconde main Donnés Récupération Solidarité Économie circulaire Bons plans Associations caritatives Déstockage </div><br>📅<table><tr><td><strong>mardi</strong></td><td>14:00 - 18:00<td></td><tr><td><strong>mercredi</strong></td><td>10:00 - 18:00<td></td><tr><td><strong>jeudi </strong></td><td>14:00 - 18:00<td></td><tr><td><strong>vendredi</strong></td><td>14:00 - 18:00<td></td><tr><td><strong>samedi</strong></td><td>14:00 - 18:00<td></td></table><br><br>📍 100 Avenue Antoine de Saint-Exupéry, 62100 Calais<br><br>📧 emmauscalais@wanadoo.fr<br>🌐 https://www.facebook.com/chiffonnerie.d.emmaus.calais"
             },
             "geometry": {
                 "type": "Point",
@@ -427,7 +427,7 @@
             "properties": {
                 "name": "Cash Maker",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Magasin de produits d'occasion.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"><br>Seconde main Économie circulaire</div><br><br>📍 47 Boulevard la Fayette, 62100 Calais<br><br>📞 03 21 34 37 63<br><br>📧 calais@cashemaker.fr<br>🌐 https://boutique-calais.cashemaker.fr/<br>🌐 www.cashemaker.fr"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Magasin de produits d'occasion.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"><br>Seconde main Économie circulaire</div><br>📅<table><tr><td><strong>lundi</strong></td><td>14:00 - 18:30<td></td><tr><td><strong>Du mardi au samedi</strong></td><td>10:00 - 12:00<td></td><td>14:00 - 18:30</td></tr></table><br><br>📍 47 Boulevard la Fayette, 62100 Calais<br><br>📞 03 21 34 37 63<br><br>📧 calais@cashemaker.fr<br>🌐 https://boutique-calais.cashemaker.fr/<br>🌐 www.cashemaker.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +472,7 @@
             "properties": {
                 "name": "ADT Palettes",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Achat et vente de palettes neuves et occasion sur la Côte d'Opale.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">matériel de manutention logistique recyclage réutilisation économie circulaire plateforme logistique entrepôt transport de marchandises</div><br><br>📍 ZA Marcel Doret, Rue de Judée, 62100 Calais<br><br>📞 06 95 93 90 72<br><br>🌐 www.achatpalettes.com"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Achat et vente de palettes neuves et occasion sur la Côte d'Opale.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">matériel de manutention logistique recyclage réutilisation économie circulaire plateforme logistique entrepôt transport de marchandises</div><br>📅<table><tr><td><strong>Du lundi au vendredi</strong></td><td>08:00 - 16:00<td></td></table><br><br>📍 ZA Marcel Doret, Rue de Judée, 62100 Calais<br><br>📞 06 95 93 90 72<br><br>🌐 www.achatpalettes.com"
             },
             "geometry": {
                 "type": "Point",
@@ -502,7 +502,7 @@
             "properties": {
                 "name": "Aucoin des collectionneurs",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Magasin d’objets de collection en tout genre.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">antiquités objets vintage brocante articles de collection bibelots objets de curiosité produits de collection objets d'art </div><br><br>📍 126 Boulevard la Fayette, 62100 Calais<br><br>📞 03 21 97 40 23<br><br>🌐 https://www.facebook.com/Aucoin-des-collectionneurs-102186965097678/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Magasin d’objets de collection en tout genre.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">antiquités objets vintage brocante articles de collection bibelots objets de curiosité produits de collection objets d'art </div><br>📅<table><tr><td><strong>Du mardi au vendredi</strong></td><td>14:00 - 19:00<td></td><tr><td><strong>samedi</strong></td><td>10:30 - 12:00<td></td><td>14:00 - 19:30</td></tr></table><br><br>📍 126 Boulevard la Fayette, 62100 Calais<br><br>📞 03 21 97 40 23<br><br>🌐 https://www.facebook.com/Aucoin-des-collectionneurs-102186965097678/"
             },
             "geometry": {
                 "type": "Point",
@@ -517,7 +517,7 @@
             "properties": {
                 "name": "Calais Batterie (Accu 62)",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Calais batteries spécialiste batteries, piles, accumulateurs, boosters et chargeurs toutes applications.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"><br>Stockage d'énergie Électricité Alimentation électrique Cellule électrochimique Récupération d'énergie Source d'alimentation Système de stockage d'énergie Équipement électrique </div><br><br>📍 170 Boulevard Gambetta, 62100 Calais<br><br>📞 03 21 96 28 23<br><br>📧 calaisbatteries@bbox.fr<br>🌐 www.calais-batteries.fr"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Calais batteries spécialiste batteries, piles, accumulateurs, boosters et chargeurs toutes applications.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"><br>Stockage d'énergie Électricité Alimentation électrique Cellule électrochimique Récupération d'énergie Source d'alimentation Système de stockage d'énergie Équipement électrique </div><br>📅<table><tr><td><strong>Du lundi au jeudi</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 18:00</td></tr><tr><td><strong>samedi</strong></td><td>09:00 - 12:00<td></td></table><br><br>📍 170 Boulevard Gambetta, 62100 Calais<br><br>📞 03 21 96 28 23<br><br>📧 calaisbatteries@bbox.fr<br>🌐 www.calais-batteries.fr"
             },
             "geometry": {
                 "type": "Point",
@@ -532,7 +532,7 @@
             "properties": {
                 "name": "Ma créa déco",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br><br>Description :<br>Ma-CreaDeco est une entreprise spécialisée dans la conception et la réalisation d'objets de décoration personnalisables pour toutes les pièces de la maison. Chaque objet est imaginé et conçu à l'atelier en accord avec vos envies du moment. Plus de 200 références sont disponibles sur la boutique en ligne avec retrait au showroom ou livraison. Projets sur-mesure possibles.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> Objet de décoration Personnalisable Atelier Boutique en ligne Showroom Livraison <br>Conception Réalisation </div><br><br>📍 30 Route de Boursin, 62132 Hardinghen<br><br>📞 06.72.21.52.30<br><br>📧 marie@macreadeco.fr<br><br>🌐 https://www.ma-creadeco.fr/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br><br>Description :<br>Ma-CreaDeco est une entreprise spécialisée dans la conception et la réalisation d'objets de décoration personnalisables pour toutes les pièces de la maison. Chaque objet est imaginé et conçu à l'atelier en accord avec vos envies du moment. Plus de 200 références sont disponibles sur la boutique en ligne avec retrait au showroom ou livraison. Projets sur-mesure possibles.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"> Objet de décoration Personnalisable Atelier Boutique en ligne Showroom Livraison <br>Conception Réalisation </div><br>📅<table><tr><td><strong>jeudi</strong></td><td>10:00 - 13:00<td></td><tr><td><strong>vendredi</strong></td><td>15:00 - 18:00<td></td><tr><td><strong>samedi</strong></td><td>10:00 - 12:30<td></td></table><br><br>📍 30 Route de Boursin, 62132 Hardinghen<br><br>📞 06.72.21.52.30<br><br>📧 marie@macreadeco.fr<br><br>🌐 https://www.ma-creadeco.fr/"
             },
             "geometry": {
                 "type": "Point",
@@ -562,7 +562,7 @@
             "properties": {
                 "name": "Quatre points au cm",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Atelier de couture.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"><br>Retouches textiles Artisan couturier Machine à coudre Couturière Réparateurs</div><br><br>📍 12 Avenue Ernest Ranson, 62610 Ardres<br><br>📞 06 70 86 31 73<br><br>📧 quatrepointsaucm@gmail.com<br><br>🌐 https://www.facebook.com/marien.catherine62/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Atelier de couture.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\"><br>Retouches textiles Artisan couturier Machine à coudre Couturière Réparateurs</div><br>📅<table><tr><td><strong>Du lundi au jeudi</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 18:00</td></tr></table><br><br>📍 12 Avenue Ernest Ranson, 62610 Ardres<br><br>📞 06 70 86 31 73<br><br>📧 quatrepointsaucm@gmail.com<br><br>🌐 https://www.facebook.com/marien.catherine62/"
             },
             "geometry": {
                 "type": "Point",
@@ -577,7 +577,7 @@
             "properties": {
                 "name": "Emmaüs",
                 "logo": "",
-                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Les activités essentielles de l'association sont la récupération, le tri et la mise en valeur et la revente des dons.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Solidarité Recyclage Don Upcycling Economie circulaire Deuxième vie Rénovation Mobilier d'occasion </div><br><br>📍 1514 Route nationale, 62730 Les Attaques<br><br>📞 03 21 35 60 59<br><br>🌐 https://www.facebook.com/emmaus.calais.les.attaques/"
+                "description": "Thèmes :<br>- Réemploi / Réparation<br>- Économie Sociale et Solidaire<br><br>Description :<br>Les activités essentielles de l'association sont la récupération, le tri et la mise en valeur et la revente des dons.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Solidarité Recyclage Don Upcycling Economie circulaire Deuxième vie Rénovation Mobilier d'occasion </div><br>📅<table><tr><td><strong>Du mardi au vendredi</strong></td><td>14:00 - 17:00<td></td><tr><td><strong>samedi</strong></td><td>10:00 - 12:00<td></td><td>14:00 - 17:00</td></tr></table><br><br>📍 1514 Route nationale, 62730 Les Attaques<br><br>📞 03 21 35 60 59<br><br>🌐 https://www.facebook.com/emmaus.calais.les.attaques/"
             },
             "geometry": {
                 "type": "Point",
@@ -592,7 +592,7 @@
             "properties": {
                 "name": "TTC 2000",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>TTC 2000, situé au 25 rue du Temple à Calais, est spécialisé dans la mercerie, la laine, les machines à coudre et les tissus variés. L'équipe compétente composée d'Annick, Marie Pierre, Trecy, Sylvie et Virginie propose un vaste choix. Grâce à des brodeuses perfectionnées, ils réalisent des broderies sur divers supports. De plus, TTC 2000 offre des services de confection, réparation de machines à coudre, retouches, et confectionne rideaux, voilages, housses, nappes, etc. Contactez-les pour toute demande particulière.<br><br><strong>Réparateur labellisé Refashion</strong><br><img src=\"https://refashion.fr/citoyen/sites/default/files/styles/desktop_2048/public/photo-texte/Capture%20d%E2%80%99e%CC%81cran%202023-11-05%20a%CC%80%2020.02.05.png\" width=\"50%\" alt=\"QualiRéparLogo\"> </img><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mercerie, laine, machine à coudre, tissu, broderie, confection, réparation, retouche, Calais, bonus </div><br><br>📍 25 Rue du Temple, 62100 Calais<br><br>📞 03 21 34 73 39<br><br>📧 ttc2000calais@gmail.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://monshoppingcestcalais.fr/marketplace/seller/profile/ttc2000/view\">Mon Shopping C'est Calais - TTC 2000</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/ttc2000\">TTC 2000</a><br><br>🌐 Instagram : <a target=\"_new\" href=\"https://www.instagram.com/ttc.2000\">TTC.2000</a>"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>TTC 2000, situé au 25 rue du Temple à Calais, est spécialisé dans la mercerie, la laine, les machines à coudre et les tissus variés. L'équipe compétente composée d'Annick, Marie Pierre, Trecy, Sylvie et Virginie propose un vaste choix. Grâce à des brodeuses perfectionnées, ils réalisent des broderies sur divers supports. De plus, TTC 2000 offre des services de confection, réparation de machines à coudre, retouches, et confectionne rideaux, voilages, housses, nappes, etc. Contactez-les pour toute demande particulière.<br>📅<table><tr><td><strong>Du lundi au samedi</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 18:30</td></tr></table><br><br><strong>Réparateur labellisé Refashion</strong><br><img src=\"https://refashion.fr/citoyen/sites/default/files/styles/desktop_2048/public/photo-texte/Capture%20d%E2%80%99e%CC%81cran%202023-11-05%20a%CC%80%2020.02.05.png\" width=\"50%\" alt=\"QualiRéparLogo\"> </img><br><br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">mercerie, laine, machine à coudre, tissu, broderie, confection, réparation, retouche, Calais, bonus </div><br><br>📍 25 Rue du Temple, 62100 Calais<br><br>📞 03 21 34 73 39<br><br>📧 ttc2000calais@gmail.com<br><br>🌐 Site Web : <a target=\"_new\" href=\"https://monshoppingcestcalais.fr/marketplace/seller/profile/ttc2000/view\">Mon Shopping C'est Calais - TTC 2000</a><br><br>🌐 Facebook : <a target=\"_new\" href=\"https://www.facebook.com/ttc2000\">TTC 2000</a><br><br>🌐 Instagram : <a target=\"_new\" href=\"https://www.instagram.com/ttc.2000\">TTC.2000</a>"
             },
             "geometry": {
                 "type": "Point",
@@ -607,7 +607,7 @@
             "properties": {
                 "name": "Lefebvre Catherine",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Mercerie : fil, fermeture éclair, laine à tricoter, bouton, galon, élastique, boite à couture, aiguille. Réparation d'articles domestiques.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Artisanat Fournitures de couture Boutonnerie Galonnerie Mercerie traditionnelle Retouche Accessoires de couture Aiguille à coudre Élastique à coudre Réparateurs</div><br><br>📍 81 Rue Mollien, 62100 Calais<br><br>📞 03 21 96 90 29"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Mercerie : fil, fermeture éclair, laine à tricoter, bouton, galon, élastique, boite à couture, aiguille. Réparation d'articles domestiques.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">Artisanat Fournitures de couture Boutonnerie Galonnerie Mercerie traditionnelle Retouche Accessoires de couture Aiguille à coudre Élastique à coudre Réparateurs</div><br>📅<table><tr><td><strong>lundi, mardi, jeudi, vendredi, samedi</strong></td><td>09:00 - 12:00<td></td><td>14:00 - 19:00</td></tr></table><br><br>📍 81 Rue Mollien, 62100 Calais<br><br>📞 03 21 96 90 29"
             },
             "geometry": {
                 "type": "Point",
