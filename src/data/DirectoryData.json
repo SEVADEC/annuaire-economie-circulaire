@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "28/10/2024, 13:57:25",
+    "update": "28/10/2024, 15:49:43",
     "features": [
         {
             "type": "Feature",
@@ -1642,7 +1642,7 @@
             "properties": {
                 "name": "ESAT APF \"Les Terres d'Opale\" Calais",
                 "logo": "",
-                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Éco-entreprise<br><br>Description :<br>L'ESAT APF France handicap de Calais a développé une activité d'élevage d'insectes en partenariat avec la société \"Minus Farm\", dans le cadre de sa démarche RSE et d'un programme de diversification des activités autour de la \"Techfood\". Les insectes fournissent de nombreux services écologiques, tels que la pollinisation et la bioconversion des déchets, ainsi que des produits de valeur comme le miel ou la soie.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">ESAT élevage d'insectes pollinisation bioconversion écologie </div><br><br>📍 Rue de Québec, 62100 Calais<br><br>📞 03 21 82 55 72<br><br>📧 esat.calais@apf.asso.fr<br><br>🌐 https://participer.apf-francehandicap.org/"
+                "description": "Thèmes :<br>- Économie Sociale et Solidaire<br>- Éco-entreprise<br><br>Description :<br>L'ESAT APF France handicap de Calais a développé une activité d'élevage d'insectes en partenariat avec la société \"Minus Farm\", dans le cadre de sa démarche RSE et d'un programme de diversification des activités autour de la \"Techfood\". Les insectes fournissent de nombreux services écologiques, tels que la pollinisation et la bioconversion des déchets, ainsi que des produits de valeur comme le miel ou la soie.<br><div style=\"visibility: hidden; margin:0;padding:0;height: 0px;width: 0px;\">ESAT élevage d'insectes pollinisation bioconversion écologie </div><br>📅<table><tr><td><strong>Du lundi au jeudi</strong></td><td><td>08:00 - 16:30</td></tr><td></td><tr><td><strong>vendredi</strong></td><td><td>08:00 - 12:00</td></tr><td></td></table><br>📍 Rue de Québec, 62100 Calais<br><br>📞 03 21 82 55 72<br><br>📧 esat.calais@apf.asso.fr<br><br>🌐 https://participer.apf-francehandicap.org/"
             },
             "geometry": {
                 "type": "Point",
@@ -1657,7 +1657,7 @@
             "properties": {
                 "name": "L'atelier de Lulu Couture",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Service de réparation et retouche de vêtements, confections et ameublements proposés par l'atelier de Lulu Couture.<br><br>📍 178 Rue d'Ardres, 62370 Audruicq<br><br>📞 06 73 01 26 10<br><br>🌐 https://www.facebook.com/latelierdelulucouture/"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Description :<br>Service de réparation et retouche de vêtements, confections et ameublements proposés par l'atelier de Lulu Couture.<br>📅<table><tr><td><strong>mardi et mercredi</strong></td><td><td>09:30 - 12:30</td></tr><td></td><td>14:30 - 18:00</td></tr><tr><td><strong>jeudi</strong></td><td><td>14:30 - 18:00</td></tr><td></td><tr><td><strong>vendredi et samedi</strong></td><td><td>14:30 - 19:00</td></tr><td></td></table><br>📍 178 Rue d'Ardres, 62370 Audruicq<br><br>📞 06 73 01 26 10<br><br>🌐 https://www.facebook.com/latelierdelulucouture/"
             },
             "geometry": {
                 "type": "Point",
