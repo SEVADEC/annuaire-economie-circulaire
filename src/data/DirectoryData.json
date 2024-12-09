@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "update": "29/10/2024, 14:14:25",
+    "update": "09/12/2024 11:19:03",
     "features": [
         {
             "type": "Feature",
@@ -2902,7 +2902,7 @@
             "properties": {
                 "name": "Bike Lover Family",
                 "logo": "",
-                "description": "Thème :<br>- Réemploi / Réparation<br><br>Réparation des vélos classiques, électriques et des trottinettes.<br><br>📍 15 Rue Jean Baptiste Corot, 62100 Calais<br><br>⏲ Tous les jours sauf le mardi<br>       9h - 12h et 14h - 19h<br><br>📞 06 04 01 94 60<br><br>📧 bikeloverfamily@gmail.com <br><br>🌐 https://www.facebook.com/profile.php?id=100095444861222"
+                "description": "Thème :<br>- Réemploi / Réparation<br><br>Réparation des vélos classiques, électriques et des trottinettes.<br>📅<table><tr><td><strong>Tous les jours</strong></td><td>09:00 - 12:00</td><td>14:00 - 19:00</td></tr><tr><td><strong>sauf le mardi</strong></td></tr></table><br>📍 15 Rue Jean Baptiste Corot, 62100 Calais<br>📞 06 04 01 94 60<br><br>📧 bikeloverfamily@gmail.com <br><br>🌐 https://www.facebook.com/profile.php?id=100095444861222"
             },
             "geometry": {
                 "type": "Point",
@@ -2954,6 +2954,21 @@
                 "coordinates": [
                     1.87892,
                     50.947635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Pérégrin",
+                "logo": "",
+                "description": "Thème(s) : <br>- Réemploi / Réparation<br><br>Description : <br>Artisan sellier maroquinier, travaillant le cuir (bovins, ovins et caprins) ainsi que les alternatives nouvelle génération.<br><br>L’upcycling est le fil conducteur de la démarche : un recyclage « par le haut » des produits dont nous n’avons plus l’utilité (peaux animales issues de l’industrie alimentaire, déchets végétaux, etc.).<br><br>📍 17 Allée des Jonquilles, 62231 Coquelles<br><br>📞 07 78 31 75 23 <br><br>📧 contact@leperegrin.fr <br><br>🌐 https://leperegrin.fr/ "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.800695,
+                    50.943552
                 ]
             }
         }
